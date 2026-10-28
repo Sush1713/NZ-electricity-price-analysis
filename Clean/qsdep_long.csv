@@ -1,0 +1,4000 @@
+﻿Town,Date,Price_c_kWh,Component
+New Zealand,2019-02-15,30.06925564,Retail
+New Zealand,2019-05-15,30.11427394,Retail
+New Zealand,2019-08-15,30.1574684,Retail
+New Zealand,2019-11-15,30.69322428,Retail
+New Zealand,2020-02-15,30.84217972,Retail
+New Zealand,2020-05-15,30.68012749,Retail
+New Zealand,2020-08-15,30.62975816,Retail
+New Zealand,2020-11-15,30.51942388,Retail
+New Zealand,2021-02-15,30.4941607,Retail
+New Zealand,2021-05-15,30.81887387,Retail
+New Zealand,2021-08-15,31.16389056,Retail
+New Zealand,2021-11-15,31.4523568,Retail
+New Zealand,2022-02-15,31.90535501,Retail
+New Zealand,2022-05-15,32.35770062,Retail
+New Zealand,2022-08-15,32.5004832,Retail
+New Zealand,2022-11-15,32.5329054,Retail
+New Zealand,2023-02-15,32.86739208,Retail
+New Zealand,2023-05-15,32.99831639,Retail
+New Zealand,2023-08-15,33.50717243,Retail
+New Zealand,2023-11-15,33.73764674,Retail
+New Zealand,2024-02-15,33.61187881,Retail
+New Zealand,2024-05-15,34.70686111,Retail
+New Zealand,2024-08-15,34.94872769,Retail
+New Zealand,2024-11-15,35.35702757,Retail
+New Zealand,2025-02-15,35.6688152,Retail
+New Zealand,2025-05-15,39.25789,Retail
+New Zealand,2025-08-15,39.39041807,Retail
+New Zealand,2025-11-15,39.30210247,Retail
+New Zealand,2026-02-15,40.61305609,Retail
+New Zealand,2026-05-15,42.04154222,Retail
+New Zealand,2026-08-15,42.14765852,Retail
+Timaru,2019-02-15,30.4074734,Retail
+Timaru,2019-05-15,31.61547608,Retail
+Timaru,2019-08-15,31.5857103,Retail
+Timaru,2019-11-15,32.19040316,Retail
+Timaru,2020-02-15,32.25982138,Retail
+Timaru,2020-05-15,31.11971168,Retail
+Timaru,2020-08-15,31.10865667,Retail
+Timaru,2020-11-15,31.10689751,Retail
+Timaru,2021-02-15,31.1424339,Retail
+Timaru,2021-05-15,30.88081417,Retail
+Timaru,2021-08-15,30.5328324,Retail
+Timaru,2021-11-15,30.55950772,Retail
+Timaru,2022-02-15,30.91698163,Retail
+Timaru,2022-05-15,31.30812309,Retail
+Timaru,2022-08-15,32.10565568,Retail
+Timaru,2022-11-15,32.14687102,Retail
+Timaru,2023-02-15,32.39675948,Retail
+Timaru,2023-05-15,33.23772424,Retail
+Timaru,2023-08-15,33.63661104,Retail
+Timaru,2023-11-15,33.93019953,Retail
+Timaru,2024-02-15,34.3590332,Retail
+Timaru,2024-05-15,35.42784601,Retail
+Timaru,2024-08-15,35.20392634,Retail
+Timaru,2024-11-15,36.1404007,Retail
+Timaru,2025-02-15,36.26800679,Retail
+Timaru,2025-05-15,40.6947989,Retail
+Timaru,2025-08-15,40.8004328,Retail
+Timaru,2025-11-15,40.79590761,Retail
+Timaru,2026-02-15,41.84666598,Retail
+Timaru,2026-05-15,43.12808562,Retail
+Timaru,2026-08-15,43.20497765,Retail
+Cromwell,2019-02-15,32.25199408,Retail
+Cromwell,2019-05-15,32.45563835,Retail
+Cromwell,2019-08-15,32.38333559,Retail
+Cromwell,2019-11-15,33.01527443,Retail
+Cromwell,2020-02-15,33.18034907,Retail
+Cromwell,2020-05-15,33.20533629,Retail
+Cromwell,2020-08-15,33.17373136,Retail
+Cromwell,2020-11-15,32.40289125,Retail
+Cromwell,2021-02-15,32.37211399,Retail
+Cromwell,2021-05-15,33.32159181,Retail
+Cromwell,2021-08-15,34.01104529,Retail
+Cromwell,2021-11-15,34.1876173,Retail
+Cromwell,2022-02-15,34.40914305,Retail
+Cromwell,2022-05-15,35.5029691,Retail
+Cromwell,2022-08-15,36.57563184,Retail
+Cromwell,2022-11-15,36.50189286,Retail
+Cromwell,2023-02-15,36.81145772,Retail
+Cromwell,2023-05-15,38.46539932,Retail
+Cromwell,2023-08-15,38.88884601,Retail
+Cromwell,2023-11-15,39.10278742,Retail
+Cromwell,2024-02-15,39.35788419,Retail
+Cromwell,2024-05-15,41.15694896,Retail
+Cromwell,2024-08-15,42.07459452,Retail
+Cromwell,2024-11-15,42.69585505,Retail
+Cromwell,2025-02-15,42.85137497,Retail
+Cromwell,2025-05-15,45.65569098,Retail
+Cromwell,2025-08-15,45.73654262,Retail
+Cromwell,2025-11-15,45.70870191,Retail
+Cromwell,2026-02-15,46.97042967,Retail
+Cromwell,2026-05-15,48.81324254,Retail
+Cromwell,2026-08-15,48.88259053,Retail
+Dunedin,2019-02-15,25.63391759,Retail
+Dunedin,2019-05-15,25.68950608,Retail
+Dunedin,2019-08-15,25.60728768,Retail
+Dunedin,2019-11-15,26.01579498,Retail
+Dunedin,2020-02-15,26.32894259,Retail
+Dunedin,2020-05-15,26.73948538,Retail
+Dunedin,2020-08-15,26.7461006,Retail
+Dunedin,2020-11-15,26.17164541,Retail
+Dunedin,2021-02-15,26.20206893,Retail
+Dunedin,2021-05-15,26.35840813,Retail
+Dunedin,2021-08-15,27.23037539,Retail
+Dunedin,2021-11-15,27.66314633,Retail
+Dunedin,2022-02-15,28.15137889,Retail
+Dunedin,2022-05-15,29.09634164,Retail
+Dunedin,2022-08-15,29.66353344,Retail
+Dunedin,2022-11-15,29.61924985,Retail
+Dunedin,2023-02-15,29.78444489,Retail
+Dunedin,2023-05-15,30.37659549,Retail
+Dunedin,2023-08-15,31.27384155,Retail
+Dunedin,2023-11-15,31.34351658,Retail
+Dunedin,2024-02-15,31.58096959,Retail
+Dunedin,2024-05-15,33.0090801,Retail
+Dunedin,2024-08-15,34.48837526,Retail
+Dunedin,2024-11-15,35.406535,Retail
+Dunedin,2025-02-15,35.54454857,Retail
+Dunedin,2025-05-15,38.65972563,Retail
+Dunedin,2025-08-15,38.81221788,Retail
+Dunedin,2025-11-15,38.74852571,Retail
+Dunedin,2026-02-15,39.65170987,Retail
+Dunedin,2026-05-15,42.43404863,Retail
+Dunedin,2026-08-15,42.4904754,Retail
+Queenstown,2019-02-15,28.41928283,Retail
+Queenstown,2019-05-15,28.50388924,Retail
+Queenstown,2019-08-15,28.48593634,Retail
+Queenstown,2019-11-15,29.00970391,Retail
+Queenstown,2020-02-15,29.11757625,Retail
+Queenstown,2020-05-15,29.16189251,Retail
+Queenstown,2020-08-15,29.13184401,Retail
+Queenstown,2020-11-15,28.26934532,Retail
+Queenstown,2021-02-15,28.28084343,Retail
+Queenstown,2021-05-15,28.72566042,Retail
+Queenstown,2021-08-15,29.29653516,Retail
+Queenstown,2021-11-15,29.74480948,Retail
+Queenstown,2022-02-15,29.9890967,Retail
+Queenstown,2022-05-15,30.81850074,Retail
+Queenstown,2022-08-15,31.86711898,Retail
+Queenstown,2022-11-15,31.72945171,Retail
+Queenstown,2023-02-15,32.09475328,Retail
+Queenstown,2023-05-15,33.01487444,Retail
+Queenstown,2023-08-15,33.48338225,Retail
+Queenstown,2023-11-15,33.68921205,Retail
+Queenstown,2024-02-15,33.874227,Retail
+Queenstown,2024-05-15,35.38665653,Retail
+Queenstown,2024-08-15,35.9503915,Retail
+Queenstown,2024-11-15,36.75177978,Retail
+Queenstown,2025-02-15,36.88564173,Retail
+Queenstown,2025-05-15,39.35638945,Retail
+Queenstown,2025-08-15,39.40877062,Retail
+Queenstown,2025-11-15,39.40295447,Retail
+Queenstown,2026-02-15,40.38538528,Retail
+Queenstown,2026-05-15,42.27167223,Retail
+Queenstown,2026-08-15,42.38389635,Retail
+Westport,2019-02-15,37.98625052,Retail
+Westport,2019-05-15,38.05593237,Retail
+Westport,2019-08-15,38.31247347,Retail
+Westport,2019-11-15,38.64172564,Retail
+Westport,2020-02-15,38.97054794,Retail
+Westport,2020-05-15,39.62516975,Retail
+Westport,2020-08-15,39.58696413,Retail
+Westport,2020-11-15,39.5320647,Retail
+Westport,2021-02-15,39.51877833,Retail
+Westport,2021-05-15,39.66451769,Retail
+Westport,2021-08-15,39.87820684,Retail
+Westport,2021-11-15,39.87166431,Retail
+Westport,2022-02-15,39.85773989,Retail
+Westport,2022-05-15,40.17803262,Retail
+Westport,2022-08-15,40.38149251,Retail
+Westport,2022-11-15,40.35721674,Retail
+Westport,2023-02-15,39.76156106,Retail
+Westport,2023-05-15,40.75234343,Retail
+Westport,2023-08-15,41.04566785,Retail
+Westport,2023-11-15,41.27239061,Retail
+Westport,2024-02-15,41.21083757,Retail
+Westport,2024-05-15,44.0450296,Retail
+Westport,2024-08-15,44.76011144,Retail
+Westport,2024-11-15,45.32772467,Retail
+Westport,2025-02-15,45.44939474,Retail
+Westport,2025-05-15,45.64909221,Retail
+Westport,2025-08-15,45.69368821,Retail
+Westport,2025-11-15,45.72469939,Retail
+Westport,2026-02-15,46.39751992,Retail
+Westport,2026-05-15,47.24044064,Retail
+Westport,2026-08-15,46.95155404,Retail
+Waipukurau,2019-02-15,36.77010858,Retail
+Waipukurau,2019-05-15,36.90677283,Retail
+Waipukurau,2019-08-15,36.96736197,Retail
+Waipukurau,2019-11-15,37.51430939,Retail
+Waipukurau,2020-02-15,37.5832029,Retail
+Waipukurau,2020-05-15,38.07165825,Retail
+Waipukurau,2020-08-15,38.04405225,Retail
+Waipukurau,2020-11-15,38.03314643,Retail
+Waipukurau,2021-02-15,38.09020802,Retail
+Waipukurau,2021-05-15,37.62330158,Retail
+Waipukurau,2021-08-15,37.75375523,Retail
+Waipukurau,2021-11-15,38.06950522,Retail
+Waipukurau,2022-02-15,38.81527383,Retail
+Waipukurau,2022-05-15,39.32245112,Retail
+Waipukurau,2022-08-15,39.02061384,Retail
+Waipukurau,2022-11-15,38.99568881,Retail
+Waipukurau,2023-02-15,39.48784357,Retail
+Waipukurau,2023-05-15,40.24430131,Retail
+Waipukurau,2023-08-15,40.40440357,Retail
+Waipukurau,2023-11-15,40.48875524,Retail
+Waipukurau,2024-02-15,40.62114117,Retail
+Waipukurau,2024-05-15,41.41754374,Retail
+Waipukurau,2024-08-15,41.84887236,Retail
+Waipukurau,2024-11-15,42.35544056,Retail
+Waipukurau,2025-02-15,43.24835259,Retail
+Waipukurau,2025-05-15,46.77589985,Retail
+Waipukurau,2025-08-15,46.92834746,Retail
+Waipukurau,2025-11-15,47.01925446,Retail
+Waipukurau,2026-02-15,48.0367174,Retail
+Waipukurau,2026-05-15,48.37480169,Retail
+Waipukurau,2026-08-15,48.64667528,Retail
+Pukekohe,2019-02-15,30.00184443,Retail
+Pukekohe,2019-05-15,30.18661698,Retail
+Pukekohe,2019-08-15,30.22856287,Retail
+Pukekohe,2019-11-15,30.67769689,Retail
+Pukekohe,2020-02-15,30.92559513,Retail
+Pukekohe,2020-05-15,31.37853462,Retail
+Pukekohe,2020-08-15,31.38637507,Retail
+Pukekohe,2020-11-15,31.19206175,Retail
+Pukekohe,2021-02-15,31.31977556,Retail
+Pukekohe,2021-05-15,31.46579789,Retail
+Pukekohe,2021-08-15,32.27465847,Retail
+Pukekohe,2021-11-15,32.4992049,Retail
+Pukekohe,2022-02-15,33.2919593,Retail
+Pukekohe,2022-05-15,33.93320973,Retail
+Pukekohe,2022-08-15,33.80886738,Retail
+Pukekohe,2022-11-15,33.8798054,Retail
+Pukekohe,2023-02-15,34.38801525,Retail
+Pukekohe,2023-05-15,34.92710989,Retail
+Pukekohe,2023-08-15,35.23497588,Retail
+Pukekohe,2023-11-15,35.44891566,Retail
+Pukekohe,2024-02-15,35.56378783,Retail
+Pukekohe,2024-05-15,36.84492319,Retail
+Pukekohe,2024-08-15,38.8564064,Retail
+Pukekohe,2024-11-15,39.23344551,Retail
+Pukekohe,2025-02-15,39.94047294,Retail
+Pukekohe,2025-05-15,42.6508673,Retail
+Pukekohe,2025-08-15,42.78555922,Retail
+Pukekohe,2025-11-15,42.85160283,Retail
+Pukekohe,2026-02-15,44.40354635,Retail
+Pukekohe,2026-05-15,45.55429272,Retail
+Pukekohe,2026-08-15,45.70024028,Retail
+Gisborne,2019-02-15,34.79306268,Retail
+Gisborne,2019-05-15,34.98527394,Retail
+Gisborne,2019-08-15,34.80496511,Retail
+Gisborne,2019-11-15,35.47923099,Retail
+Gisborne,2020-02-15,35.72637589,Retail
+Gisborne,2020-05-15,35.20392353,Retail
+Gisborne,2020-08-15,35.20492194,Retail
+Gisborne,2020-11-15,35.19541251,Retail
+Gisborne,2021-02-15,34.03472274,Retail
+Gisborne,2021-05-15,34.958021,Retail
+Gisborne,2021-08-15,35.37061881,Retail
+Gisborne,2021-11-15,35.88201342,Retail
+Gisborne,2022-02-15,36.1387851,Retail
+Gisborne,2022-05-15,36.56495075,Retail
+Gisborne,2022-08-15,36.9506824,Retail
+Gisborne,2022-11-15,37.133128,Retail
+Gisborne,2023-02-15,37.15733669,Retail
+Gisborne,2023-05-15,37.18206566,Retail
+Gisborne,2023-08-15,37.13917562,Retail
+Gisborne,2023-11-15,37.60872407,Retail
+Gisborne,2024-02-15,37.59652849,Retail
+Gisborne,2024-05-15,39.26847265,Retail
+Gisborne,2024-08-15,39.61980585,Retail
+Gisborne,2024-11-15,40.37005945,Retail
+Gisborne,2025-02-15,40.64814085,Retail
+Gisborne,2025-05-15,45.02134636,Retail
+Gisborne,2025-08-15,45.29528328,Retail
+Gisborne,2025-11-15,45.27360109,Retail
+Gisborne,2026-02-15,46.01304882,Retail
+Gisborne,2026-05-15,48.25059368,Retail
+Gisborne,2026-08-15,48.36966243,Retail
+Paraparaumu,2019-02-15,28.28962938,Retail
+Paraparaumu,2019-05-15,28.51859769,Retail
+Paraparaumu,2019-08-15,28.73406471,Retail
+Paraparaumu,2019-11-15,29.26524458,Retail
+Paraparaumu,2020-02-15,29.45834685,Retail
+Paraparaumu,2020-05-15,29.697133,Retail
+Paraparaumu,2020-08-15,29.70380492,Retail
+Paraparaumu,2020-11-15,29.46691175,Retail
+Paraparaumu,2021-02-15,29.76529453,Retail
+Paraparaumu,2021-05-15,29.98319391,Retail
+Paraparaumu,2021-08-15,30.53469403,Retail
+Paraparaumu,2021-11-15,30.92815053,Retail
+Paraparaumu,2022-02-15,31.56118035,Retail
+Paraparaumu,2022-05-15,32.37988396,Retail
+Paraparaumu,2022-08-15,32.68463393,Retail
+Paraparaumu,2022-11-15,32.68472447,Retail
+Paraparaumu,2023-02-15,33.43135392,Retail
+Paraparaumu,2023-05-15,34.62514821,Retail
+Paraparaumu,2023-08-15,34.66965116,Retail
+Paraparaumu,2023-11-15,34.96301385,Retail
+Paraparaumu,2024-02-15,35.1679376,Retail
+Paraparaumu,2024-05-15,36.12939635,Retail
+Paraparaumu,2024-08-15,36.14019349,Retail
+Paraparaumu,2024-11-15,36.94740011,Retail
+Paraparaumu,2025-02-15,37.60144552,Retail
+Paraparaumu,2025-05-15,40.90808006,Retail
+Paraparaumu,2025-08-15,41.37188698,Retail
+Paraparaumu,2025-11-15,41.37360601,Retail
+Paraparaumu,2026-02-15,42.25978796,Retail
+Paraparaumu,2026-05-15,44.43322072,Retail
+Paraparaumu,2026-08-15,44.68269039,Retail
+Ashburton,2019-02-15,27.66391324,Retail
+Ashburton,2019-05-15,28.0715444,Retail
+Ashburton,2019-08-15,28.25336825,Retail
+Ashburton,2019-11-15,28.43771884,Retail
+Ashburton,2020-02-15,28.57955501,Retail
+Ashburton,2020-05-15,28.12149043,Retail
+Ashburton,2020-08-15,28.10176808,Retail
+Ashburton,2020-11-15,28.06935978,Retail
+Ashburton,2021-02-15,28.08981307,Retail
+Ashburton,2021-05-15,28.11095481,Retail
+Ashburton,2021-08-15,28.13708831,Retail
+Ashburton,2021-11-15,28.07579292,Retail
+Ashburton,2022-02-15,28.1999877,Retail
+Ashburton,2022-05-15,28.75215451,Retail
+Ashburton,2022-08-15,28.77087627,Retail
+Ashburton,2022-11-15,28.75216124,Retail
+Ashburton,2023-02-15,28.79068232,Retail
+Ashburton,2023-05-15,30.18730002,Retail
+Ashburton,2023-08-15,30.3883599,Retail
+Ashburton,2023-11-15,30.47123289,Retail
+Ashburton,2024-02-15,30.54177523,Retail
+Ashburton,2024-05-15,32.08036472,Retail
+Ashburton,2024-08-15,32.25209499,Retail
+Ashburton,2024-11-15,32.48732999,Retail
+Ashburton,2025-02-15,32.6671397,Retail
+Ashburton,2025-05-15,35.06599418,Retail
+Ashburton,2025-08-15,35.13510121,Retail
+Ashburton,2025-11-15,35.13873563,Retail
+Ashburton,2026-02-15,35.69701508,Retail
+Ashburton,2026-05-15,38.05603794,Retail
+Ashburton,2026-08-15,38.15670244,Retail
+Invercargill,2019-02-15,27.71933023,Retail
+Invercargill,2019-05-15,27.83190605,Retail
+Invercargill,2019-08-15,28.16147214,Retail
+Invercargill,2019-11-15,28.6058133,Retail
+Invercargill,2020-02-15,28.75932289,Retail
+Invercargill,2020-05-15,28.760419,Retail
+Invercargill,2020-08-15,28.75514255,Retail
+Invercargill,2020-11-15,27.84236426,Retail
+Invercargill,2021-02-15,27.9379262,Retail
+Invercargill,2021-05-15,27.77993659,Retail
+Invercargill,2021-08-15,27.97486975,Retail
+Invercargill,2021-11-15,28.64678811,Retail
+Invercargill,2022-02-15,28.80813013,Retail
+Invercargill,2022-05-15,29.07287219,Retail
+Invercargill,2022-08-15,28.37607203,Retail
+Invercargill,2022-11-15,29.86113449,Retail
+Invercargill,2023-02-15,29.79259379,Retail
+Invercargill,2023-05-15,30.28757248,Retail
+Invercargill,2023-08-15,30.38790834,Retail
+Invercargill,2023-11-15,30.82283818,Retail
+Invercargill,2024-02-15,30.80761848,Retail
+Invercargill,2024-05-15,31.79831309,Retail
+Invercargill,2024-08-15,32.2534756,Retail
+Invercargill,2024-11-15,33.10518478,Retail
+Invercargill,2025-02-15,33.24400417,Retail
+Invercargill,2025-05-15,36.45891454,Retail
+Invercargill,2025-08-15,36.6413237,Retail
+Invercargill,2025-11-15,36.60960473,Retail
+Invercargill,2026-02-15,37.32400426,Retail
+Invercargill,2026-05-15,38.81536962,Retail
+Invercargill,2026-08-15,39.01917039,Retail
+Whakatane,2019-02-15,29.77277796,Retail
+Whakatane,2019-05-15,29.20801275,Retail
+Whakatane,2019-08-15,29.22289874,Retail
+Whakatane,2019-11-15,29.80697379,Retail
+Whakatane,2020-02-15,30.46474644,Retail
+Whakatane,2020-05-15,30.05852272,Retail
+Whakatane,2020-08-15,30.06093064,Retail
+Whakatane,2020-11-15,30.0643128,Retail
+Whakatane,2021-02-15,30.75140885,Retail
+Whakatane,2021-05-15,31.34368148,Retail
+Whakatane,2021-08-15,31.62720662,Retail
+Whakatane,2021-11-15,32.14441841,Retail
+Whakatane,2022-02-15,32.48608531,Retail
+Whakatane,2022-05-15,32.59379169,Retail
+Whakatane,2022-08-15,31.5677901,Retail
+Whakatane,2022-11-15,32.67677639,Retail
+Whakatane,2023-02-15,32.98256398,Retail
+Whakatane,2023-05-15,33.57799743,Retail
+Whakatane,2023-08-15,34.24150004,Retail
+Whakatane,2023-11-15,34.16231731,Retail
+Whakatane,2024-02-15,35.1198104,Retail
+Whakatane,2024-05-15,36.44293675,Retail
+Whakatane,2024-08-15,35.87030027,Retail
+Whakatane,2024-11-15,35.99769438,Retail
+Whakatane,2025-02-15,36.16194865,Retail
+Whakatane,2025-05-15,41.1756916,Retail
+Whakatane,2025-08-15,41.39613698,Retail
+Whakatane,2025-11-15,40.77776488,Retail
+Whakatane,2026-02-15,42.33922953,Retail
+Whakatane,2026-05-15,43.23640989,Retail
+Whakatane,2026-08-15,44.04059681,Retail
+Rangiora,2019-02-15,30.44421097,Retail
+Rangiora,2019-05-15,30.65022592,Retail
+Rangiora,2019-08-15,30.92014,Retail
+Rangiora,2019-11-15,31.50199711,Retail
+Rangiora,2020-02-15,31.61119387,Retail
+Rangiora,2020-05-15,30.12156964,Retail
+Rangiora,2020-08-15,30.11304317,Retail
+Rangiora,2020-11-15,30.12325007,Retail
+Rangiora,2021-02-15,29.51640615,Retail
+Rangiora,2021-05-15,30.01086864,Retail
+Rangiora,2021-08-15,30.36628808,Retail
+Rangiora,2021-11-15,31.29353073,Retail
+Rangiora,2022-02-15,31.40948517,Retail
+Rangiora,2022-05-15,32.17946094,Retail
+Rangiora,2022-08-15,32.99686214,Retail
+Rangiora,2022-11-15,33.21050966,Retail
+Rangiora,2023-02-15,33.49340329,Retail
+Rangiora,2023-05-15,34.68726102,Retail
+Rangiora,2023-08-15,34.84974548,Retail
+Rangiora,2023-11-15,35.22455016,Retail
+Rangiora,2024-02-15,35.45372557,Retail
+Rangiora,2024-05-15,36.7145193,Retail
+Rangiora,2024-08-15,38.6145708,Retail
+Rangiora,2024-11-15,39.19400339,Retail
+Rangiora,2025-02-15,39.38533452,Retail
+Rangiora,2025-05-15,44.0474185,Retail
+Rangiora,2025-08-15,44.18737358,Retail
+Rangiora,2025-11-15,44.0951966,Retail
+Rangiora,2026-02-15,45.06129628,Retail
+Rangiora,2026-05-15,45.39276912,Retail
+Rangiora,2026-08-15,45.47793249,Retail
+Kaiapoi,2019-02-15,28.13531249,Retail
+Kaiapoi,2019-05-15,28.31454391,Retail
+Kaiapoi,2019-08-15,28.58925866,Retail
+Kaiapoi,2019-11-15,29.20693228,Retail
+Kaiapoi,2020-02-15,29.2790096,Retail
+Kaiapoi,2020-05-15,29.7829144,Retail
+Kaiapoi,2020-08-15,29.77438794,Retail
+Kaiapoi,2020-11-15,29.78507223,Retail
+Kaiapoi,2021-02-15,29.17822114,Retail
+Kaiapoi,2021-05-15,29.4720121,Retail
+Kaiapoi,2021-08-15,29.83240944,Retail
+Kaiapoi,2021-11-15,30.76232292,Retail
+Kaiapoi,2022-02-15,30.86478727,Retail
+Kaiapoi,2022-05-15,31.5543041,Retail
+Kaiapoi,2022-08-15,32.61567811,Retail
+Kaiapoi,2022-11-15,32.82932563,Retail
+Kaiapoi,2023-02-15,33.11221926,Retail
+Kaiapoi,2023-05-15,34.30726102,Retail
+Kaiapoi,2023-08-15,34.46974548,Retail
+Kaiapoi,2023-11-15,34.84455016,Retail
+Kaiapoi,2024-02-15,35.07372557,Retail
+Kaiapoi,2024-05-15,36.3345193,Retail
+Kaiapoi,2024-08-15,38.2345708,Retail
+Kaiapoi,2024-11-15,38.81400339,Retail
+Kaiapoi,2025-02-15,39.00533452,Retail
+Kaiapoi,2025-05-15,43.6674185,Retail
+Kaiapoi,2025-08-15,43.80737358,Retail
+Kaiapoi,2025-11-15,43.7151966,Retail
+Kaiapoi,2026-02-15,44.68129628,Retail
+Kaiapoi,2026-05-15,45.01276912,Retail
+Kaiapoi,2026-08-15,45.09793249,Retail
+Blenheim,2019-02-15,34.90358298,Retail
+Blenheim,2019-05-15,34.90060417,Retail
+Blenheim,2019-08-15,35.26813412,Retail
+Blenheim,2019-11-15,35.5403117,Retail
+Blenheim,2020-02-15,35.68554103,Retail
+Blenheim,2020-05-15,36.39693685,Retail
+Blenheim,2020-08-15,36.36526322,Retail
+Blenheim,2020-11-15,36.30538595,Retail
+Blenheim,2021-02-15,36.33224705,Retail
+Blenheim,2021-05-15,36.91461418,Retail
+Blenheim,2021-08-15,37.22308999,Retail
+Blenheim,2021-11-15,37.27330893,Retail
+Blenheim,2022-02-15,37.57149988,Retail
+Blenheim,2022-05-15,37.98277731,Retail
+Blenheim,2022-08-15,37.91309457,Retail
+Blenheim,2022-11-15,37.8608305,Retail
+Blenheim,2023-02-15,37.84803505,Retail
+Blenheim,2023-05-15,38.62335114,Retail
+Blenheim,2023-08-15,39.0406309,Retail
+Blenheim,2023-11-15,39.01949255,Retail
+Blenheim,2024-02-15,39.08040354,Retail
+Blenheim,2024-05-15,40.95001511,Retail
+Blenheim,2024-08-15,41.26820073,Retail
+Blenheim,2024-11-15,41.61680158,Retail
+Blenheim,2025-02-15,41.85331991,Retail
+Blenheim,2025-05-15,44.43781228,Retail
+Blenheim,2025-08-15,44.60912778,Retail
+Blenheim,2025-11-15,44.60793711,Retail
+Blenheim,2026-02-15,45.64997552,Retail
+Blenheim,2026-05-15,46.99683428,Retail
+Blenheim,2026-08-15,47.12121462,Retail
+Nelson,2019-02-15,29.79235511,Retail
+Nelson,2019-05-15,29.44642476,Retail
+Nelson,2019-08-15,30.01611412,Retail
+Nelson,2019-11-15,30.23989762,Retail
+Nelson,2020-02-15,30.21096198,Retail
+Nelson,2020-05-15,30.42580582,Retail
+Nelson,2020-08-15,30.42260394,Retail
+Nelson,2020-11-15,30.35105201,Retail
+Nelson,2021-02-15,30.4037016,Retail
+Nelson,2021-05-15,30.4384246,Retail
+Nelson,2021-08-15,30.84931944,Retail
+Nelson,2021-11-15,31.12810477,Retail
+Nelson,2022-02-15,31.32317288,Retail
+Nelson,2022-05-15,31.53964639,Retail
+Nelson,2022-08-15,31.47290937,Retail
+Nelson,2022-11-15,31.37972043,Retail
+Nelson,2023-02-15,30.89165268,Retail
+Nelson,2023-05-15,31.23624791,Retail
+Nelson,2023-08-15,31.66862249,Retail
+Nelson,2023-11-15,31.72477109,Retail
+Nelson,2024-02-15,31.43485543,Retail
+Nelson,2024-05-15,33.08269581,Retail
+Nelson,2024-08-15,33.1673206,Retail
+Nelson,2024-11-15,33.71815249,Retail
+Nelson,2025-02-15,34.35278885,Retail
+Nelson,2025-05-15,36.15735001,Retail
+Nelson,2025-08-15,36.43395256,Retail
+Nelson,2025-11-15,36.40239908,Retail
+Nelson,2026-02-15,37.10833883,Retail
+Nelson,2026-05-15,38.77845399,Retail
+Nelson,2026-08-15,38.43164093,Retail
+Richmond,2019-02-15,27.92991383,Retail
+Richmond,2019-05-15,27.52265226,Retail
+Richmond,2019-08-15,28.05649077,Retail
+Richmond,2019-11-15,28.524591,Retail
+Richmond,2020-02-15,28.65771115,Retail
+Richmond,2020-05-15,29.38155814,Retail
+Richmond,2020-08-15,29.39990318,Retail
+Richmond,2020-11-15,29.39854644,Retail
+Richmond,2021-02-15,28.8378721,Retail
+Richmond,2021-05-15,29.16018164,Retail
+Richmond,2021-08-15,30.53468479,Retail
+Richmond,2021-11-15,31.01407022,Retail
+Richmond,2022-02-15,31.32552968,Retail
+Richmond,2022-05-15,31.53210475,Retail
+Richmond,2022-08-15,31.77562209,Retail
+Richmond,2022-11-15,31.81199402,Retail
+Richmond,2023-02-15,31.88715986,Retail
+Richmond,2023-05-15,32.25531959,Retail
+Richmond,2023-08-15,32.56890447,Retail
+Richmond,2023-11-15,32.28756938,Retail
+Richmond,2024-02-15,32.77943006,Retail
+Richmond,2024-05-15,33.88464468,Retail
+Richmond,2024-08-15,33.46020686,Retail
+Richmond,2024-11-15,34.35201185,Retail
+Richmond,2025-02-15,34.68773426,Retail
+Richmond,2025-05-15,36.84604175,Retail
+Richmond,2025-08-15,37.02958784,Retail
+Richmond,2025-11-15,37.03595756,Retail
+Richmond,2026-02-15,37.69585265,Retail
+Richmond,2026-05-15,39.44195841,Retail
+Richmond,2026-08-15,38.78495193,Retail
+Oamaru,2019-02-15,27.92868396,Retail
+Oamaru,2019-05-15,28.16513005,Retail
+Oamaru,2019-08-15,28.60881474,Retail
+Oamaru,2019-11-15,28.92653987,Retail
+Oamaru,2020-02-15,28.98029169,Retail
+Oamaru,2020-05-15,29.47021496,Retail
+Oamaru,2020-08-15,29.46945552,Retail
+Oamaru,2020-11-15,29.47458692,Retail
+Oamaru,2021-02-15,29.52611978,Retail
+Oamaru,2021-05-15,30.22527536,Retail
+Oamaru,2021-08-15,30.676821,Retail
+Oamaru,2021-11-15,30.80613854,Retail
+Oamaru,2022-02-15,30.94988051,Retail
+Oamaru,2022-05-15,32.28264196,Retail
+Oamaru,2022-08-15,32.37611972,Retail
+Oamaru,2022-11-15,32.5100872,Retail
+Oamaru,2023-02-15,32.71407452,Retail
+Oamaru,2023-05-15,33.74033281,Retail
+Oamaru,2023-08-15,34.11765422,Retail
+Oamaru,2023-11-15,34.27891601,Retail
+Oamaru,2024-02-15,34.39627523,Retail
+Oamaru,2024-05-15,36.73763793,Retail
+Oamaru,2024-08-15,37.11616782,Retail
+Oamaru,2024-11-15,37.39505449,Retail
+Oamaru,2025-02-15,37.53854623,Retail
+Oamaru,2025-05-15,41.75928343,Retail
+Oamaru,2025-08-15,41.86968535,Retail
+Oamaru,2025-11-15,41.81166183,Retail
+Oamaru,2026-02-15,42.63676127,Retail
+Oamaru,2026-05-15,44.65674572,Retail
+Oamaru,2026-08-15,44.72317233,Retail
+Whangarei,2019-02-15,31.09344614,Retail
+Whangarei,2019-05-15,31.09833817,Retail
+Whangarei,2019-08-15,31.15826647,Retail
+Whangarei,2019-11-15,31.74309153,Retail
+Whangarei,2020-02-15,31.92593483,Retail
+Whangarei,2020-05-15,32.60132521,Retail
+Whangarei,2020-08-15,32.58612249,Retail
+Whangarei,2020-11-15,32.57419756,Retail
+Whangarei,2021-02-15,32.64170071,Retail
+Whangarei,2021-05-15,32.58052196,Retail
+Whangarei,2021-08-15,33.07591986,Retail
+Whangarei,2021-11-15,33.2593754,Retail
+Whangarei,2022-02-15,33.87988612,Retail
+Whangarei,2022-05-15,34.5345598,Retail
+Whangarei,2022-08-15,34.38475268,Retail
+Whangarei,2022-11-15,34.37284478,Retail
+Whangarei,2023-02-15,34.89457379,Retail
+Whangarei,2023-05-15,34.49952173,Retail
+Whangarei,2023-08-15,36.13696127,Retail
+Whangarei,2023-11-15,35.95245813,Retail
+Whangarei,2024-02-15,36.21410582,Retail
+Whangarei,2024-05-15,37.84413465,Retail
+Whangarei,2024-08-15,38.15062959,Retail
+Whangarei,2024-11-15,38.54938112,Retail
+Whangarei,2025-02-15,38.70464294,Retail
+Whangarei,2025-05-15,42.17188664,Retail
+Whangarei,2025-08-15,42.22032504,Retail
+Whangarei,2025-11-15,42.21498943,Retail
+Whangarei,2026-02-15,43.13679506,Retail
+Whangarei,2026-05-15,44.37014982,Retail
+Whangarei,2026-08-15,44.53177739,Retail
+Christchurch,2019-02-15,28.98031185,Retail
+Christchurch,2019-05-15,28.51686989,Retail
+Christchurch,2019-08-15,28.50828395,Retail
+Christchurch,2019-11-15,28.93652058,Retail
+Christchurch,2020-02-15,29.08289749,Retail
+Christchurch,2020-05-15,29.13040589,Retail
+Christchurch,2020-08-15,28.98094587,Retail
+Christchurch,2020-11-15,29.00675724,Retail
+Christchurch,2021-02-15,28.8211158,Retail
+Christchurch,2021-05-15,28.74354872,Retail
+Christchurch,2021-08-15,29.22281502,Retail
+Christchurch,2021-11-15,29.59765766,Retail
+Christchurch,2022-02-15,29.97733047,Retail
+Christchurch,2022-05-15,30.35936286,Retail
+Christchurch,2022-08-15,30.37618076,Retail
+Christchurch,2022-11-15,30.35837247,Retail
+Christchurch,2023-02-15,30.49388314,Retail
+Christchurch,2023-05-15,29.75022486,Retail
+Christchurch,2023-08-15,30.7539526,Retail
+Christchurch,2023-11-15,31.13576804,Retail
+Christchurch,2024-02-15,30.32974577,Retail
+Christchurch,2024-05-15,31.26670172,Retail
+Christchurch,2024-08-15,31.57955181,Retail
+Christchurch,2024-11-15,31.14177931,Retail
+Christchurch,2025-02-15,31.93472957,Retail
+Christchurch,2025-05-15,35.70292424,Retail
+Christchurch,2025-08-15,35.68773245,Retail
+Christchurch,2025-11-15,35.53832912,Retail
+Christchurch,2026-02-15,36.64131174,Retail
+Christchurch,2026-05-15,38.52606751,Retail
+Christchurch,2026-08-15,38.608312,Retail
+Balclutha,2019-02-15,41.89778208,Retail
+Balclutha,2019-05-15,42.0754747,Retail
+Balclutha,2019-08-15,42.11991345,Retail
+Balclutha,2019-11-15,42.57979999,Retail
+Balclutha,2020-02-15,42.67950871,Retail
+Balclutha,2020-05-15,41.55379071,Retail
+Balclutha,2020-08-15,41.52136792,Retail
+Balclutha,2020-11-15,41.05844862,Retail
+Balclutha,2021-02-15,41.08088883,Retail
+Balclutha,2021-05-15,40.80320578,Retail
+Balclutha,2021-08-15,40.93580141,Retail
+Balclutha,2021-11-15,40.94915353,Retail
+Balclutha,2022-02-15,41.12311057,Retail
+Balclutha,2022-05-15,40.55307099,Retail
+Balclutha,2022-08-15,40.63204562,Retail
+Balclutha,2022-11-15,40.324865,Retail
+Balclutha,2023-02-15,40.27464556,Retail
+Balclutha,2023-05-15,41.27261207,Retail
+Balclutha,2023-08-15,41.54478176,Retail
+Balclutha,2023-11-15,41.72649117,Retail
+Balclutha,2024-02-15,41.83167355,Retail
+Balclutha,2024-05-15,43.59720593,Retail
+Balclutha,2024-08-15,43.66192107,Retail
+Balclutha,2024-11-15,44.33486474,Retail
+Balclutha,2025-02-15,44.50300947,Retail
+Balclutha,2025-05-15,48.88073329,Retail
+Balclutha,2025-08-15,48.96135974,Retail
+Balclutha,2025-11-15,48.92546366,Retail
+Balclutha,2026-02-15,50.330216,Retail
+Balclutha,2026-05-15,52.52435288,Retail
+Balclutha,2026-08-15,50.99695216,Retail
+Hawera,2019-02-15,33.53396715,Retail
+Hawera,2019-05-15,33.47649598,Retail
+Hawera,2019-08-15,33.48745487,Retail
+Hawera,2019-11-15,34.31635868,Retail
+Hawera,2020-02-15,34.56616629,Retail
+Hawera,2020-05-15,33.52961126,Retail
+Hawera,2020-08-15,33.50222722,Retail
+Hawera,2020-11-15,33.46920023,Retail
+Hawera,2021-02-15,33.6695773,Retail
+Hawera,2021-05-15,33.93137654,Retail
+Hawera,2021-08-15,34.04279957,Retail
+Hawera,2021-11-15,34.32618042,Retail
+Hawera,2022-02-15,34.56551489,Retail
+Hawera,2022-05-15,35.36955735,Retail
+Hawera,2022-08-15,35.62681153,Retail
+Hawera,2022-11-15,35.64558317,Retail
+Hawera,2023-02-15,36.34720678,Retail
+Hawera,2023-05-15,37.22080411,Retail
+Hawera,2023-08-15,37.27787497,Retail
+Hawera,2023-11-15,37.47106893,Retail
+Hawera,2024-02-15,38.07203054,Retail
+Hawera,2024-05-15,38.95048691,Retail
+Hawera,2024-08-15,38.96547796,Retail
+Hawera,2024-11-15,39.25537476,Retail
+Hawera,2025-02-15,39.4904845,Retail
+Hawera,2025-05-15,44.89989374,Retail
+Hawera,2025-08-15,44.97758253,Retail
+Hawera,2025-11-15,44.97958504,Retail
+Hawera,2026-02-15,46.54564441,Retail
+Hawera,2026-05-15,47.88225915,Retail
+Hawera,2026-08-15,48.40934956,Retail
+Palmerston North,2019-02-15,29.92924865,Retail
+Palmerston North,2019-05-15,30.26263834,Retail
+Palmerston North,2019-08-15,30.24639491,Retail
+Palmerston North,2019-11-15,30.88879561,Retail
+Palmerston North,2020-02-15,31.09536077,Retail
+Palmerston North,2020-05-15,30.3560355,Retail
+Palmerston North,2020-08-15,30.32651825,Retail
+Palmerston North,2020-11-15,30.03897188,Retail
+Palmerston North,2021-02-15,30.18630073,Retail
+Palmerston North,2021-05-15,30.39357195,Retail
+Palmerston North,2021-08-15,30.63640446,Retail
+Palmerston North,2021-11-15,30.97066257,Retail
+Palmerston North,2022-02-15,31.19779518,Retail
+Palmerston North,2022-05-15,31.91407893,Retail
+Palmerston North,2022-08-15,32.26474803,Retail
+Palmerston North,2022-11-15,32.25737591,Retail
+Palmerston North,2023-02-15,32.83375774,Retail
+Palmerston North,2023-05-15,33.43198325,Retail
+Palmerston North,2023-08-15,33.47842008,Retail
+Palmerston North,2023-11-15,33.75895489,Retail
+Palmerston North,2024-02-15,33.95091319,Retail
+Palmerston North,2024-05-15,34.58526489,Retail
+Palmerston North,2024-08-15,34.71711805,Retail
+Palmerston North,2024-11-15,35.10925524,Retail
+Palmerston North,2025-02-15,35.30594644,Retail
+Palmerston North,2025-05-15,39.81732876,Retail
+Palmerston North,2025-08-15,39.90510187,Retail
+Palmerston North,2025-11-15,39.88991,Retail
+Palmerston North,2026-02-15,41.25244904,Retail
+Palmerston North,2026-05-15,42.72504054,Retail
+Palmerston North,2026-08-15,43.08400019,Retail
+New Plymouth,2019-02-15,29.799061,Retail
+New Plymouth,2019-05-15,29.99856644,Retail
+New Plymouth,2019-08-15,30.11710584,Retail
+New Plymouth,2019-11-15,30.73520534,Retail
+New Plymouth,2020-02-15,30.99767084,Retail
+New Plymouth,2020-05-15,30.17618467,Retail
+New Plymouth,2020-08-15,30.15035619,Retail
+New Plymouth,2020-11-15,30.1252433,Retail
+New Plymouth,2021-02-15,30.32418453,Retail
+New Plymouth,2021-05-15,30.55229183,Retail
+New Plymouth,2021-08-15,30.65053563,Retail
+New Plymouth,2021-11-15,30.92533332,Retail
+New Plymouth,2022-02-15,31.05985616,Retail
+New Plymouth,2022-05-15,31.78563806,Retail
+New Plymouth,2022-08-15,32.03885991,Retail
+New Plymouth,2022-11-15,32.05639774,Retail
+New Plymouth,2023-02-15,32.67843333,Retail
+New Plymouth,2023-05-15,33.45149767,Retail
+New Plymouth,2023-08-15,33.71474477,Retail
+New Plymouth,2023-11-15,33.91761662,Retail
+New Plymouth,2024-02-15,34.46758767,Retail
+New Plymouth,2024-05-15,35.06401251,Retail
+New Plymouth,2024-08-15,35.11413265,Retail
+New Plymouth,2024-11-15,35.37528026,Retail
+New Plymouth,2025-02-15,35.54966057,Retail
+New Plymouth,2025-05-15,40.15954175,Retail
+New Plymouth,2025-08-15,40.25313515,Retail
+New Plymouth,2025-11-15,40.23700109,Retail
+New Plymouth,2026-02-15,41.80949949,Retail
+New Plymouth,2026-05-15,43.03551474,Retail
+New Plymouth,2026-08-15,43.46715435,Retail
+Tauranga,2019-02-15,33.07899398,Retail
+Tauranga,2019-05-15,33.09832358,Retail
+Tauranga,2019-08-15,33.07382954,Retail
+Tauranga,2019-11-15,33.82129619,Retail
+Tauranga,2020-02-15,33.8730053,Retail
+Tauranga,2020-05-15,33.44797735,Retail
+Tauranga,2020-08-15,33.41695846,Retail
+Tauranga,2020-11-15,33.36574783,Retail
+Tauranga,2021-02-15,33.32345837,Retail
+Tauranga,2021-05-15,34.17864214,Retail
+Tauranga,2021-08-15,34.24848944,Retail
+Tauranga,2021-11-15,34.28278403,Retail
+Tauranga,2022-02-15,35.05773676,Retail
+Tauranga,2022-05-15,35.25427077,Retail
+Tauranga,2022-08-15,35.43499643,Retail
+Tauranga,2022-11-15,35.40282283,Retail
+Tauranga,2023-02-15,35.63359007,Retail
+Tauranga,2023-05-15,36.46876554,Retail
+Tauranga,2023-08-15,36.98839148,Retail
+Tauranga,2023-11-15,37.00331041,Retail
+Tauranga,2024-02-15,36.95412885,Retail
+Tauranga,2024-05-15,38.38066439,Retail
+Tauranga,2024-08-15,38.66242216,Retail
+Tauranga,2024-11-15,38.66698196,Retail
+Tauranga,2025-02-15,38.87278879,Retail
+Tauranga,2025-05-15,42.16150268,Retail
+Tauranga,2025-08-15,42.43213552,Retail
+Tauranga,2025-11-15,42.27023011,Retail
+Tauranga,2026-02-15,44.22495569,Retail
+Tauranga,2026-05-15,45.03110302,Retail
+Tauranga,2026-08-15,45.01467331,Retail
+Thames,2019-02-15,32.31717056,Retail
+Thames,2019-05-15,32.3379322,Retail
+Thames,2019-08-15,32.31712058,Retail
+Thames,2019-11-15,33.14566228,Retail
+Thames,2020-02-15,33.24260265,Retail
+Thames,2020-05-15,32.64243414,Retail
+Thames,2020-08-15,32.64665425,Retail
+Thames,2020-11-15,32.62476316,Retail
+Thames,2021-02-15,32.69334858,Retail
+Thames,2021-05-15,32.79215991,Retail
+Thames,2021-08-15,32.99062014,Retail
+Thames,2021-11-15,33.02709748,Retail
+Thames,2022-02-15,33.56779144,Retail
+Thames,2022-05-15,34.05278315,Retail
+Thames,2022-08-15,34.21451621,Retail
+Thames,2022-11-15,34.18694618,Retail
+Thames,2023-02-15,34.94228372,Retail
+Thames,2023-05-15,34.72252466,Retail
+Thames,2023-08-15,35.41311026,Retail
+Thames,2023-11-15,35.58872458,Retail
+Thames,2024-02-15,35.4303348,Retail
+Thames,2024-05-15,36.29409803,Retail
+Thames,2024-08-15,36.7171518,Retail
+Thames,2024-11-15,37.21292024,Retail
+Thames,2025-02-15,37.46447942,Retail
+Thames,2025-05-15,41.08434476,Retail
+Thames,2025-08-15,41.17374217,Retail
+Thames,2025-11-15,41.1722777,Retail
+Thames,2026-02-15,42.8838673,Retail
+Thames,2026-05-15,44.02643086,Retail
+Thames,2026-08-15,44.19498796,Retail
+Masterton,2019-02-15,33.50048785,Retail
+Masterton,2019-05-15,33.48646926,Retail
+Masterton,2019-08-15,33.41106609,Retail
+Masterton,2019-11-15,34.1372476,Retail
+Masterton,2020-02-15,34.24483006,Retail
+Masterton,2020-05-15,33.38421958,Retail
+Masterton,2020-08-15,33.3472631,Retail
+Masterton,2020-11-15,33.29160532,Retail
+Masterton,2021-02-15,33.39224331,Retail
+Masterton,2021-05-15,33.44516788,Retail
+Masterton,2021-08-15,33.92309094,Retail
+Masterton,2021-11-15,34.0400421,Retail
+Masterton,2022-02-15,34.09658731,Retail
+Masterton,2022-05-15,34.82313827,Retail
+Masterton,2022-08-15,35.14092334,Retail
+Masterton,2022-11-15,35.13614737,Retail
+Masterton,2023-02-15,35.80171816,Retail
+Masterton,2023-05-15,36.91481078,Retail
+Masterton,2023-08-15,37.25684399,Retail
+Masterton,2023-11-15,37.38527108,Retail
+Masterton,2024-02-15,37.65608578,Retail
+Masterton,2024-05-15,38.66042476,Retail
+Masterton,2024-08-15,38.82171704,Retail
+Masterton,2024-11-15,39.22885708,Retail
+Masterton,2025-02-15,39.47510602,Retail
+Masterton,2025-05-15,44.6024511,Retail
+Masterton,2025-08-15,44.69256222,Retail
+Masterton,2025-11-15,44.70302929,Retail
+Masterton,2026-02-15,46.15782199,Retail
+Masterton,2026-05-15,47.97470598,Retail
+Masterton,2026-08-15,48.26893561,Retail
+Whanganui,2019-02-15,31.1141633,Retail
+Whanganui,2019-05-15,31.25749854,Retail
+Whanganui,2019-08-15,31.27524088,Retail
+Whanganui,2019-11-15,31.86857136,Retail
+Whanganui,2020-02-15,31.99189094,Retail
+Whanganui,2020-05-15,31.26303344,Retail
+Whanganui,2020-08-15,31.24108052,Retail
+Whanganui,2020-11-15,31.21999463,Retail
+Whanganui,2021-02-15,31.28395531,Retail
+Whanganui,2021-05-15,31.6442755,Retail
+Whanganui,2021-08-15,31.82978789,Retail
+Whanganui,2021-11-15,31.84581842,Retail
+Whanganui,2022-02-15,32.13193749,Retail
+Whanganui,2022-05-15,32.76047208,Retail
+Whanganui,2022-08-15,33.03030687,Retail
+Whanganui,2022-11-15,33.01884005,Retail
+Whanganui,2023-02-15,33.62701388,Retail
+Whanganui,2023-05-15,34.18974761,Retail
+Whanganui,2023-08-15,34.67297423,Retail
+Whanganui,2023-11-15,34.90259056,Retail
+Whanganui,2024-02-15,35.20861486,Retail
+Whanganui,2024-05-15,35.93745551,Retail
+Whanganui,2024-08-15,35.88701436,Retail
+Whanganui,2024-11-15,36.14856727,Retail
+Whanganui,2025-02-15,36.33815196,Retail
+Whanganui,2025-05-15,40.72516995,Retail
+Whanganui,2025-08-15,40.85886524,Retail
+Whanganui,2025-11-15,40.81643165,Retail
+Whanganui,2026-02-15,42.49421706,Retail
+Whanganui,2026-05-15,43.82389334,Retail
+Whanganui,2026-08-15,44.04601299,Retail
+Dannevirke,2019-02-15,32.34875253,Retail
+Dannevirke,2019-05-15,32.59668555,Retail
+Dannevirke,2019-08-15,32.7013754,Retail
+Dannevirke,2019-11-15,33.25030852,Retail
+Dannevirke,2020-02-15,33.36265352,Retail
+Dannevirke,2020-05-15,33.83804382,Retail
+Dannevirke,2020-08-15,33.85183489,Retail
+Dannevirke,2020-11-15,33.8396614,Retail
+Dannevirke,2021-02-15,33.93198714,Retail
+Dannevirke,2021-05-15,34.19465462,Retail
+Dannevirke,2021-08-15,34.26617091,Retail
+Dannevirke,2021-11-15,34.56523542,Retail
+Dannevirke,2022-02-15,34.96005014,Retail
+Dannevirke,2022-05-15,35.88036609,Retail
+Dannevirke,2022-08-15,35.73989446,Retail
+Dannevirke,2022-11-15,35.75740409,Retail
+Dannevirke,2023-02-15,36.20012754,Retail
+Dannevirke,2023-05-15,37.86904459,Retail
+Dannevirke,2023-08-15,38.00255609,Retail
+Dannevirke,2023-11-15,38.23414176,Retail
+Dannevirke,2024-02-15,38.56824386,Retail
+Dannevirke,2024-05-15,39.3159266,Retail
+Dannevirke,2024-08-15,39.57402729,Retail
+Dannevirke,2024-11-15,40.05579997,Retail
+Dannevirke,2025-02-15,40.45079024,Retail
+Dannevirke,2025-05-15,43.50815928,Retail
+Dannevirke,2025-08-15,43.58588155,Retail
+Dannevirke,2025-11-15,43.61778941,Retail
+Dannevirke,2026-02-15,44.3763458,Retail
+Dannevirke,2026-05-15,46.19078309,Retail
+Dannevirke,2026-08-15,46.37917725,Retail
+Taumaranui,2019-02-15,33.95886298,Retail
+Taumaranui,2019-05-15,34.00755372,Retail
+Taumaranui,2019-08-15,33.93543996,Retail
+Taumaranui,2019-11-15,34.07621892,Retail
+Taumaranui,2020-02-15,34.84424615,Retail
+Taumaranui,2020-05-15,33.53087985,Retail
+Taumaranui,2020-08-15,33.57126364,Retail
+Taumaranui,2020-11-15,33.49742102,Retail
+Taumaranui,2021-02-15,33.5129586,Retail
+Taumaranui,2021-05-15,35.10046661,Retail
+Taumaranui,2021-08-15,35.08808983,Retail
+Taumaranui,2021-11-15,35.34690575,Retail
+Taumaranui,2022-02-15,35.59070438,Retail
+Taumaranui,2022-05-15,35.937187,Retail
+Taumaranui,2022-08-15,35.98929961,Retail
+Taumaranui,2022-11-15,36.23848325,Retail
+Taumaranui,2023-02-15,36.44907043,Retail
+Taumaranui,2023-05-15,37.11067197,Retail
+Taumaranui,2023-08-15,37.2746732,Retail
+Taumaranui,2023-11-15,37.3092355,Retail
+Taumaranui,2024-02-15,37.45157013,Retail
+Taumaranui,2024-05-15,39.57458805,Retail
+Taumaranui,2024-08-15,39.84787707,Retail
+Taumaranui,2024-11-15,40.13373989,Retail
+Taumaranui,2025-02-15,40.48719944,Retail
+Taumaranui,2025-05-15,42.75967744,Retail
+Taumaranui,2025-08-15,42.84348468,Retail
+Taumaranui,2025-11-15,42.79052715,Retail
+Taumaranui,2026-02-15,44.85139445,Retail
+Taumaranui,2026-05-15,45.92048579,Retail
+Taumaranui,2026-08-15,45.97467448,Retail
+Otorohanga,2019-02-15,33.95886298,Retail
+Otorohanga,2019-05-15,34.00755372,Retail
+Otorohanga,2019-08-15,33.93543996,Retail
+Otorohanga,2019-11-15,34.07621892,Retail
+Otorohanga,2020-02-15,34.84424615,Retail
+Otorohanga,2020-05-15,33.53087985,Retail
+Otorohanga,2020-08-15,33.57126364,Retail
+Otorohanga,2020-11-15,33.49742102,Retail
+Otorohanga,2021-02-15,33.5129586,Retail
+Otorohanga,2021-05-15,35.10046661,Retail
+Otorohanga,2021-08-15,35.08808983,Retail
+Otorohanga,2021-11-15,35.34690575,Retail
+Otorohanga,2022-02-15,35.59070438,Retail
+Otorohanga,2022-05-15,35.937187,Retail
+Otorohanga,2022-08-15,35.98929961,Retail
+Otorohanga,2022-11-15,36.23848325,Retail
+Otorohanga,2023-02-15,36.44907043,Retail
+Otorohanga,2023-05-15,37.11067197,Retail
+Otorohanga,2023-08-15,37.2746732,Retail
+Otorohanga,2023-11-15,37.3092355,Retail
+Otorohanga,2024-02-15,37.45157013,Retail
+Otorohanga,2024-05-15,39.57458805,Retail
+Otorohanga,2024-08-15,39.84787707,Retail
+Otorohanga,2024-11-15,40.13373989,Retail
+Otorohanga,2025-02-15,40.48719944,Retail
+Otorohanga,2025-05-15,42.75967744,Retail
+Otorohanga,2025-08-15,42.84348468,Retail
+Otorohanga,2025-11-15,42.79052715,Retail
+Otorohanga,2026-02-15,44.85139445,Retail
+Otorohanga,2026-05-15,45.92048579,Retail
+Otorohanga,2026-08-15,45.97467448,Retail
+Winton,2019-02-15,32.01729413,Retail
+Winton,2019-05-15,32.23644164,Retail
+Winton,2019-08-15,32.45828733,Retail
+Winton,2019-11-15,32.94352346,Retail
+Winton,2020-02-15,33.00012932,Retail
+Winton,2020-05-15,33.5278829,Retail
+Winton,2020-08-15,33.51741247,Retail
+Winton,2020-11-15,32.65374802,Retail
+Winton,2021-02-15,32.70071484,Retail
+Winton,2021-05-15,32.93916935,Retail
+Winton,2021-08-15,33.43333877,Retail
+Winton,2021-11-15,34.24269733,Retail
+Winton,2022-02-15,34.34393835,Retail
+Winton,2022-05-15,34.45113036,Retail
+Winton,2022-08-15,33.77181617,Retail
+Winton,2022-11-15,35.28018366,Retail
+Winton,2023-02-15,35.21602848,Retail
+Winton,2023-05-15,36.08064671,Retail
+Winton,2023-08-15,36.177288,Retail
+Winton,2023-11-15,36.63475485,Retail
+Winton,2024-02-15,36.59569913,Retail
+Winton,2024-05-15,37.75312863,Retail
+Winton,2024-08-15,38.2076875,Retail
+Winton,2024-11-15,39.16166093,Retail
+Winton,2025-02-15,39.34785731,Retail
+Winton,2025-05-15,41.35754817,Retail
+Winton,2025-08-15,41.39012408,Retail
+Winton,2025-11-15,41.38115443,Retail
+Winton,2026-02-15,42.04630212,Retail
+Winton,2026-05-15,43.98047402,Retail
+Winton,2026-08-15,44.17344455,Retail
+Kerikeri,2019-02-15,41.15839365,Retail
+Kerikeri,2019-05-15,42.59556845,Retail
+Kerikeri,2019-08-15,41.91769374,Retail
+Kerikeri,2019-11-15,42.76238247,Retail
+Kerikeri,2020-02-15,42.81139366,Retail
+Kerikeri,2020-05-15,41.6742007,Retail
+Kerikeri,2020-08-15,41.68151948,Retail
+Kerikeri,2020-11-15,41.64828248,Retail
+Kerikeri,2021-02-15,41.62117632,Retail
+Kerikeri,2021-05-15,41.81097242,Retail
+Kerikeri,2021-08-15,42.97268081,Retail
+Kerikeri,2021-11-15,42.96788291,Retail
+Kerikeri,2022-02-15,43.95394864,Retail
+Kerikeri,2022-05-15,43.59660631,Retail
+Kerikeri,2022-08-15,43.64503807,Retail
+Kerikeri,2022-11-15,43.26735727,Retail
+Kerikeri,2023-02-15,43.56271531,Retail
+Kerikeri,2023-05-15,42.57533589,Retail
+Kerikeri,2023-08-15,43.60959921,Retail
+Kerikeri,2023-11-15,44.03954916,Retail
+Kerikeri,2024-02-15,44.21379943,Retail
+Kerikeri,2024-05-15,45.59235356,Retail
+Kerikeri,2024-08-15,44.24074519,Retail
+Kerikeri,2024-11-15,45.33752237,Retail
+Kerikeri,2025-02-15,45.42292863,Retail
+Kerikeri,2025-05-15,48.42981286,Retail
+Kerikeri,2025-08-15,48.53843441,Retail
+Kerikeri,2025-11-15,48.51978581,Retail
+Kerikeri,2026-02-15,49.55713057,Retail
+Kerikeri,2026-05-15,50.55895674,Retail
+Kerikeri,2026-08-15,50.61803881,Retail
+Napier,2019-02-15,31.28022247,Retail
+Napier,2019-05-15,31.37152986,Retail
+Napier,2019-08-15,31.38620536,Retail
+Napier,2019-11-15,31.9348868,Retail
+Napier,2020-02-15,32.06880557,Retail
+Napier,2020-05-15,31.70916305,Retail
+Napier,2020-08-15,31.72436268,Retail
+Napier,2020-11-15,31.00486222,Retail
+Napier,2021-02-15,31.08940585,Retail
+Napier,2021-05-15,31.11441777,Retail
+Napier,2021-08-15,31.35040435,Retail
+Napier,2021-11-15,31.95112264,Retail
+Napier,2022-02-15,32.87325796,Retail
+Napier,2022-05-15,33.27772238,Retail
+Napier,2022-08-15,33.1153933,Retail
+Napier,2022-11-15,33.111369,Retail
+Napier,2023-02-15,33.14302265,Retail
+Napier,2023-05-15,32.907844,Retail
+Napier,2023-08-15,33.60552665,Retail
+Napier,2023-11-15,33.71450652,Retail
+Napier,2024-02-15,33.75125331,Retail
+Napier,2024-05-15,34.26002483,Retail
+Napier,2024-08-15,33.64535708,Retail
+Napier,2024-11-15,34.42298752,Retail
+Napier,2025-02-15,35.50982664,Retail
+Napier,2025-05-15,38.03983015,Retail
+Napier,2025-08-15,38.73652663,Retail
+Napier,2025-11-15,38.93157942,Retail
+Napier,2026-02-15,39.55210196,Retail
+Napier,2026-05-15,41.143904,Retail
+Napier,2026-08-15,41.3457559,Retail
+Rotorua,2019-02-15,32.50967011,Retail
+Rotorua,2019-05-15,32.5750263,Retail
+Rotorua,2019-08-15,32.58010404,Retail
+Rotorua,2019-11-15,32.9959682,Retail
+Rotorua,2020-02-15,33.26877589,Retail
+Rotorua,2020-05-15,32.67397251,Retail
+Rotorua,2020-08-15,32.63010037,Retail
+Rotorua,2020-11-15,32.57596008,Retail
+Rotorua,2021-02-15,32.73717355,Retail
+Rotorua,2021-05-15,32.72892118,Retail
+Rotorua,2021-08-15,32.90388905,Retail
+Rotorua,2021-11-15,32.95998502,Retail
+Rotorua,2022-02-15,33.73323943,Retail
+Rotorua,2022-05-15,34.2169652,Retail
+Rotorua,2022-08-15,33.97899407,Retail
+Rotorua,2022-11-15,33.9504215,Retail
+Rotorua,2023-02-15,33.9541018,Retail
+Rotorua,2023-05-15,34.21685373,Retail
+Rotorua,2023-08-15,35.13872272,Retail
+Rotorua,2023-11-15,34.87731096,Retail
+Rotorua,2024-02-15,35.25088777,Retail
+Rotorua,2024-05-15,36.21067366,Retail
+Rotorua,2024-08-15,35.80925626,Retail
+Rotorua,2024-11-15,36.0843254,Retail
+Rotorua,2025-02-15,36.43614626,Retail
+Rotorua,2025-05-15,39.7149452,Retail
+Rotorua,2025-08-15,40.22703799,Retail
+Rotorua,2025-11-15,40.26441391,Retail
+Rotorua,2026-02-15,41.15469243,Retail
+Rotorua,2026-05-15,42.76059925,Retail
+Rotorua,2026-08-15,42.93495982,Retail
+Taupo,2019-02-15,32.40086154,Retail
+Taupo,2019-05-15,32.39253831,Retail
+Taupo,2019-08-15,32.48016484,Retail
+Taupo,2019-11-15,32.96768883,Retail
+Taupo,2020-02-15,33.18241031,Retail
+Taupo,2020-05-15,32.68808435,Retail
+Taupo,2020-08-15,32.66857322,Retail
+Taupo,2020-11-15,32.64933977,Retail
+Taupo,2021-02-15,32.7962143,Retail
+Taupo,2021-05-15,32.9516514,Retail
+Taupo,2021-08-15,33.18872217,Retail
+Taupo,2021-11-15,33.08330926,Retail
+Taupo,2022-02-15,34.0003175,Retail
+Taupo,2022-05-15,34.33670203,Retail
+Taupo,2022-08-15,34.44836781,Retail
+Taupo,2022-11-15,34.21531892,Retail
+Taupo,2023-02-15,34.32595738,Retail
+Taupo,2023-05-15,34.28161713,Retail
+Taupo,2023-08-15,35.39023029,Retail
+Taupo,2023-11-15,35.36230728,Retail
+Taupo,2024-02-15,35.74117021,Retail
+Taupo,2024-05-15,36.53080166,Retail
+Taupo,2024-08-15,35.94552565,Retail
+Taupo,2024-11-15,36.52429449,Retail
+Taupo,2025-02-15,36.78455082,Retail
+Taupo,2025-05-15,39.97884814,Retail
+Taupo,2025-08-15,40.36226926,Retail
+Taupo,2025-11-15,40.41706579,Retail
+Taupo,2026-02-15,41.41089902,Retail
+Taupo,2026-05-15,42.73843519,Retail
+Taupo,2026-08-15,42.16079422,Retail
+Auckland North Shore,2019-02-15,28.8201168,Retail
+Auckland North Shore,2019-05-15,28.89613592,Retail
+Auckland North Shore,2019-08-15,28.96484017,Retail
+Auckland North Shore,2019-11-15,29.56299018,Retail
+Auckland North Shore,2020-02-15,29.65695581,Retail
+Auckland North Shore,2020-05-15,29.68800927,Retail
+Auckland North Shore,2020-08-15,29.66146493,Retail
+Auckland North Shore,2020-11-15,29.65999283,Retail
+Auckland North Shore,2021-02-15,29.54647482,Retail
+Auckland North Shore,2021-05-15,29.99280852,Retail
+Auckland North Shore,2021-08-15,30.35610267,Retail
+Auckland North Shore,2021-11-15,30.61240561,Retail
+Auckland North Shore,2022-02-15,31.15272649,Retail
+Auckland North Shore,2022-05-15,31.50056802,Retail
+Auckland North Shore,2022-08-15,31.63222105,Retail
+Auckland North Shore,2022-11-15,31.64007233,Retail
+Auckland North Shore,2023-02-15,32.08344439,Retail
+Auckland North Shore,2023-05-15,32.05289888,Retail
+Auckland North Shore,2023-08-15,32.44171118,Retail
+Auckland North Shore,2023-11-15,32.80652086,Retail
+Auckland North Shore,2024-02-15,32.34571988,Retail
+Auckland North Shore,2024-05-15,33.30692609,Retail
+Auckland North Shore,2024-08-15,33.45966583,Retail
+Auckland North Shore,2024-11-15,33.97725687,Retail
+Auckland North Shore,2025-02-15,34.23462881,Retail
+Auckland North Shore,2025-05-15,38.39588346,Retail
+Auckland North Shore,2025-08-15,38.51338723,Retail
+Auckland North Shore,2025-11-15,38.37172378,Retail
+Auckland North Shore,2026-02-15,39.67547055,Retail
+Auckland North Shore,2026-05-15,41.20107266,Retail
+Auckland North Shore,2026-08-15,41.33003153,Retail
+Auckland Central,2019-02-15,28.33667406,Retail
+Auckland Central,2019-05-15,28.3899243,Retail
+Auckland Central,2019-08-15,28.47097012,Retail
+Auckland Central,2019-11-15,28.83436223,Retail
+Auckland Central,2020-02-15,28.92723843,Retail
+Auckland Central,2020-05-15,28.9517356,Retail
+Auckland Central,2020-08-15,28.92285943,Retail
+Auckland Central,2020-11-15,28.90183386,Retail
+Auckland Central,2021-02-15,28.76527038,Retail
+Auckland Central,2021-05-15,29.3419001,Retail
+Auckland Central,2021-08-15,29.71666491,Retail
+Auckland Central,2021-11-15,30.03231094,Retail
+Auckland Central,2022-02-15,30.6416979,Retail
+Auckland Central,2022-05-15,31.09436754,Retail
+Auckland Central,2022-08-15,31.38320343,Retail
+Auckland Central,2022-11-15,31.36666896,Retail
+Auckland Central,2023-02-15,31.68193102,Retail
+Auckland Central,2023-05-15,31.61499876,Retail
+Auckland Central,2023-08-15,32.13517562,Retail
+Auckland Central,2023-11-15,32.51883234,Retail
+Auckland Central,2024-02-15,32.10421253,Retail
+Auckland Central,2024-05-15,33.30934901,Retail
+Auckland Central,2024-08-15,33.39914449,Retail
+Auckland Central,2024-11-15,33.90873211,Retail
+Auckland Central,2025-02-15,34.1291448,Retail
+Auckland Central,2025-05-15,38.16781144,Retail
+Auckland Central,2025-08-15,38.25184458,Retail
+Auckland Central,2025-11-15,38.09033546,Retail
+Auckland Central,2026-02-15,39.6658234,Retail
+Auckland Central,2026-05-15,41.17642228,Retail
+Auckland Central,2026-08-15,41.30445754,Retail
+Cambridge,2019-02-15,27.76358048,Retail
+Cambridge,2019-05-15,28.15003999,Retail
+Cambridge,2019-08-15,28.13251781,Retail
+Cambridge,2019-11-15,28.52627697,Retail
+Cambridge,2020-02-15,28.63355778,Retail
+Cambridge,2020-05-15,29.31138779,Retail
+Cambridge,2020-08-15,29.29542823,Retail
+Cambridge,2020-11-15,29.25364658,Retail
+Cambridge,2021-02-15,29.30771381,Retail
+Cambridge,2021-05-15,29.81030805,Retail
+Cambridge,2021-08-15,29.97960476,Retail
+Cambridge,2021-11-15,30.13591675,Retail
+Cambridge,2022-02-15,30.57707272,Retail
+Cambridge,2022-05-15,31.03800934,Retail
+Cambridge,2022-08-15,30.931294,Retail
+Cambridge,2022-11-15,31.12454143,Retail
+Cambridge,2023-02-15,31.45132157,Retail
+Cambridge,2023-05-15,32.14728161,Retail
+Cambridge,2023-08-15,32.55556484,Retail
+Cambridge,2023-11-15,32.51059407,Retail
+Cambridge,2024-02-15,32.92960104,Retail
+Cambridge,2024-05-15,34.57617523,Retail
+Cambridge,2024-08-15,35.36661179,Retail
+Cambridge,2024-11-15,35.64223305,Retail
+Cambridge,2025-02-15,36.10649207,Retail
+Cambridge,2025-05-15,40.96677208,Retail
+Cambridge,2025-08-15,41.3967383,Retail
+Cambridge,2025-11-15,41.24012148,Retail
+Cambridge,2026-02-15,42.88877307,Retail
+Cambridge,2026-05-15,43.60878618,Retail
+Cambridge,2026-08-15,43.74193074,Retail
+Hamilton,2019-02-15,30.25700712,Retail
+Hamilton,2019-05-15,30.10631475,Retail
+Hamilton,2019-08-15,29.97936761,Retail
+Hamilton,2019-11-15,30.63445098,Retail
+Hamilton,2020-02-15,30.74744187,Retail
+Hamilton,2020-05-15,30.78374774,Retail
+Hamilton,2020-08-15,30.65805953,Retail
+Hamilton,2020-11-15,30.47340544,Retail
+Hamilton,2021-02-15,30.61676862,Retail
+Hamilton,2021-05-15,30.6195993,Retail
+Hamilton,2021-08-15,30.81824404,Retail
+Hamilton,2021-11-15,31.06894866,Retail
+Hamilton,2022-02-15,31.52715256,Retail
+Hamilton,2022-05-15,31.66144303,Retail
+Hamilton,2022-08-15,31.76558351,Retail
+Hamilton,2022-11-15,31.58057412,Retail
+Hamilton,2023-02-15,32.14371161,Retail
+Hamilton,2023-05-15,32.29021351,Retail
+Hamilton,2023-08-15,32.43284348,Retail
+Hamilton,2023-11-15,32.59278056,Retail
+Hamilton,2024-02-15,32.61550552,Retail
+Hamilton,2024-05-15,33.41420606,Retail
+Hamilton,2024-08-15,33.41899328,Retail
+Hamilton,2024-11-15,33.74340394,Retail
+Hamilton,2025-02-15,33.96590792,Retail
+Hamilton,2025-05-15,37.32910306,Retail
+Hamilton,2025-08-15,37.42203902,Retail
+Hamilton,2025-11-15,37.42574882,Retail
+Hamilton,2026-02-15,39.11939688,Retail
+Hamilton,2026-05-15,39.75838989,Retail
+Hamilton,2026-08-15,39.78369535,Retail
+Wellington City,2019-02-15,28.63411104,Retail
+Wellington City,2019-05-15,28.59754751,Retail
+Wellington City,2019-08-15,28.64052191,Retail
+Wellington City,2019-11-15,29.39033331,Retail
+Wellington City,2020-02-15,29.57735325,Retail
+Wellington City,2020-05-15,28.94794932,Retail
+Wellington City,2020-08-15,28.74707007,Retail
+Wellington City,2020-11-15,28.74901689,Retail
+Wellington City,2021-02-15,28.93975558,Retail
+Wellington City,2021-05-15,28.96164209,Retail
+Wellington City,2021-08-15,29.0084007,Retail
+Wellington City,2021-11-15,29.35159301,Retail
+Wellington City,2022-02-15,29.72337968,Retail
+Wellington City,2022-05-15,30.40733117,Retail
+Wellington City,2022-08-15,30.46042845,Retail
+Wellington City,2022-11-15,30.45440271,Retail
+Wellington City,2023-02-15,30.92382261,Retail
+Wellington City,2023-05-15,30.19955773,Retail
+Wellington City,2023-08-15,30.57068386,Retail
+Wellington City,2023-11-15,30.78333137,Retail
+Wellington City,2024-02-15,30.46068321,Retail
+Wellington City,2024-05-15,31.17102515,Retail
+Wellington City,2024-08-15,31.53634005,Retail
+Wellington City,2024-11-15,31.94346572,Retail
+Wellington City,2025-02-15,32.05107567,Retail
+Wellington City,2025-05-15,34.73601,Retail
+Wellington City,2025-08-15,34.79341267,Retail
+Wellington City,2025-11-15,34.6136288,Retail
+Wellington City,2026-02-15,36.08645641,Retail
+Wellington City,2026-05-15,37.01153056,Retail
+Wellington City,2026-08-15,37.19851094,Retail
+Greymouth,2019-02-15,34.89559218,Retail
+Greymouth,2019-05-15,34.85532177,Retail
+Greymouth,2019-08-15,34.91317368,Retail
+Greymouth,2019-11-15,35.17072068,Retail
+Greymouth,2020-02-15,35.22755769,Retail
+Greymouth,2020-05-15,36.38382506,Retail
+Greymouth,2020-08-15,36.32023608,Retail
+Greymouth,2020-11-15,36.28003384,Retail
+Greymouth,2021-02-15,36.25740766,Retail
+Greymouth,2021-05-15,36.97969902,Retail
+Greymouth,2021-08-15,37.04622123,Retail
+Greymouth,2021-11-15,37.19953825,Retail
+Greymouth,2022-02-15,37.34642136,Retail
+Greymouth,2022-05-15,37.61041956,Retail
+Greymouth,2022-08-15,37.88847699,Retail
+Greymouth,2022-11-15,37.87284951,Retail
+Greymouth,2023-02-15,37.82002247,Retail
+Greymouth,2023-05-15,39.02226902,Retail
+Greymouth,2023-08-15,39.25258471,Retail
+Greymouth,2023-11-15,39.49245558,Retail
+Greymouth,2024-02-15,39.57677166,Retail
+Greymouth,2024-05-15,41.96703824,Retail
+Greymouth,2024-08-15,43.37186517,Retail
+Greymouth,2024-11-15,44.11569706,Retail
+Greymouth,2025-02-15,44.40500491,Retail
+Greymouth,2025-05-15,45.38988889,Retail
+Greymouth,2025-08-15,45.44616225,Retail
+Greymouth,2025-11-15,45.45144931,Retail
+Greymouth,2026-02-15,46.68590726,Retail
+Greymouth,2026-05-15,48.2922744,Retail
+Greymouth,2026-08-15,48.5276891,Retail
+New Zealand,2019-02-15,12.26151256,Lines
+New Zealand,2019-05-15,12.08881854,Lines
+New Zealand,2019-08-15,12.08794478,Lines
+New Zealand,2019-11-15,12.08706598,Lines
+New Zealand,2020-02-15,12.08720651,Lines
+New Zealand,2020-05-15,11.0869621,Lines
+New Zealand,2020-08-15,11.08578351,Lines
+New Zealand,2020-11-15,11.08538264,Lines
+New Zealand,2021-02-15,11.08568004,Lines
+New Zealand,2021-05-15,11.34811509,Lines
+New Zealand,2021-08-15,11.34742742,Lines
+New Zealand,2021-11-15,11.34542718,Lines
+New Zealand,2022-02-15,11.3309698,Lines
+New Zealand,2022-05-15,11.60624675,Lines
+New Zealand,2022-08-15,11.60584579,Lines
+New Zealand,2022-11-15,11.60460408,Lines
+New Zealand,2023-02-15,11.60477364,Lines
+New Zealand,2023-05-15,11.89381863,Lines
+New Zealand,2023-08-15,11.89274388,Lines
+New Zealand,2023-11-15,11.89242847,Lines
+New Zealand,2024-02-15,11.89244912,Lines
+New Zealand,2024-05-15,12.7198608,Lines
+New Zealand,2024-08-15,12.71917413,Lines
+New Zealand,2024-11-15,12.71862726,Lines
+New Zealand,2025-02-15,12.71559514,Lines
+New Zealand,2025-05-15,15.19455835,Lines
+New Zealand,2025-08-15,15.19352749,Lines
+New Zealand,2025-11-15,15.19132777,Lines
+New Zealand,2026-02-15,15.19129411,Lines
+New Zealand,2026-05-15,16.81523456,Lines
+New Zealand,2026-08-15,16.81360095,Lines
+Timaru,2019-02-15,13.20243125,Lines
+Timaru,2019-05-15,15.5540375,Lines
+Timaru,2019-08-15,15.5540375,Lines
+Timaru,2019-11-15,15.5540375,Lines
+Timaru,2020-02-15,15.5540375,Lines
+Timaru,2020-05-15,12.66768125,Lines
+Timaru,2020-08-15,12.66768125,Lines
+Timaru,2020-11-15,12.66768125,Lines
+Timaru,2021-02-15,12.66768125,Lines
+Timaru,2021-05-15,11.19108125,Lines
+Timaru,2021-08-15,11.19108125,Lines
+Timaru,2021-11-15,11.19108125,Lines
+Timaru,2022-02-15,11.19108125,Lines
+Timaru,2022-05-15,11.5836625,Lines
+Timaru,2022-08-15,11.5836625,Lines
+Timaru,2022-11-15,11.5836625,Lines
+Timaru,2023-02-15,11.5836625,Lines
+Timaru,2023-05-15,13.2419625,Lines
+Timaru,2023-08-15,13.2419625,Lines
+Timaru,2023-11-15,13.2419625,Lines
+Timaru,2024-02-15,13.2419625,Lines
+Timaru,2024-05-15,14.399725,Lines
+Timaru,2024-08-15,14.399725,Lines
+Timaru,2024-11-15,14.399725,Lines
+Timaru,2025-02-15,14.399725,Lines
+Timaru,2025-05-15,17.11875625,Lines
+Timaru,2025-08-15,17.11875625,Lines
+Timaru,2025-11-15,17.11875625,Lines
+Timaru,2026-02-15,17.11875625,Lines
+Timaru,2026-05-15,17.94697188,Lines
+Timaru,2026-08-15,17.94697188,Lines
+Cromwell,2019-02-15,13.71280125,Lines
+Cromwell,2019-05-15,14.11760125,Lines
+Cromwell,2019-08-15,14.11760125,Lines
+Cromwell,2019-11-15,14.11760125,Lines
+Cromwell,2020-02-15,14.11760125,Lines
+Cromwell,2020-05-15,13.19530125,Lines
+Cromwell,2020-08-15,13.19530125,Lines
+Cromwell,2020-11-15,13.19530125,Lines
+Cromwell,2021-02-15,13.19530125,Lines
+Cromwell,2021-05-15,14.28423625,Lines
+Cromwell,2021-08-15,14.28423625,Lines
+Cromwell,2021-11-15,14.28423625,Lines
+Cromwell,2022-02-15,14.28423625,Lines
+Cromwell,2022-05-15,16.3502975,Lines
+Cromwell,2022-08-15,16.3502975,Lines
+Cromwell,2022-11-15,16.3502975,Lines
+Cromwell,2023-02-15,16.3502975,Lines
+Cromwell,2023-05-15,18.92501094,Lines
+Cromwell,2023-08-15,18.92501094,Lines
+Cromwell,2023-11-15,18.92501094,Lines
+Cromwell,2024-02-15,18.92501094,Lines
+Cromwell,2024-05-15,20.51127392,Lines
+Cromwell,2024-08-15,20.51127392,Lines
+Cromwell,2024-11-15,20.51127392,Lines
+Cromwell,2025-02-15,20.51127392,Lines
+Cromwell,2025-05-15,21.82569241,Lines
+Cromwell,2025-08-15,21.82569241,Lines
+Cromwell,2025-11-15,21.82569241,Lines
+Cromwell,2026-02-15,21.82569241,Lines
+Cromwell,2026-05-15,24.73312188,Lines
+Cromwell,2026-08-15,24.73312188,Lines
+Dunedin,2019-02-15,8.64728125,Lines
+Dunedin,2019-05-15,8.67603125,Lines
+Dunedin,2019-08-15,8.67603125,Lines
+Dunedin,2019-11-15,8.67603125,Lines
+Dunedin,2020-02-15,8.67603125,Lines
+Dunedin,2020-05-15,8.659320313,Lines
+Dunedin,2020-08-15,8.659320313,Lines
+Dunedin,2020-11-15,8.659320313,Lines
+Dunedin,2021-02-15,8.659320313,Lines
+Dunedin,2021-05-15,9.314820313,Lines
+Dunedin,2021-08-15,9.314820313,Lines
+Dunedin,2021-11-15,9.314820313,Lines
+Dunedin,2022-02-15,9.314820313,Lines
+Dunedin,2022-05-15,10.66014063,Lines
+Dunedin,2022-08-15,10.66014063,Lines
+Dunedin,2022-11-15,10.66014063,Lines
+Dunedin,2023-02-15,10.66014063,Lines
+Dunedin,2023-05-15,10.71271094,Lines
+Dunedin,2023-08-15,10.71271094,Lines
+Dunedin,2023-11-15,10.71271094,Lines
+Dunedin,2024-02-15,10.71271094,Lines
+Dunedin,2024-05-15,11.92167392,Lines
+Dunedin,2024-08-15,11.92167392,Lines
+Dunedin,2024-11-15,11.92167392,Lines
+Dunedin,2025-02-15,11.92167392,Lines
+Dunedin,2025-05-15,13.95709241,Lines
+Dunedin,2025-08-15,13.95709241,Lines
+Dunedin,2025-11-15,13.95709241,Lines
+Dunedin,2026-02-15,13.95709241,Lines
+Dunedin,2026-05-15,16.79542188,Lines
+Dunedin,2026-08-15,16.79542188,Lines
+Queenstown,2019-02-15,10.23658125,Lines
+Queenstown,2019-05-15,10.42035125,Lines
+Queenstown,2019-08-15,10.42035125,Lines
+Queenstown,2019-11-15,10.42035125,Lines
+Queenstown,2020-02-15,10.42035125,Lines
+Queenstown,2020-05-15,9.63294625,Lines
+Queenstown,2020-08-15,9.63294625,Lines
+Queenstown,2020-11-15,9.63294625,Lines
+Queenstown,2021-02-15,9.63294625,Lines
+Queenstown,2021-05-15,10.34502625,Lines
+Queenstown,2021-08-15,10.34502625,Lines
+Queenstown,2021-11-15,10.34502625,Lines
+Queenstown,2022-02-15,10.34502625,Lines
+Queenstown,2022-05-15,12.2188075,Lines
+Queenstown,2022-08-15,12.2188075,Lines
+Queenstown,2022-11-15,12.2188075,Lines
+Queenstown,2023-02-15,12.2188075,Lines
+Queenstown,2023-05-15,13.09451094,Lines
+Queenstown,2023-08-15,13.09451094,Lines
+Queenstown,2023-11-15,13.09451094,Lines
+Queenstown,2024-02-15,13.09451094,Lines
+Queenstown,2024-05-15,14.54047392,Lines
+Queenstown,2024-08-15,14.54047392,Lines
+Queenstown,2024-11-15,14.54047392,Lines
+Queenstown,2025-02-15,14.54047392,Lines
+Queenstown,2025-05-15,15.65019241,Lines
+Queenstown,2025-08-15,15.65019241,Lines
+Queenstown,2025-11-15,15.65019241,Lines
+Queenstown,2026-02-15,15.65019241,Lines
+Queenstown,2026-05-15,18.29772188,Lines
+Queenstown,2026-08-15,18.29772188,Lines
+Westport,2019-02-15,17.06467031,Lines
+Westport,2019-05-15,16.98647031,Lines
+Westport,2019-08-15,16.98647031,Lines
+Westport,2019-11-15,16.98647031,Lines
+Westport,2020-02-15,16.98647031,Lines
+Westport,2020-05-15,16.98647031,Lines
+Westport,2020-08-15,16.98647031,Lines
+Westport,2020-11-15,16.98647031,Lines
+Westport,2021-02-15,16.98647031,Lines
+Westport,2021-05-15,16.58627031,Lines
+Westport,2021-08-15,16.58627031,Lines
+Westport,2021-11-15,16.58627031,Lines
+Westport,2022-02-15,16.58627031,Lines
+Westport,2022-05-15,16.39634063,Lines
+Westport,2022-08-15,16.39634063,Lines
+Westport,2022-11-15,16.39634063,Lines
+Westport,2023-02-15,16.39634063,Lines
+Westport,2023-05-15,16.32371094,Lines
+Westport,2023-08-15,16.32371094,Lines
+Westport,2023-11-15,16.32371094,Lines
+Westport,2024-02-15,16.32371094,Lines
+Westport,2024-05-15,17.71158125,Lines
+Westport,2024-08-15,17.71158125,Lines
+Westport,2024-11-15,17.71158125,Lines
+Westport,2025-02-15,17.71158125,Lines
+Westport,2025-05-15,18.56355156,Lines
+Westport,2025-08-15,18.56355156,Lines
+Westport,2025-11-15,18.56355156,Lines
+Westport,2026-02-15,18.56355156,Lines
+Westport,2026-05-15,18.21032188,Lines
+Westport,2026-08-15,18.21032188,Lines
+Waipukurau,2019-02-15,19.99257031,Lines
+Waipukurau,2019-05-15,19.99257031,Lines
+Waipukurau,2019-08-15,19.99257031,Lines
+Waipukurau,2019-11-15,19.99257031,Lines
+Waipukurau,2020-02-15,19.99257031,Lines
+Waipukurau,2020-05-15,19.99257031,Lines
+Waipukurau,2020-08-15,19.99257031,Lines
+Waipukurau,2020-11-15,19.99257031,Lines
+Waipukurau,2021-02-15,19.99257031,Lines
+Waipukurau,2021-05-15,18.49757031,Lines
+Waipukurau,2021-08-15,18.49757031,Lines
+Waipukurau,2021-11-15,18.49757031,Lines
+Waipukurau,2022-02-15,18.49757031,Lines
+Waipukurau,2022-05-15,18.48014063,Lines
+Waipukurau,2022-08-15,18.48014063,Lines
+Waipukurau,2022-11-15,18.48014063,Lines
+Waipukurau,2023-02-15,18.48014063,Lines
+Waipukurau,2023-05-15,19.72771094,Lines
+Waipukurau,2023-08-15,19.72771094,Lines
+Waipukurau,2023-11-15,19.72771094,Lines
+Waipukurau,2024-02-15,19.72771094,Lines
+Waipukurau,2024-05-15,20.28528125,Lines
+Waipukurau,2024-08-15,20.28528125,Lines
+Waipukurau,2024-11-15,20.28528125,Lines
+Waipukurau,2025-02-15,20.28528125,Lines
+Waipukurau,2025-05-15,23.14285156,Lines
+Waipukurau,2025-08-15,23.14285156,Lines
+Waipukurau,2025-11-15,23.14285156,Lines
+Waipukurau,2026-02-15,23.14285156,Lines
+Waipukurau,2026-05-15,24.27542188,Lines
+Waipukurau,2026-08-15,24.27542188,Lines
+Pukekohe,2019-02-15,12.65787031,Lines
+Pukekohe,2019-05-15,12.77977031,Lines
+Pukekohe,2019-08-15,12.77977031,Lines
+Pukekohe,2019-11-15,12.77977031,Lines
+Pukekohe,2020-02-15,12.77977031,Lines
+Pukekohe,2020-05-15,12.77977031,Lines
+Pukekohe,2020-08-15,12.77977031,Lines
+Pukekohe,2020-11-15,12.77977031,Lines
+Pukekohe,2021-02-15,12.77977031,Lines
+Pukekohe,2021-05-15,13.25127031,Lines
+Pukekohe,2021-08-15,13.25127031,Lines
+Pukekohe,2021-11-15,13.25127031,Lines
+Pukekohe,2022-02-15,13.25127031,Lines
+Pukekohe,2022-05-15,14.10094063,Lines
+Pukekohe,2022-08-15,14.10094063,Lines
+Pukekohe,2022-11-15,14.10094063,Lines
+Pukekohe,2023-02-15,14.10094063,Lines
+Pukekohe,2023-05-15,15.09551094,Lines
+Pukekohe,2023-08-15,15.09551094,Lines
+Pukekohe,2023-11-15,15.09551094,Lines
+Pukekohe,2024-02-15,15.09551094,Lines
+Pukekohe,2024-05-15,16.48568125,Lines
+Pukekohe,2024-08-15,16.48568125,Lines
+Pukekohe,2024-11-15,16.48568125,Lines
+Pukekohe,2025-02-15,16.48568125,Lines
+Pukekohe,2025-05-15,18.22775156,Lines
+Pukekohe,2025-08-15,18.22775156,Lines
+Pukekohe,2025-11-15,18.22775156,Lines
+Pukekohe,2026-02-15,18.22775156,Lines
+Pukekohe,2026-05-15,19.76972188,Lines
+Pukekohe,2026-08-15,19.76972188,Lines
+Gisborne,2019-02-15,15.79047031,Lines
+Gisborne,2019-05-15,16.03197031,Lines
+Gisborne,2019-08-15,16.03197031,Lines
+Gisborne,2019-11-15,16.03197031,Lines
+Gisborne,2020-02-15,16.03197031,Lines
+Gisborne,2020-05-15,14.63587031,Lines
+Gisborne,2020-08-15,14.63587031,Lines
+Gisborne,2020-11-15,14.63587031,Lines
+Gisborne,2021-02-15,14.63587031,Lines
+Gisborne,2021-05-15,14.22877031,Lines
+Gisborne,2021-08-15,14.22877031,Lines
+Gisborne,2021-11-15,14.22877031,Lines
+Gisborne,2022-02-15,14.22877031,Lines
+Gisborne,2022-05-15,14.31031502,Lines
+Gisborne,2022-08-15,14.31031502,Lines
+Gisborne,2022-11-15,14.31031502,Lines
+Gisborne,2023-02-15,14.31031502,Lines
+Gisborne,2023-05-15,14.56651094,Lines
+Gisborne,2023-08-15,14.56651094,Lines
+Gisborne,2023-11-15,14.56651094,Lines
+Gisborne,2024-02-15,14.56651094,Lines
+Gisborne,2024-05-15,15.93138125,Lines
+Gisborne,2024-08-15,15.93138125,Lines
+Gisborne,2024-11-15,15.93138125,Lines
+Gisborne,2025-02-15,15.93138125,Lines
+Gisborne,2025-05-15,18.83035156,Lines
+Gisborne,2025-08-15,18.83035156,Lines
+Gisborne,2025-11-15,18.83035156,Lines
+Gisborne,2026-02-15,18.83035156,Lines
+Gisborne,2026-05-15,20.89442188,Lines
+Gisborne,2026-08-15,20.89442188,Lines
+Paraparaumu,2019-02-15,12.10127031,Lines
+Paraparaumu,2019-05-15,11.96327031,Lines
+Paraparaumu,2019-08-15,11.96327031,Lines
+Paraparaumu,2019-11-15,11.96327031,Lines
+Paraparaumu,2020-02-15,11.96327031,Lines
+Paraparaumu,2020-05-15,11.93567031,Lines
+Paraparaumu,2020-08-15,11.93567031,Lines
+Paraparaumu,2020-11-15,11.93567031,Lines
+Paraparaumu,2021-02-15,11.93567031,Lines
+Paraparaumu,2021-05-15,12.27837031,Lines
+Paraparaumu,2021-08-15,12.27837031,Lines
+Paraparaumu,2021-11-15,12.27837031,Lines
+Paraparaumu,2022-02-15,12.27837031,Lines
+Paraparaumu,2022-05-15,13.58114063,Lines
+Paraparaumu,2022-08-15,13.58114063,Lines
+Paraparaumu,2022-11-15,13.58114063,Lines
+Paraparaumu,2023-02-15,13.58114063,Lines
+Paraparaumu,2023-05-15,15.88671094,Lines
+Paraparaumu,2023-08-15,15.88671094,Lines
+Paraparaumu,2023-11-15,15.88671094,Lines
+Paraparaumu,2024-02-15,15.88671094,Lines
+Paraparaumu,2024-05-15,16.22118125,Lines
+Paraparaumu,2024-08-15,16.22118125,Lines
+Paraparaumu,2024-11-15,16.22118125,Lines
+Paraparaumu,2025-02-15,16.22118125,Lines
+Paraparaumu,2025-05-15,18.74065156,Lines
+Paraparaumu,2025-08-15,18.74065156,Lines
+Paraparaumu,2025-11-15,18.74065156,Lines
+Paraparaumu,2026-02-15,18.74065156,Lines
+Paraparaumu,2026-05-15,22.71832188,Lines
+Paraparaumu,2026-08-15,22.71832188,Lines
+Ashburton,2019-02-15,7.880770313,Lines
+Ashburton,2019-05-15,8.616770313,Lines
+Ashburton,2019-08-15,8.616770313,Lines
+Ashburton,2019-11-15,8.616770313,Lines
+Ashburton,2020-02-15,8.616770313,Lines
+Ashburton,2020-05-15,7.446070313,Lines
+Ashburton,2020-08-15,7.446070313,Lines
+Ashburton,2020-11-15,7.446070313,Lines
+Ashburton,2021-02-15,7.446070313,Lines
+Ashburton,2021-05-15,6.877970313,Lines
+Ashburton,2021-08-15,6.877970313,Lines
+Ashburton,2021-11-15,6.877970313,Lines
+Ashburton,2022-02-15,6.877970313,Lines
+Ashburton,2022-05-15,6.973240625,Lines
+Ashburton,2022-08-15,6.973240625,Lines
+Ashburton,2022-11-15,6.973240625,Lines
+Ashburton,2023-02-15,6.973240625,Lines
+Ashburton,2023-05-15,8.043710938,Lines
+Ashburton,2023-08-15,8.043710938,Lines
+Ashburton,2023-11-15,8.043710938,Lines
+Ashburton,2024-02-15,8.043710938,Lines
+Ashburton,2024-05-15,8.70018125,Lines
+Ashburton,2024-08-15,8.70018125,Lines
+Ashburton,2024-11-15,8.70018125,Lines
+Ashburton,2025-02-15,8.70018125,Lines
+Ashburton,2025-05-15,10.63085156,Lines
+Ashburton,2025-08-15,10.63085156,Lines
+Ashburton,2025-11-15,10.63085156,Lines
+Ashburton,2026-02-15,10.63085156,Lines
+Ashburton,2026-05-15,12.28855788,Lines
+Ashburton,2026-08-15,12.28855788,Lines
+Invercargill,2019-02-15,10.5992646,Lines
+Invercargill,2019-05-15,10.70260543,Lines
+Invercargill,2019-08-15,10.70260543,Lines
+Invercargill,2019-11-15,10.70260543,Lines
+Invercargill,2020-02-15,10.70260543,Lines
+Invercargill,2020-05-15,10.12384121,Lines
+Invercargill,2020-08-15,10.12384121,Lines
+Invercargill,2020-11-15,10.12384121,Lines
+Invercargill,2021-02-15,10.12384121,Lines
+Invercargill,2021-05-15,9.123358559,Lines
+Invercargill,2021-08-15,9.123358559,Lines
+Invercargill,2021-11-15,9.123358559,Lines
+Invercargill,2022-02-15,9.123358559,Lines
+Invercargill,2022-05-15,9.803838127,Lines
+Invercargill,2022-08-15,9.803838127,Lines
+Invercargill,2022-11-15,9.803838127,Lines
+Invercargill,2023-02-15,9.803838127,Lines
+Invercargill,2023-05-15,9.392207665,Lines
+Invercargill,2023-08-15,9.392207665,Lines
+Invercargill,2023-11-15,9.392207665,Lines
+Invercargill,2024-02-15,9.392207665,Lines
+Invercargill,2024-05-15,10.03890044,Lines
+Invercargill,2024-08-15,10.03890044,Lines
+Invercargill,2024-11-15,10.03890044,Lines
+Invercargill,2025-02-15,10.03890044,Lines
+Invercargill,2025-05-15,12.30406221,Lines
+Invercargill,2025-08-15,12.30406221,Lines
+Invercargill,2025-11-15,12.30406221,Lines
+Invercargill,2026-02-15,12.30406221,Lines
+Invercargill,2026-05-15,13.55157,Lines
+Invercargill,2026-08-15,13.55157,Lines
+Whakatane,2019-02-15,12.35427031,Lines
+Whakatane,2019-05-15,12.57967031,Lines
+Whakatane,2019-08-15,12.57967031,Lines
+Whakatane,2019-11-15,12.57967031,Lines
+Whakatane,2020-02-15,12.57967031,Lines
+Whakatane,2020-05-15,11.66427031,Lines
+Whakatane,2020-08-15,11.66427031,Lines
+Whakatane,2020-11-15,11.66427031,Lines
+Whakatane,2021-02-15,11.66427031,Lines
+Whakatane,2021-05-15,12.51182031,Lines
+Whakatane,2021-08-15,12.51182031,Lines
+Whakatane,2021-11-15,12.51182031,Lines
+Whakatane,2022-02-15,12.51182031,Lines
+Whakatane,2022-05-15,11.88259063,Lines
+Whakatane,2022-08-15,11.88259063,Lines
+Whakatane,2022-11-15,11.88259063,Lines
+Whakatane,2023-02-15,11.88259063,Lines
+Whakatane,2023-05-15,12.55516094,Lines
+Whakatane,2023-08-15,12.55516094,Lines
+Whakatane,2023-11-15,12.55516094,Lines
+Whakatane,2024-02-15,12.55516094,Lines
+Whakatane,2024-05-15,13.01843125,Lines
+Whakatane,2024-08-15,13.01843125,Lines
+Whakatane,2024-11-15,13.01843125,Lines
+Whakatane,2025-02-15,13.01843125,Lines
+Whakatane,2025-05-15,16.19800156,Lines
+Whakatane,2025-08-15,16.19800156,Lines
+Whakatane,2025-11-15,16.19800156,Lines
+Whakatane,2026-02-15,16.19800156,Lines
+Whakatane,2026-05-15,17.19112058,Lines
+Whakatane,2026-08-15,17.19112058,Lines
+Rangiora,2019-02-15,12.63717031,Lines
+Rangiora,2019-05-15,12.86602031,Lines
+Rangiora,2019-08-15,12.86602031,Lines
+Rangiora,2019-11-15,12.86602031,Lines
+Rangiora,2020-02-15,12.86602031,Lines
+Rangiora,2020-05-15,11.44462031,Lines
+Rangiora,2020-08-15,11.44462031,Lines
+Rangiora,2020-11-15,11.44462031,Lines
+Rangiora,2021-02-15,11.44462031,Lines
+Rangiora,2021-05-15,12.05757031,Lines
+Rangiora,2021-08-15,12.05757031,Lines
+Rangiora,2021-11-15,12.05757031,Lines
+Rangiora,2022-02-15,12.05757031,Lines
+Rangiora,2022-05-15,13.35114063,Lines
+Rangiora,2022-08-15,13.35114063,Lines
+Rangiora,2022-11-15,13.35114063,Lines
+Rangiora,2023-02-15,13.35114063,Lines
+Rangiora,2023-05-15,14.94371094,Lines
+Rangiora,2023-08-15,14.94371094,Lines
+Rangiora,2023-11-15,14.94371094,Lines
+Rangiora,2024-02-15,14.94371094,Lines
+Rangiora,2024-05-15,16.77778125,Lines
+Rangiora,2024-08-15,16.77778125,Lines
+Rangiora,2024-11-15,16.77778125,Lines
+Rangiora,2025-02-15,16.77778125,Lines
+Rangiora,2025-05-15,20.25635156,Lines
+Rangiora,2025-08-15,20.25635156,Lines
+Rangiora,2025-11-15,20.25635156,Lines
+Rangiora,2026-02-15,20.25635156,Lines
+Rangiora,2026-05-15,20.29527188,Lines
+Rangiora,2026-08-15,20.29527188,Lines
+Kaiapoi,2019-02-15,10.32107031,Lines
+Kaiapoi,2019-05-15,10.54992031,Lines
+Kaiapoi,2019-08-15,10.54992031,Lines
+Kaiapoi,2019-11-15,10.54992031,Lines
+Kaiapoi,2020-02-15,10.54992031,Lines
+Kaiapoi,2020-05-15,11.44462031,Lines
+Kaiapoi,2020-08-15,11.44462031,Lines
+Kaiapoi,2020-11-15,11.44462031,Lines
+Kaiapoi,2021-02-15,11.44462031,Lines
+Kaiapoi,2021-05-15,12.05757031,Lines
+Kaiapoi,2021-08-15,12.05757031,Lines
+Kaiapoi,2021-11-15,12.05757031,Lines
+Kaiapoi,2022-02-15,12.05757031,Lines
+Kaiapoi,2022-05-15,13.35114063,Lines
+Kaiapoi,2022-08-15,13.35114063,Lines
+Kaiapoi,2022-11-15,13.35114063,Lines
+Kaiapoi,2023-02-15,13.35114063,Lines
+Kaiapoi,2023-05-15,14.94371094,Lines
+Kaiapoi,2023-08-15,14.94371094,Lines
+Kaiapoi,2023-11-15,14.94371094,Lines
+Kaiapoi,2024-02-15,14.94371094,Lines
+Kaiapoi,2024-05-15,16.77778125,Lines
+Kaiapoi,2024-08-15,16.77778125,Lines
+Kaiapoi,2024-11-15,16.77778125,Lines
+Kaiapoi,2025-02-15,16.77778125,Lines
+Kaiapoi,2025-05-15,20.25635156,Lines
+Kaiapoi,2025-08-15,20.25635156,Lines
+Kaiapoi,2025-11-15,20.25635156,Lines
+Kaiapoi,2026-02-15,20.25635156,Lines
+Kaiapoi,2026-05-15,20.29527188,Lines
+Kaiapoi,2026-08-15,20.29527188,Lines
+Blenheim,2019-02-15,14.67497031,Lines
+Blenheim,2019-05-15,14.80147031,Lines
+Blenheim,2019-08-15,14.80147031,Lines
+Blenheim,2019-11-15,14.80147031,Lines
+Blenheim,2020-02-15,14.80147031,Lines
+Blenheim,2020-05-15,14.69797031,Lines
+Blenheim,2020-08-15,14.69797031,Lines
+Blenheim,2020-11-15,14.69797031,Lines
+Blenheim,2021-02-15,14.69797031,Lines
+Blenheim,2021-05-15,14.76007031,Lines
+Blenheim,2021-08-15,14.76007031,Lines
+Blenheim,2021-11-15,14.76007031,Lines
+Blenheim,2022-02-15,14.76007031,Lines
+Blenheim,2022-05-15,15.03474063,Lines
+Blenheim,2022-08-15,15.03474063,Lines
+Blenheim,2022-11-15,15.03474063,Lines
+Blenheim,2023-02-15,15.03474063,Lines
+Blenheim,2023-05-15,15.66821094,Lines
+Blenheim,2023-08-15,15.66821094,Lines
+Blenheim,2023-11-15,15.66821094,Lines
+Blenheim,2024-02-15,15.66821094,Lines
+Blenheim,2024-05-15,16.52248125,Lines
+Blenheim,2024-08-15,16.52248125,Lines
+Blenheim,2024-11-15,16.52248125,Lines
+Blenheim,2025-02-15,16.52248125,Lines
+Blenheim,2025-05-15,18.04145156,Lines
+Blenheim,2025-08-15,18.04145156,Lines
+Blenheim,2025-11-15,18.04145156,Lines
+Blenheim,2026-02-15,18.04145156,Lines
+Blenheim,2026-05-15,19.02912188,Lines
+Blenheim,2026-08-15,19.02912188,Lines
+Nelson,2019-02-15,9.571270313,Lines
+Nelson,2019-05-15,9.290670313,Lines
+Nelson,2019-08-15,9.290670313,Lines
+Nelson,2019-11-15,9.290670313,Lines
+Nelson,2020-02-15,9.290670313,Lines
+Nelson,2020-05-15,8.754770313,Lines
+Nelson,2020-08-15,8.754770313,Lines
+Nelson,2020-11-15,8.754770313,Lines
+Nelson,2021-02-15,8.754770313,Lines
+Nelson,2021-05-15,8.547770313,Lines
+Nelson,2021-08-15,8.547770313,Lines
+Nelson,2021-11-15,8.547770313,Lines
+Nelson,2022-02-15,8.547770313,Lines
+Nelson,2022-05-15,8.187640625,Lines
+Nelson,2022-08-15,8.187640625,Lines
+Nelson,2022-11-15,8.187640625,Lines
+Nelson,2023-02-15,8.187640625,Lines
+Nelson,2023-05-15,7.813710938,Lines
+Nelson,2023-08-15,7.813710938,Lines
+Nelson,2023-11-15,7.813710938,Lines
+Nelson,2024-02-15,7.813710938,Lines
+Nelson,2024-05-15,8.48628125,Lines
+Nelson,2024-08-15,8.48628125,Lines
+Nelson,2024-11-15,8.48628125,Lines
+Nelson,2025-02-15,8.48628125,Lines
+Nelson,2025-05-15,10.51713956,Lines
+Nelson,2025-08-15,10.51713956,Lines
+Nelson,2025-11-15,10.51713956,Lines
+Nelson,2026-02-15,10.51713956,Lines
+Nelson,2026-05-15,11.45982188,Lines
+Nelson,2026-08-15,11.45982188,Lines
+Richmond,2019-02-15,9.214770313,Lines
+Richmond,2019-05-15,8.538570313,Lines
+Richmond,2019-08-15,8.538570313,Lines
+Richmond,2019-11-15,8.538570313,Lines
+Richmond,2020-02-15,8.538570313,Lines
+Richmond,2020-05-15,9.005470313,Lines
+Richmond,2020-08-15,9.005470313,Lines
+Richmond,2020-11-15,9.005470313,Lines
+Richmond,2021-02-15,9.005470313,Lines
+Richmond,2021-05-15,9.509170313,Lines
+Richmond,2021-08-15,9.509170313,Lines
+Richmond,2021-11-15,9.509170313,Lines
+Richmond,2022-02-15,9.509170313,Lines
+Richmond,2022-05-15,9.728640625,Lines
+Richmond,2022-08-15,9.728640625,Lines
+Richmond,2022-11-15,9.728640625,Lines
+Richmond,2023-02-15,9.728640625,Lines
+Richmond,2023-05-15,9.777910938,Lines
+Richmond,2023-08-15,9.777910938,Lines
+Richmond,2023-11-15,9.777910938,Lines
+Richmond,2024-02-15,9.777910938,Lines
+Richmond,2024-05-15,10.271225,Lines
+Richmond,2024-08-15,10.271225,Lines
+Richmond,2024-11-15,10.271225,Lines
+Richmond,2025-02-15,10.271225,Lines
+Richmond,2025-05-15,10.89265625,Lines
+Richmond,2025-08-15,10.89265625,Lines
+Richmond,2025-11-15,10.89265625,Lines
+Richmond,2026-02-15,10.89265625,Lines
+Richmond,2026-05-15,11.8866875,Lines
+Richmond,2026-08-15,11.8866875,Lines
+Oamaru,2019-02-15,9.89756125,Lines
+Oamaru,2019-05-15,10.13490508,Lines
+Oamaru,2019-08-15,10.13490508,Lines
+Oamaru,2019-11-15,10.13490508,Lines
+Oamaru,2020-02-15,10.13490508,Lines
+Oamaru,2020-05-15,10.46252031,Lines
+Oamaru,2020-08-15,10.46252031,Lines
+Oamaru,2020-11-15,10.46252031,Lines
+Oamaru,2021-02-15,10.46252031,Lines
+Oamaru,2021-05-15,10.78429031,Lines
+Oamaru,2021-08-15,10.78429031,Lines
+Oamaru,2021-11-15,10.78429031,Lines
+Oamaru,2022-02-15,10.78429031,Lines
+Oamaru,2022-05-15,11.88730563,Lines
+Oamaru,2022-08-15,11.88730563,Lines
+Oamaru,2022-11-15,11.88730563,Lines
+Oamaru,2023-02-15,11.88730563,Lines
+Oamaru,2023-05-15,12.50145594,Lines
+Oamaru,2023-08-15,12.50145594,Lines
+Oamaru,2023-11-15,12.50145594,Lines
+Oamaru,2024-02-15,12.50145594,Lines
+Oamaru,2024-05-15,14.39268125,Lines
+Oamaru,2024-08-15,14.39268125,Lines
+Oamaru,2024-11-15,14.39268125,Lines
+Oamaru,2025-02-15,14.39268125,Lines
+Oamaru,2025-05-15,17.54971156,Lines
+Oamaru,2025-08-15,17.54971156,Lines
+Oamaru,2025-11-15,17.54971156,Lines
+Oamaru,2026-02-15,17.54971156,Lines
+Oamaru,2026-05-15,19.17080188,Lines
+Oamaru,2026-08-15,19.17080188,Lines
+Whangarei,2019-02-15,12.05757031,Lines
+Whangarei,2019-05-15,12.05757031,Lines
+Whangarei,2019-08-15,12.05757031,Lines
+Whangarei,2019-11-15,12.05757031,Lines
+Whangarei,2020-02-15,12.05757031,Lines
+Whangarei,2020-05-15,12.05757031,Lines
+Whangarei,2020-08-15,12.05757031,Lines
+Whangarei,2020-11-15,12.05757031,Lines
+Whangarei,2021-02-15,12.05757031,Lines
+Whangarei,2021-05-15,12.02537031,Lines
+Whangarei,2021-08-15,12.02537031,Lines
+Whangarei,2021-11-15,12.02537031,Lines
+Whangarei,2022-02-15,12.02537031,Lines
+Whangarei,2022-05-15,12.36956567,Lines
+Whangarei,2022-08-15,12.36956567,Lines
+Whangarei,2022-11-15,12.36956567,Lines
+Whangarei,2023-02-15,12.36956567,Lines
+Whangarei,2023-05-15,13.08301094,Lines
+Whangarei,2023-08-15,13.08301094,Lines
+Whangarei,2023-11-15,13.08301094,Lines
+Whangarei,2024-02-15,13.08301094,Lines
+Whangarei,2024-05-15,14.47778125,Lines
+Whangarei,2024-08-15,14.47778125,Lines
+Whangarei,2024-11-15,14.47778125,Lines
+Whangarei,2025-02-15,14.47778125,Lines
+Whangarei,2025-05-15,16.56945156,Lines
+Whangarei,2025-08-15,16.56945156,Lines
+Whangarei,2025-11-15,16.56945156,Lines
+Whangarei,2026-02-15,16.56945156,Lines
+Whangarei,2026-05-15,17.92512188,Lines
+Whangarei,2026-08-15,17.92512188,Lines
+Christchurch,2019-02-15,11.51871005,Lines
+Christchurch,2019-05-15,10.78358331,Lines
+Christchurch,2019-08-15,10.78358331,Lines
+Christchurch,2019-11-15,10.78358331,Lines
+Christchurch,2020-02-15,10.78358331,Lines
+Christchurch,2020-05-15,10.13130314,Lines
+Christchurch,2020-08-15,10.13130314,Lines
+Christchurch,2020-11-15,10.13130314,Lines
+Christchurch,2021-02-15,10.13130314,Lines
+Christchurch,2021-05-15,10.05221612,Lines
+Christchurch,2021-08-15,10.05221612,Lines
+Christchurch,2021-11-15,10.05221612,Lines
+Christchurch,2022-02-15,10.05221612,Lines
+Christchurch,2022-05-15,10.03365371,Lines
+Christchurch,2022-08-15,10.03365371,Lines
+Christchurch,2022-11-15,10.03365371,Lines
+Christchurch,2023-02-15,10.03365371,Lines
+Christchurch,2023-05-15,9.742458339,Lines
+Christchurch,2023-08-15,9.742458339,Lines
+Christchurch,2023-11-15,9.742458339,Lines
+Christchurch,2024-02-15,9.742458339,Lines
+Christchurch,2024-05-15,10.58786155,Lines
+Christchurch,2024-08-15,10.58786155,Lines
+Christchurch,2024-11-15,10.58786155,Lines
+Christchurch,2025-02-15,10.58786155,Lines
+Christchurch,2025-05-15,13.24184207,Lines
+Christchurch,2025-08-15,13.24184207,Lines
+Christchurch,2025-11-15,13.24184207,Lines
+Christchurch,2026-02-15,13.24184207,Lines
+Christchurch,2026-05-15,14.61525137,Lines
+Christchurch,2026-08-15,14.61525137,Lines
+Balclutha,2019-02-15,21.47722031,Lines
+Balclutha,2019-05-15,21.43752231,Lines
+Balclutha,2019-08-15,21.43752231,Lines
+Balclutha,2019-11-15,21.43752231,Lines
+Balclutha,2020-02-15,21.43752231,Lines
+Balclutha,2020-05-15,19.19786281,Lines
+Balclutha,2020-08-15,19.19786281,Lines
+Balclutha,2020-11-15,19.19786281,Lines
+Balclutha,2021-02-15,19.19786281,Lines
+Balclutha,2021-05-15,17.99841281,Lines
+Balclutha,2021-08-15,17.99841281,Lines
+Balclutha,2021-11-15,17.99841281,Lines
+Balclutha,2022-02-15,17.99841281,Lines
+Balclutha,2022-05-15,17.17728849,Lines
+Balclutha,2022-08-15,17.17728849,Lines
+Balclutha,2022-11-15,17.17728849,Lines
+Balclutha,2023-02-15,17.17728849,Lines
+Balclutha,2023-05-15,17.7748926,Lines
+Balclutha,2023-08-15,17.7748926,Lines
+Balclutha,2023-11-15,17.7748926,Lines
+Balclutha,2024-02-15,17.7748926,Lines
+Balclutha,2024-05-15,18.90982674,Lines
+Balclutha,2024-08-15,18.90982674,Lines
+Balclutha,2024-11-15,18.90982674,Lines
+Balclutha,2025-02-15,18.90982674,Lines
+Balclutha,2025-05-15,22.79713523,Lines
+Balclutha,2025-08-15,22.79713523,Lines
+Balclutha,2025-11-15,22.79713523,Lines
+Balclutha,2026-02-15,22.79713523,Lines
+Balclutha,2026-05-15,25.62753277,Lines
+Balclutha,2026-08-15,25.62753277,Lines
+Hawera,2019-02-15,14.59690543,Lines
+Hawera,2019-05-15,13.913505,Lines
+Hawera,2019-08-15,13.913505,Lines
+Hawera,2019-11-15,13.913505,Lines
+Hawera,2020-02-15,13.913505,Lines
+Hawera,2020-05-15,11.9304036,Lines
+Hawera,2020-08-15,11.9304036,Lines
+Hawera,2020-11-15,11.9304036,Lines
+Hawera,2021-02-15,11.9304036,Lines
+Hawera,2021-05-15,12.273444,Lines
+Hawera,2021-08-15,12.273444,Lines
+Hawera,2021-11-15,12.273444,Lines
+Hawera,2022-02-15,12.273444,Lines
+Hawera,2022-05-15,13.51322651,Lines
+Hawera,2022-08-15,13.51322651,Lines
+Hawera,2022-11-15,13.51322651,Lines
+Hawera,2023-02-15,13.51322651,Lines
+Hawera,2023-05-15,14.87162003,Lines
+Hawera,2023-08-15,14.87162003,Lines
+Hawera,2023-11-15,14.87162003,Lines
+Hawera,2024-02-15,14.87162003,Lines
+Hawera,2024-05-15,17.38567125,Lines
+Hawera,2024-08-15,17.38567125,Lines
+Hawera,2024-11-15,17.38567125,Lines
+Hawera,2025-02-15,17.38567125,Lines
+Hawera,2025-05-15,21.28859156,Lines
+Hawera,2025-08-15,21.28859156,Lines
+Hawera,2025-11-15,21.28859156,Lines
+Hawera,2026-02-15,21.28859156,Lines
+Hawera,2026-05-15,24.50231688,Lines
+Hawera,2026-08-15,24.50231688,Lines
+Palmerston North,2019-02-15,11.93344012,Lines
+Palmerston North,2019-05-15,11.5991622,Lines
+Palmerston North,2019-08-15,11.5991622,Lines
+Palmerston North,2019-11-15,11.5991622,Lines
+Palmerston North,2020-02-15,11.5991622,Lines
+Palmerston North,2020-05-15,9.9482958,Lines
+Palmerston North,2020-08-15,9.9482958,Lines
+Palmerston North,2020-11-15,9.9482958,Lines
+Palmerston North,2021-02-15,9.9482958,Lines
+Palmerston North,2021-05-15,10.170738,Lines
+Palmerston North,2021-08-15,10.170738,Lines
+Palmerston North,2021-11-15,10.170738,Lines
+Palmerston North,2022-02-15,10.170738,Lines
+Palmerston North,2022-05-15,11.20819871,Lines
+Palmerston North,2022-08-15,11.20819871,Lines
+Palmerston North,2022-11-15,11.20819871,Lines
+Palmerston North,2023-02-15,11.20819871,Lines
+Palmerston North,2023-05-15,12.13859903,Lines
+Palmerston North,2023-08-15,12.13859903,Lines
+Palmerston North,2023-11-15,12.13859903,Lines
+Palmerston North,2024-02-15,12.13859903,Lines
+Palmerston North,2024-05-15,13.93578625,Lines
+Palmerston North,2024-08-15,13.93578625,Lines
+Palmerston North,2024-11-15,13.93578625,Lines
+Palmerston North,2025-02-15,13.93578625,Lines
+Palmerston North,2025-05-15,18.20164656,Lines
+Palmerston North,2025-08-15,18.20164656,Lines
+Palmerston North,2025-11-15,18.20164656,Lines
+Palmerston North,2026-02-15,18.20164656,Lines
+Palmerston North,2026-05-15,19.66294438,Lines
+Palmerston North,2026-08-15,19.66294438,Lines
+New Plymouth,2019-02-15,11.93344012,Lines
+New Plymouth,2019-05-15,11.5991622,Lines
+New Plymouth,2019-08-15,11.5991622,Lines
+New Plymouth,2019-11-15,11.5991622,Lines
+New Plymouth,2020-02-15,11.5991622,Lines
+New Plymouth,2020-05-15,9.9482958,Lines
+New Plymouth,2020-08-15,9.9482958,Lines
+New Plymouth,2020-11-15,9.9482958,Lines
+New Plymouth,2021-02-15,9.9482958,Lines
+New Plymouth,2021-05-15,10.170738,Lines
+New Plymouth,2021-08-15,10.170738,Lines
+New Plymouth,2021-11-15,10.170738,Lines
+New Plymouth,2022-02-15,10.170738,Lines
+New Plymouth,2022-05-15,11.20819871,Lines
+New Plymouth,2022-08-15,11.20819871,Lines
+New Plymouth,2022-11-15,11.20819871,Lines
+New Plymouth,2023-02-15,11.20819871,Lines
+New Plymouth,2023-05-15,12.13859903,Lines
+New Plymouth,2023-08-15,12.13859903,Lines
+New Plymouth,2023-11-15,12.13859903,Lines
+New Plymouth,2024-02-15,12.13859903,Lines
+New Plymouth,2024-05-15,13.93578625,Lines
+New Plymouth,2024-08-15,13.93578625,Lines
+New Plymouth,2024-11-15,13.93578625,Lines
+New Plymouth,2025-02-15,13.93578625,Lines
+New Plymouth,2025-05-15,18.20164656,Lines
+New Plymouth,2025-08-15,18.20164656,Lines
+New Plymouth,2025-11-15,18.20164656,Lines
+New Plymouth,2026-02-15,18.20164656,Lines
+New Plymouth,2026-05-15,19.66294438,Lines
+New Plymouth,2026-08-15,19.66294438,Lines
+Tauranga,2019-02-15,12.08747031,Lines
+Tauranga,2019-05-15,12.05067031,Lines
+Tauranga,2019-08-15,12.05067031,Lines
+Tauranga,2019-11-15,12.05067031,Lines
+Tauranga,2020-02-15,12.05067031,Lines
+Tauranga,2020-05-15,10.63847031,Lines
+Tauranga,2020-08-15,10.63847031,Lines
+Tauranga,2020-11-15,10.63847031,Lines
+Tauranga,2021-02-15,10.63847031,Lines
+Tauranga,2021-05-15,10.69597031,Lines
+Tauranga,2021-08-15,10.69597031,Lines
+Tauranga,2021-11-15,10.69597031,Lines
+Tauranga,2022-02-15,10.69597031,Lines
+Tauranga,2022-05-15,11.18914063,Lines
+Tauranga,2022-08-15,11.18914063,Lines
+Tauranga,2022-11-15,11.18914063,Lines
+Tauranga,2023-02-15,11.18914063,Lines
+Tauranga,2023-05-15,11.21771094,Lines
+Tauranga,2023-08-15,11.21771094,Lines
+Tauranga,2023-11-15,11.21771094,Lines
+Tauranga,2024-02-15,11.21771094,Lines
+Tauranga,2024-05-15,11.47168125,Lines
+Tauranga,2024-08-15,11.47168125,Lines
+Tauranga,2024-11-15,11.47168125,Lines
+Tauranga,2025-02-15,11.47168125,Lines
+Tauranga,2025-05-15,14.48795156,Lines
+Tauranga,2025-08-15,14.48795156,Lines
+Tauranga,2025-11-15,14.48795156,Lines
+Tauranga,2026-02-15,14.48795156,Lines
+Tauranga,2026-05-15,15.57912188,Lines
+Tauranga,2026-08-15,15.57912188,Lines
+Thames,2019-02-15,13.19377031,Lines
+Thames,2019-05-15,13.05758731,Lines
+Thames,2019-08-15,13.05758731,Lines
+Thames,2019-11-15,13.05758731,Lines
+Thames,2020-02-15,13.05758731,Lines
+Thames,2020-05-15,11.36644331,Lines
+Thames,2020-08-15,11.36644331,Lines
+Thames,2020-11-15,11.36644331,Lines
+Thames,2021-02-15,11.36644331,Lines
+Thames,2021-05-15,11.36478731,Lines
+Thames,2021-08-15,11.36478731,Lines
+Thames,2021-11-15,11.36478731,Lines
+Thames,2022-02-15,11.36478731,Lines
+Thames,2022-05-15,11.91860863,Lines
+Thames,2022-08-15,11.91860863,Lines
+Thames,2022-11-15,11.91860863,Lines
+Thames,2023-02-15,11.91860863,Lines
+Thames,2023-05-15,12.78713894,Lines
+Thames,2023-08-15,12.78713894,Lines
+Thames,2023-11-15,12.78713894,Lines
+Thames,2024-02-15,12.78713894,Lines
+Thames,2024-05-15,13.14302225,Lines
+Thames,2024-08-15,13.14302225,Lines
+Thames,2024-11-15,13.14302225,Lines
+Thames,2025-02-15,13.14302225,Lines
+Thames,2025-05-15,16.95980756,Lines
+Thames,2025-08-15,16.95980756,Lines
+Thames,2025-11-15,16.95980756,Lines
+Thames,2026-02-15,16.95980756,Lines
+Thames,2026-05-15,18.44887788,Lines
+Thames,2026-08-15,18.44887788,Lines
+Masterton,2019-02-15,14.59690543,Lines
+Masterton,2019-05-15,13.913505,Lines
+Masterton,2019-08-15,13.913505,Lines
+Masterton,2019-11-15,13.913505,Lines
+Masterton,2020-02-15,13.913505,Lines
+Masterton,2020-05-15,11.9304036,Lines
+Masterton,2020-08-15,11.9304036,Lines
+Masterton,2020-11-15,11.9304036,Lines
+Masterton,2021-02-15,11.9304036,Lines
+Masterton,2021-05-15,12.273444,Lines
+Masterton,2021-08-15,12.273444,Lines
+Masterton,2021-11-15,12.273444,Lines
+Masterton,2022-02-15,12.273444,Lines
+Masterton,2022-05-15,13.51322651,Lines
+Masterton,2022-08-15,13.51322651,Lines
+Masterton,2022-11-15,13.51322651,Lines
+Masterton,2023-02-15,13.51322651,Lines
+Masterton,2023-05-15,14.87162003,Lines
+Masterton,2023-08-15,14.87162003,Lines
+Masterton,2023-11-15,14.87162003,Lines
+Masterton,2024-02-15,14.87162003,Lines
+Masterton,2024-05-15,17.38567125,Lines
+Masterton,2024-08-15,17.38567125,Lines
+Masterton,2024-11-15,17.38567125,Lines
+Masterton,2025-02-15,17.38567125,Lines
+Masterton,2025-05-15,21.28859156,Lines
+Masterton,2025-08-15,21.28859156,Lines
+Masterton,2025-11-15,21.28859156,Lines
+Masterton,2026-02-15,21.28859156,Lines
+Masterton,2026-05-15,24.50231688,Lines
+Masterton,2026-08-15,24.50231688,Lines
+Whanganui,2019-02-15,11.93344012,Lines
+Whanganui,2019-05-15,11.5991622,Lines
+Whanganui,2019-08-15,11.5991622,Lines
+Whanganui,2019-11-15,11.5991622,Lines
+Whanganui,2020-02-15,11.5991622,Lines
+Whanganui,2020-05-15,9.9482958,Lines
+Whanganui,2020-08-15,9.9482958,Lines
+Whanganui,2020-11-15,9.9482958,Lines
+Whanganui,2021-02-15,9.9482958,Lines
+Whanganui,2021-05-15,10.170738,Lines
+Whanganui,2021-08-15,10.170738,Lines
+Whanganui,2021-11-15,10.170738,Lines
+Whanganui,2022-02-15,10.170738,Lines
+Whanganui,2022-05-15,11.20819871,Lines
+Whanganui,2022-08-15,11.20819871,Lines
+Whanganui,2022-11-15,11.20819871,Lines
+Whanganui,2023-02-15,11.20819871,Lines
+Whanganui,2023-05-15,12.13859903,Lines
+Whanganui,2023-08-15,12.13859903,Lines
+Whanganui,2023-11-15,12.13859903,Lines
+Whanganui,2024-02-15,12.13859903,Lines
+Whanganui,2024-05-15,13.93578625,Lines
+Whanganui,2024-08-15,13.93578625,Lines
+Whanganui,2024-11-15,13.93578625,Lines
+Whanganui,2025-02-15,13.93578625,Lines
+Whanganui,2025-05-15,18.20164656,Lines
+Whanganui,2025-08-15,18.20164656,Lines
+Whanganui,2025-11-15,18.20164656,Lines
+Whanganui,2026-02-15,18.20164656,Lines
+Whanganui,2026-05-15,19.66294438,Lines
+Whanganui,2026-08-15,19.66294438,Lines
+Dannevirke,2019-02-15,14.66609691,Lines
+Dannevirke,2019-05-15,15.10269119,Lines
+Dannevirke,2019-08-15,15.10269119,Lines
+Dannevirke,2019-11-15,15.10269119,Lines
+Dannevirke,2020-02-15,15.10269119,Lines
+Dannevirke,2020-05-15,15.10269119,Lines
+Dannevirke,2020-08-15,15.10269119,Lines
+Dannevirke,2020-11-15,15.10269119,Lines
+Dannevirke,2021-02-15,15.10269119,Lines
+Dannevirke,2021-05-15,15.10269119,Lines
+Dannevirke,2021-08-15,15.10269119,Lines
+Dannevirke,2021-11-15,15.10269119,Lines
+Dannevirke,2022-02-15,15.10269119,Lines
+Dannevirke,2022-05-15,15.89026151,Lines
+Dannevirke,2022-08-15,15.89026151,Lines
+Dannevirke,2022-11-15,15.89026151,Lines
+Dannevirke,2023-02-15,15.89026151,Lines
+Dannevirke,2023-05-15,18.10546528,Lines
+Dannevirke,2023-08-15,18.10546528,Lines
+Dannevirke,2023-11-15,18.10546528,Lines
+Dannevirke,2024-02-15,18.10546528,Lines
+Dannevirke,2024-05-15,17.85674575,Lines
+Dannevirke,2024-08-15,17.85674575,Lines
+Dannevirke,2024-11-15,17.85674575,Lines
+Dannevirke,2025-02-15,17.85674575,Lines
+Dannevirke,2025-05-15,19.60154156,Lines
+Dannevirke,2025-08-15,19.60154156,Lines
+Dannevirke,2025-11-15,19.60154156,Lines
+Dannevirke,2026-02-15,19.60154156,Lines
+Dannevirke,2026-05-15,20.57558438,Lines
+Dannevirke,2026-08-15,20.57558438,Lines
+Taumaranui,2019-02-15,15.89451952,Lines
+Taumaranui,2019-05-15,15.89451952,Lines
+Taumaranui,2019-08-15,15.89451952,Lines
+Taumaranui,2019-11-15,15.89451952,Lines
+Taumaranui,2020-02-15,15.89451952,Lines
+Taumaranui,2020-05-15,14.41575111,Lines
+Taumaranui,2020-08-15,14.41575111,Lines
+Taumaranui,2020-11-15,14.41575111,Lines
+Taumaranui,2021-02-15,14.41575111,Lines
+Taumaranui,2021-05-15,15.17966046,Lines
+Taumaranui,2021-08-15,15.17966046,Lines
+Taumaranui,2021-11-15,15.17966046,Lines
+Taumaranui,2022-02-15,15.17966046,Lines
+Taumaranui,2022-05-15,16.10353338,Lines
+Taumaranui,2022-08-15,16.10353338,Lines
+Taumaranui,2022-11-15,16.10353338,Lines
+Taumaranui,2023-02-15,16.10353338,Lines
+Taumaranui,2023-05-15,15.39983199,Lines
+Taumaranui,2023-08-15,15.39983199,Lines
+Taumaranui,2023-11-15,15.39983199,Lines
+Taumaranui,2024-02-15,15.39983199,Lines
+Taumaranui,2024-05-15,17.16762,Lines
+Taumaranui,2024-08-15,17.16762,Lines
+Taumaranui,2024-11-15,17.16762,Lines
+Taumaranui,2025-02-15,17.16762,Lines
+Taumaranui,2025-05-15,18.85140921,Lines
+Taumaranui,2025-08-15,18.85140921,Lines
+Taumaranui,2025-11-15,18.85140921,Lines
+Taumaranui,2026-02-15,18.85140921,Lines
+Taumaranui,2026-05-15,20.71751393,Lines
+Taumaranui,2026-08-15,20.71751393,Lines
+Otorohanga,2019-02-15,15.89451952,Lines
+Otorohanga,2019-05-15,15.89451952,Lines
+Otorohanga,2019-08-15,15.89451952,Lines
+Otorohanga,2019-11-15,15.89451952,Lines
+Otorohanga,2020-02-15,15.89451952,Lines
+Otorohanga,2020-05-15,14.41575111,Lines
+Otorohanga,2020-08-15,14.41575111,Lines
+Otorohanga,2020-11-15,14.41575111,Lines
+Otorohanga,2021-02-15,14.41575111,Lines
+Otorohanga,2021-05-15,15.17966046,Lines
+Otorohanga,2021-08-15,15.17966046,Lines
+Otorohanga,2021-11-15,15.17966046,Lines
+Otorohanga,2022-02-15,15.17966046,Lines
+Otorohanga,2022-05-15,16.10353338,Lines
+Otorohanga,2022-08-15,16.10353338,Lines
+Otorohanga,2022-11-15,16.10353338,Lines
+Otorohanga,2023-02-15,16.10353338,Lines
+Otorohanga,2023-05-15,15.39983199,Lines
+Otorohanga,2023-08-15,15.39983199,Lines
+Otorohanga,2023-11-15,15.39983199,Lines
+Otorohanga,2024-02-15,15.39983199,Lines
+Otorohanga,2024-05-15,17.16762,Lines
+Otorohanga,2024-08-15,17.16762,Lines
+Otorohanga,2024-11-15,17.16762,Lines
+Otorohanga,2025-02-15,17.16762,Lines
+Otorohanga,2025-05-15,18.85140921,Lines
+Otorohanga,2025-08-15,18.85140921,Lines
+Otorohanga,2025-11-15,18.85140921,Lines
+Otorohanga,2026-02-15,18.85140921,Lines
+Otorohanga,2026-05-15,20.71751393,Lines
+Otorohanga,2026-08-15,20.71751393,Lines
+Winton,2019-02-15,13.39290288,Lines
+Winton,2019-05-15,13.74801138,Lines
+Winton,2019-08-15,13.74801138,Lines
+Winton,2019-11-15,13.74801138,Lines
+Winton,2020-02-15,13.74801138,Lines
+Winton,2020-05-15,14.06702138,Lines
+Winton,2020-08-15,14.06702138,Lines
+Winton,2020-11-15,14.06702138,Lines
+Winton,2021-02-15,14.06702138,Lines
+Winton,2021-05-15,14.37092038,Lines
+Winton,2021-08-15,14.37092038,Lines
+Winton,2021-11-15,14.37092038,Lines
+Winton,2022-02-15,14.37092038,Lines
+Winton,2022-05-15,15.08847744,Lines
+Winton,2022-08-15,15.08847744,Lines
+Winton,2022-11-15,15.08847744,Lines
+Winton,2023-02-15,15.08847744,Lines
+Winton,2023-05-15,15.38782008,Lines
+Winton,2023-08-15,15.38782008,Lines
+Winton,2023-11-15,15.38782008,Lines
+Winton,2024-02-15,15.38782008,Lines
+Winton,2024-05-15,16.45186722,Lines
+Winton,2024-08-15,16.45186722,Lines
+Winton,2024-11-15,16.45186722,Lines
+Winton,2025-02-15,16.45186722,Lines
+Winton,2025-05-15,17.07453502,Lines
+Winton,2025-08-15,17.07453502,Lines
+Winton,2025-11-15,17.07453502,Lines
+Winton,2026-02-15,17.07453502,Lines
+Winton,2026-05-15,19.23643408,Lines
+Winton,2026-08-15,19.23643408,Lines
+Kerikeri,2019-02-15,22.37307031,Lines
+Kerikeri,2019-05-15,24.58107031,Lines
+Kerikeri,2019-08-15,24.58107031,Lines
+Kerikeri,2019-11-15,24.58107031,Lines
+Kerikeri,2020-02-15,24.58107031,Lines
+Kerikeri,2020-05-15,21.60257031,Lines
+Kerikeri,2020-08-15,21.60257031,Lines
+Kerikeri,2020-11-15,21.60257031,Lines
+Kerikeri,2021-02-15,21.60257031,Lines
+Kerikeri,2021-05-15,21.68307031,Lines
+Kerikeri,2021-08-15,21.68307031,Lines
+Kerikeri,2021-11-15,21.68307031,Lines
+Kerikeri,2022-02-15,21.68307031,Lines
+Kerikeri,2022-05-15,18.61814063,Lines
+Kerikeri,2022-08-15,18.61814063,Lines
+Kerikeri,2022-11-15,18.61814063,Lines
+Kerikeri,2023-02-15,18.61814063,Lines
+Kerikeri,2023-05-15,18.48571094,Lines
+Kerikeri,2023-08-15,18.48571094,Lines
+Kerikeri,2023-11-15,18.48571094,Lines
+Kerikeri,2024-02-15,18.48571094,Lines
+Kerikeri,2024-05-15,19.43428125,Lines
+Kerikeri,2024-08-15,19.43428125,Lines
+Kerikeri,2024-11-15,19.43428125,Lines
+Kerikeri,2025-02-15,19.43428125,Lines
+Kerikeri,2025-05-15,22.06185156,Lines
+Kerikeri,2025-08-15,22.06185156,Lines
+Kerikeri,2025-11-15,22.06185156,Lines
+Kerikeri,2026-02-15,22.06185156,Lines
+Kerikeri,2026-05-15,23.26342188,Lines
+Kerikeri,2026-08-15,23.26342188,Lines
+Napier,2019-02-15,14.81757031,Lines
+Napier,2019-05-15,13.93207031,Lines
+Napier,2019-08-15,13.93207031,Lines
+Napier,2019-11-15,13.93207031,Lines
+Napier,2020-02-15,13.93207031,Lines
+Napier,2020-05-15,12.00007031,Lines
+Napier,2020-08-15,12.00007031,Lines
+Napier,2020-11-15,12.00007031,Lines
+Napier,2021-02-15,12.00007031,Lines
+Napier,2021-05-15,12.00007031,Lines
+Napier,2021-08-15,12.00007031,Lines
+Napier,2021-11-15,12.00007031,Lines
+Napier,2022-02-15,12.00007031,Lines
+Napier,2022-05-15,12.04014063,Lines
+Napier,2022-08-15,12.04014063,Lines
+Napier,2022-11-15,12.04014063,Lines
+Napier,2023-02-15,12.04014063,Lines
+Napier,2023-05-15,12.13771094,Lines
+Napier,2023-08-15,12.13771094,Lines
+Napier,2023-11-15,12.13771094,Lines
+Napier,2024-02-15,12.13771094,Lines
+Napier,2024-05-15,11.89028125,Lines
+Napier,2024-08-15,11.89028125,Lines
+Napier,2024-11-15,11.89028125,Lines
+Napier,2025-02-15,11.89028125,Lines
+Napier,2025-05-15,14.28785156,Lines
+Napier,2025-08-15,14.28785156,Lines
+Napier,2025-11-15,14.28785156,Lines
+Napier,2026-02-15,14.28785156,Lines
+Napier,2026-05-15,16.68542188,Lines
+Napier,2026-08-15,16.68542188,Lines
+Rotorua,2019-02-15,13.66757031,Lines
+Rotorua,2019-05-15,13.20757031,Lines
+Rotorua,2019-08-15,13.20757031,Lines
+Rotorua,2019-11-15,13.20757031,Lines
+Rotorua,2020-02-15,13.20757031,Lines
+Rotorua,2020-05-15,11.42507031,Lines
+Rotorua,2020-08-15,11.42507031,Lines
+Rotorua,2020-11-15,11.42507031,Lines
+Rotorua,2021-02-15,11.42507031,Lines
+Rotorua,2021-05-15,11.08007031,Lines
+Rotorua,2021-08-15,11.08007031,Lines
+Rotorua,2021-11-15,11.08007031,Lines
+Rotorua,2022-02-15,11.08007031,Lines
+Rotorua,2022-05-15,11.12014063,Lines
+Rotorua,2022-08-15,11.12014063,Lines
+Rotorua,2022-11-15,11.12014063,Lines
+Rotorua,2023-02-15,11.12014063,Lines
+Rotorua,2023-05-15,11.21771094,Lines
+Rotorua,2023-08-15,11.21771094,Lines
+Rotorua,2023-11-15,11.21771094,Lines
+Rotorua,2024-02-15,11.21771094,Lines
+Rotorua,2024-05-15,10.97028125,Lines
+Rotorua,2024-08-15,10.97028125,Lines
+Rotorua,2024-11-15,10.97028125,Lines
+Rotorua,2025-02-15,10.97028125,Lines
+Rotorua,2025-05-15,13.59785156,Lines
+Rotorua,2025-08-15,13.59785156,Lines
+Rotorua,2025-11-15,13.59785156,Lines
+Rotorua,2026-02-15,13.59785156,Lines
+Rotorua,2026-05-15,15.32842188,Lines
+Rotorua,2026-08-15,15.32842188,Lines
+Taupo,2019-02-15,13.66757031,Lines
+Taupo,2019-05-15,13.20757031,Lines
+Taupo,2019-08-15,13.20757031,Lines
+Taupo,2019-11-15,13.20757031,Lines
+Taupo,2020-02-15,13.20757031,Lines
+Taupo,2020-05-15,11.42507031,Lines
+Taupo,2020-08-15,11.42507031,Lines
+Taupo,2020-11-15,11.42507031,Lines
+Taupo,2021-02-15,11.42507031,Lines
+Taupo,2021-05-15,11.08007031,Lines
+Taupo,2021-08-15,11.08007031,Lines
+Taupo,2021-11-15,11.08007031,Lines
+Taupo,2022-02-15,11.08007031,Lines
+Taupo,2022-05-15,11.12014063,Lines
+Taupo,2022-08-15,11.12014063,Lines
+Taupo,2022-11-15,11.12014063,Lines
+Taupo,2023-02-15,11.12014063,Lines
+Taupo,2023-05-15,11.21771094,Lines
+Taupo,2023-08-15,11.21771094,Lines
+Taupo,2023-11-15,11.21771094,Lines
+Taupo,2024-02-15,11.21771094,Lines
+Taupo,2024-05-15,10.97028125,Lines
+Taupo,2024-08-15,10.97028125,Lines
+Taupo,2024-11-15,10.97028125,Lines
+Taupo,2025-02-15,10.97028125,Lines
+Taupo,2025-05-15,13.59785156,Lines
+Taupo,2025-08-15,13.59785156,Lines
+Taupo,2025-11-15,13.59785156,Lines
+Taupo,2026-02-15,13.59785156,Lines
+Taupo,2026-05-15,15.32842188,Lines
+Taupo,2026-08-15,15.32842188,Lines
+Auckland North Shore,2019-02-15,11.63207031,Lines
+Auckland North Shore,2019-05-15,11.45957031,Lines
+Auckland North Shore,2019-08-15,11.45957031,Lines
+Auckland North Shore,2019-11-15,11.45957031,Lines
+Auckland North Shore,2020-02-15,11.45957031,Lines
+Auckland North Shore,2020-05-15,10.58436281,Lines
+Auckland North Shore,2020-08-15,10.58436281,Lines
+Auckland North Shore,2020-11-15,10.58436281,Lines
+Auckland North Shore,2021-02-15,10.58436281,Lines
+Auckland North Shore,2021-05-15,11.14566631,Lines
+Auckland North Shore,2021-08-15,11.14566631,Lines
+Auckland North Shore,2021-11-15,11.14566631,Lines
+Auckland North Shore,2022-02-15,11.14566631,Lines
+Auckland North Shore,2022-05-15,11.25469063,Lines
+Auckland North Shore,2022-08-15,11.25469063,Lines
+Auckland North Shore,2022-11-15,11.25469063,Lines
+Auckland North Shore,2023-02-15,11.25469063,Lines
+Auckland North Shore,2023-05-15,11.37066094,Lines
+Auckland North Shore,2023-08-15,11.37066094,Lines
+Auckland North Shore,2023-11-15,11.37066094,Lines
+Auckland North Shore,2024-02-15,11.37066094,Lines
+Auckland North Shore,2024-05-15,11.94904625,Lines
+Auckland North Shore,2024-08-15,11.94904625,Lines
+Auckland North Shore,2024-11-15,11.94904625,Lines
+Auckland North Shore,2025-02-15,11.94904625,Lines
+Auckland North Shore,2025-05-15,14.30245656,Lines
+Auckland North Shore,2025-08-15,14.30245656,Lines
+Auckland North Shore,2025-11-15,14.30245656,Lines
+Auckland North Shore,2026-02-15,14.30245656,Lines
+Auckland North Shore,2026-05-15,16.09079138,Lines
+Auckland North Shore,2026-08-15,16.09079138,Lines
+Auckland Central,2019-02-15,11.63207031,Lines
+Auckland Central,2019-05-15,11.45957031,Lines
+Auckland Central,2019-08-15,11.45957031,Lines
+Auckland Central,2019-11-15,11.45957031,Lines
+Auckland Central,2020-02-15,11.45957031,Lines
+Auckland Central,2020-05-15,10.58436281,Lines
+Auckland Central,2020-08-15,10.58436281,Lines
+Auckland Central,2020-11-15,10.58436281,Lines
+Auckland Central,2021-02-15,10.58436281,Lines
+Auckland Central,2021-05-15,11.14566631,Lines
+Auckland Central,2021-08-15,11.14566631,Lines
+Auckland Central,2021-11-15,11.14566631,Lines
+Auckland Central,2022-02-15,11.14566631,Lines
+Auckland Central,2022-05-15,11.25469063,Lines
+Auckland Central,2022-08-15,11.25469063,Lines
+Auckland Central,2022-11-15,11.25469063,Lines
+Auckland Central,2023-02-15,11.25469063,Lines
+Auckland Central,2023-05-15,11.22116094,Lines
+Auckland Central,2023-08-15,11.22116094,Lines
+Auckland Central,2023-11-15,11.22116094,Lines
+Auckland Central,2024-02-15,11.22116094,Lines
+Auckland Central,2024-05-15,11.88004625,Lines
+Auckland Central,2024-08-15,11.88004625,Lines
+Auckland Central,2024-11-15,11.88004625,Lines
+Auckland Central,2025-02-15,11.88004625,Lines
+Auckland Central,2025-05-15,14.24495656,Lines
+Auckland Central,2025-08-15,14.24495656,Lines
+Auckland Central,2025-11-15,14.24495656,Lines
+Auckland Central,2026-02-15,14.24495656,Lines
+Auckland Central,2026-05-15,16.14829138,Lines
+Auckland Central,2026-08-15,16.14829138,Lines
+Cambridge,2019-02-15,8.612170313,Lines
+Cambridge,2019-05-15,8.736370313,Lines
+Cambridge,2019-08-15,8.736370313,Lines
+Cambridge,2019-11-15,8.736370313,Lines
+Cambridge,2020-02-15,8.736370313,Lines
+Cambridge,2020-05-15,8.736370313,Lines
+Cambridge,2020-08-15,8.736370313,Lines
+Cambridge,2020-11-15,8.736370313,Lines
+Cambridge,2021-02-15,8.736370313,Lines
+Cambridge,2021-05-15,8.885870313,Lines
+Cambridge,2021-08-15,8.885870313,Lines
+Cambridge,2021-11-15,8.885870313,Lines
+Cambridge,2022-02-15,8.885870313,Lines
+Cambridge,2022-05-15,9.657340625,Lines
+Cambridge,2022-08-15,9.657340625,Lines
+Cambridge,2022-11-15,9.657340625,Lines
+Cambridge,2023-02-15,9.657340625,Lines
+Cambridge,2023-05-15,10.70711094,Lines
+Cambridge,2023-08-15,10.70711094,Lines
+Cambridge,2023-11-15,10.70711094,Lines
+Cambridge,2024-02-15,10.70711094,Lines
+Cambridge,2024-05-15,12.24908125,Lines
+Cambridge,2024-08-15,12.24908125,Lines
+Cambridge,2024-11-15,12.24908125,Lines
+Cambridge,2025-02-15,12.24908125,Lines
+Cambridge,2025-05-15,16.46365156,Lines
+Cambridge,2025-08-15,16.46365156,Lines
+Cambridge,2025-11-15,16.46365156,Lines
+Cambridge,2026-02-15,16.46365156,Lines
+Cambridge,2026-05-15,16.58422188,Lines
+Cambridge,2026-08-15,16.58422188,Lines
+Hamilton,2019-02-15,12.73607031,Lines
+Hamilton,2019-05-15,11.49626451,Lines
+Hamilton,2019-08-15,11.49626451,Lines
+Hamilton,2019-11-15,11.49626451,Lines
+Hamilton,2020-02-15,11.49626451,Lines
+Hamilton,2020-05-15,10.61732204,Lines
+Hamilton,2020-08-15,10.61732204,Lines
+Hamilton,2020-11-15,10.61732204,Lines
+Hamilton,2021-02-15,10.61732204,Lines
+Hamilton,2021-05-15,10.61732204,Lines
+Hamilton,2021-08-15,10.61732204,Lines
+Hamilton,2021-11-15,10.61732204,Lines
+Hamilton,2022-02-15,10.61732204,Lines
+Hamilton,2022-05-15,10.42758487,Lines
+Hamilton,2022-08-15,10.42758487,Lines
+Hamilton,2022-11-15,10.42758487,Lines
+Hamilton,2023-02-15,10.42758487,Lines
+Hamilton,2023-05-15,10.97053592,Lines
+Hamilton,2023-08-15,10.97053592,Lines
+Hamilton,2023-11-15,10.97053592,Lines
+Hamilton,2024-02-15,10.97053592,Lines
+Hamilton,2024-05-15,11.63790892,Lines
+Hamilton,2024-08-15,11.63790892,Lines
+Hamilton,2024-11-15,11.63790892,Lines
+Hamilton,2025-02-15,11.63790892,Lines
+Hamilton,2025-05-15,13.53326135,Lines
+Hamilton,2025-08-15,13.53326135,Lines
+Hamilton,2025-11-15,13.53326135,Lines
+Hamilton,2026-02-15,13.53326135,Lines
+Hamilton,2026-05-15,15.01482608,Lines
+Hamilton,2026-08-15,15.01482608,Lines
+Wellington City,2019-02-15,11.47107031,Lines
+Wellington City,2019-05-15,11.25257031,Lines
+Wellington City,2019-08-15,11.25257031,Lines
+Wellington City,2019-11-15,11.25257031,Lines
+Wellington City,2020-02-15,11.25257031,Lines
+Wellington City,2020-05-15,9.700070313,Lines
+Wellington City,2020-08-15,9.700070313,Lines
+Wellington City,2020-11-15,9.700070313,Lines
+Wellington City,2021-02-15,9.700070313,Lines
+Wellington City,2021-05-15,10.18307031,Lines
+Wellington City,2021-08-15,10.18307031,Lines
+Wellington City,2021-11-15,10.18307031,Lines
+Wellington City,2022-02-15,10.18307031,Lines
+Wellington City,2022-05-15,9.970140625,Lines
+Wellington City,2022-08-15,9.970140625,Lines
+Wellington City,2022-11-15,9.970140625,Lines
+Wellington City,2023-02-15,9.970140625,Lines
+Wellington City,2023-05-15,9.170710938,Lines
+Wellington City,2023-08-15,9.170710938,Lines
+Wellington City,2023-11-15,9.170710938,Lines
+Wellington City,2024-02-15,9.170710938,Lines
+Wellington City,2024-05-15,9.69378125,Lines
+Wellington City,2024-08-15,9.69378125,Lines
+Wellington City,2024-11-15,9.69378125,Lines
+Wellington City,2025-02-15,9.69378125,Lines
+Wellington City,2025-05-15,11.27485156,Lines
+Wellington City,2025-08-15,11.27485156,Lines
+Wellington City,2025-11-15,11.27485156,Lines
+Wellington City,2026-02-15,11.27485156,Lines
+Wellington City,2026-05-15,12.28092188,Lines
+Wellington City,2026-08-15,12.28092188,Lines
+Greymouth,2019-02-15,13.04243031,Lines
+Greymouth,2019-05-15,12.80254031,Lines
+Greymouth,2019-08-15,12.80254031,Lines
+Greymouth,2019-11-15,12.80254031,Lines
+Greymouth,2020-02-15,12.80254031,Lines
+Greymouth,2020-05-15,13.15283031,Lines
+Greymouth,2020-08-15,13.15283031,Lines
+Greymouth,2020-11-15,13.15283031,Lines
+Greymouth,2021-02-15,13.15283031,Lines
+Greymouth,2021-05-15,13.29957031,Lines
+Greymouth,2021-08-15,13.29957031,Lines
+Greymouth,2021-11-15,13.29957031,Lines
+Greymouth,2022-02-15,13.29957031,Lines
+Greymouth,2022-05-15,13.57976063,Lines
+Greymouth,2022-08-15,13.57976063,Lines
+Greymouth,2022-11-15,13.57976063,Lines
+Greymouth,2023-02-15,13.57976063,Lines
+Greymouth,2023-05-15,14.36733094,Lines
+Greymouth,2023-08-15,14.36733094,Lines
+Greymouth,2023-11-15,14.36733094,Lines
+Greymouth,2024-02-15,14.36733094,Lines
+Greymouth,2024-05-15,16.8015234,Lines
+Greymouth,2024-08-15,16.8015234,Lines
+Greymouth,2024-11-15,16.8015234,Lines
+Greymouth,2025-02-15,16.8015234,Lines
+Greymouth,2025-05-15,18.00946316,Lines
+Greymouth,2025-08-15,18.00946316,Lines
+Greymouth,2025-11-15,18.00946316,Lines
+Greymouth,2026-02-15,18.00946316,Lines
+Greymouth,2026-05-15,19.93470548,Lines
+Greymouth,2026-08-15,19.93470548,Lines
+New Zealand,2019-02-15,17.80774308,Energy & Other
+New Zealand,2019-05-15,18.02545541,Energy & Other
+New Zealand,2019-08-15,18.06952363,Energy & Other
+New Zealand,2019-11-15,18.6061583,Energy & Other
+New Zealand,2020-02-15,18.75497321,Energy & Other
+New Zealand,2020-05-15,19.59316539,Energy & Other
+New Zealand,2020-08-15,19.54397465,Energy & Other
+New Zealand,2020-11-15,19.43404124,Energy & Other
+New Zealand,2021-02-15,19.40848066,Energy & Other
+New Zealand,2021-05-15,19.47075879,Energy & Other
+New Zealand,2021-08-15,19.81646314,Energy & Other
+New Zealand,2021-11-15,20.10692961,Energy & Other
+New Zealand,2022-02-15,20.57438521,Energy & Other
+New Zealand,2022-05-15,20.75145387,Energy & Other
+New Zealand,2022-08-15,20.89463741,Energy & Other
+New Zealand,2022-11-15,20.92830133,Energy & Other
+New Zealand,2023-02-15,21.26261843,Energy & Other
+New Zealand,2023-05-15,21.10449776,Energy & Other
+New Zealand,2023-08-15,21.61442855,Energy & Other
+New Zealand,2023-11-15,21.84521826,Energy & Other
+New Zealand,2024-02-15,21.71942969,Energy & Other
+New Zealand,2024-05-15,21.9870003,Energy & Other
+New Zealand,2024-08-15,22.22955357,Energy & Other
+New Zealand,2024-11-15,22.6384003,Energy & Other
+New Zealand,2025-02-15,22.95322006,Energy & Other
+New Zealand,2025-05-15,24.06332943,Energy & Other
+New Zealand,2025-08-15,24.19689058,Energy & Other
+New Zealand,2025-11-15,24.1107747,Energy & Other
+New Zealand,2026-02-15,25.42176198,Energy & Other
+New Zealand,2026-05-15,25.22630766,Energy & Other
+New Zealand,2026-08-15,25.33405757,Energy & Other
+Timaru,2019-02-15,17.20504215,Energy & Other
+Timaru,2019-05-15,16.06143858,Energy & Other
+Timaru,2019-08-15,16.0316728,Energy & Other
+Timaru,2019-11-15,16.63636566,Energy & Other
+Timaru,2020-02-15,16.70578388,Energy & Other
+Timaru,2020-05-15,18.45203043,Energy & Other
+Timaru,2020-08-15,18.44097542,Energy & Other
+Timaru,2020-11-15,18.43921626,Energy & Other
+Timaru,2021-02-15,18.47475265,Energy & Other
+Timaru,2021-05-15,19.68973292,Energy & Other
+Timaru,2021-08-15,19.34175115,Energy & Other
+Timaru,2021-11-15,19.36842647,Energy & Other
+Timaru,2022-02-15,19.72590038,Energy & Other
+Timaru,2022-05-15,19.72446059,Energy & Other
+Timaru,2022-08-15,20.52199318,Energy & Other
+Timaru,2022-11-15,20.56320852,Energy & Other
+Timaru,2023-02-15,20.81309698,Energy & Other
+Timaru,2023-05-15,19.99576174,Energy & Other
+Timaru,2023-08-15,20.39464854,Energy & Other
+Timaru,2023-11-15,20.68823703,Energy & Other
+Timaru,2024-02-15,21.1170707,Energy & Other
+Timaru,2024-05-15,21.02812101,Energy & Other
+Timaru,2024-08-15,20.80420134,Energy & Other
+Timaru,2024-11-15,21.7406757,Energy & Other
+Timaru,2025-02-15,21.86828179,Energy & Other
+Timaru,2025-05-15,23.57604265,Energy & Other
+Timaru,2025-08-15,23.68167655,Energy & Other
+Timaru,2025-11-15,23.67715136,Energy & Other
+Timaru,2026-02-15,24.72790973,Energy & Other
+Timaru,2026-05-15,25.18111374,Energy & Other
+Timaru,2026-08-15,25.25800578,Energy & Other
+Cromwell,2019-02-15,18.53919283,Energy & Other
+Cromwell,2019-05-15,18.3380371,Energy & Other
+Cromwell,2019-08-15,18.26573434,Energy & Other
+Cromwell,2019-11-15,18.89767318,Energy & Other
+Cromwell,2020-02-15,19.06274782,Energy & Other
+Cromwell,2020-05-15,20.01003504,Energy & Other
+Cromwell,2020-08-15,19.97843011,Energy & Other
+Cromwell,2020-11-15,19.20759,Energy & Other
+Cromwell,2021-02-15,19.17681274,Energy & Other
+Cromwell,2021-05-15,19.03735556,Energy & Other
+Cromwell,2021-08-15,19.72680904,Energy & Other
+Cromwell,2021-11-15,19.90338105,Energy & Other
+Cromwell,2022-02-15,20.1249068,Energy & Other
+Cromwell,2022-05-15,19.1526716,Energy & Other
+Cromwell,2022-08-15,20.22533434,Energy & Other
+Cromwell,2022-11-15,20.15159536,Energy & Other
+Cromwell,2023-02-15,20.46116022,Energy & Other
+Cromwell,2023-05-15,19.54038838,Energy & Other
+Cromwell,2023-08-15,19.96383507,Energy & Other
+Cromwell,2023-11-15,20.17777648,Energy & Other
+Cromwell,2024-02-15,20.43287325,Energy & Other
+Cromwell,2024-05-15,20.64567503,Energy & Other
+Cromwell,2024-08-15,21.56332059,Energy & Other
+Cromwell,2024-11-15,22.18458112,Energy & Other
+Cromwell,2025-02-15,22.34010105,Energy & Other
+Cromwell,2025-05-15,23.82999858,Energy & Other
+Cromwell,2025-08-15,23.91085021,Energy & Other
+Cromwell,2025-11-15,23.8830095,Energy & Other
+Cromwell,2026-02-15,25.14473726,Energy & Other
+Cromwell,2026-05-15,24.08012067,Energy & Other
+Cromwell,2026-08-15,24.14946865,Energy & Other
+Dunedin,2019-02-15,16.98663634,Energy & Other
+Dunedin,2019-05-15,17.01347483,Energy & Other
+Dunedin,2019-08-15,16.93125643,Energy & Other
+Dunedin,2019-11-15,17.33976373,Energy & Other
+Dunedin,2020-02-15,17.65291134,Energy & Other
+Dunedin,2020-05-15,18.08016507,Energy & Other
+Dunedin,2020-08-15,18.08678029,Energy & Other
+Dunedin,2020-11-15,17.51232509,Energy & Other
+Dunedin,2021-02-15,17.54274862,Energy & Other
+Dunedin,2021-05-15,17.04358782,Energy & Other
+Dunedin,2021-08-15,17.91555508,Energy & Other
+Dunedin,2021-11-15,18.34832602,Energy & Other
+Dunedin,2022-02-15,18.83655858,Energy & Other
+Dunedin,2022-05-15,18.43620101,Energy & Other
+Dunedin,2022-08-15,19.00339282,Energy & Other
+Dunedin,2022-11-15,18.95910923,Energy & Other
+Dunedin,2023-02-15,19.12430427,Energy & Other
+Dunedin,2023-05-15,19.66388455,Energy & Other
+Dunedin,2023-08-15,20.56113062,Energy & Other
+Dunedin,2023-11-15,20.63080564,Energy & Other
+Dunedin,2024-02-15,20.86825865,Energy & Other
+Dunedin,2024-05-15,21.08740618,Energy & Other
+Dunedin,2024-08-15,22.56670134,Energy & Other
+Dunedin,2024-11-15,23.48486108,Energy & Other
+Dunedin,2025-02-15,23.62287465,Energy & Other
+Dunedin,2025-05-15,24.70263323,Energy & Other
+Dunedin,2025-08-15,24.85512547,Energy & Other
+Dunedin,2025-11-15,24.7914333,Energy & Other
+Dunedin,2026-02-15,25.69461747,Energy & Other
+Dunedin,2026-05-15,25.63862675,Energy & Other
+Dunedin,2026-08-15,25.69505352,Energy & Other
+Queenstown,2019-02-15,18.18270158,Energy & Other
+Queenstown,2019-05-15,18.08353799,Energy & Other
+Queenstown,2019-08-15,18.06558509,Energy & Other
+Queenstown,2019-11-15,18.58935266,Energy & Other
+Queenstown,2020-02-15,18.697225,Energy & Other
+Queenstown,2020-05-15,19.52894626,Energy & Other
+Queenstown,2020-08-15,19.49889776,Energy & Other
+Queenstown,2020-11-15,18.63639907,Energy & Other
+Queenstown,2021-02-15,18.64789718,Energy & Other
+Queenstown,2021-05-15,18.38063417,Energy & Other
+Queenstown,2021-08-15,18.95150891,Energy & Other
+Queenstown,2021-11-15,19.39978323,Energy & Other
+Queenstown,2022-02-15,19.64407045,Energy & Other
+Queenstown,2022-05-15,18.59969324,Energy & Other
+Queenstown,2022-08-15,19.64831148,Energy & Other
+Queenstown,2022-11-15,19.51064421,Energy & Other
+Queenstown,2023-02-15,19.87594578,Energy & Other
+Queenstown,2023-05-15,19.92036351,Energy & Other
+Queenstown,2023-08-15,20.38887132,Energy & Other
+Queenstown,2023-11-15,20.59470112,Energy & Other
+Queenstown,2024-02-15,20.77971606,Energy & Other
+Queenstown,2024-05-15,20.84618261,Energy & Other
+Queenstown,2024-08-15,21.40991758,Energy & Other
+Queenstown,2024-11-15,22.21130586,Energy & Other
+Queenstown,2025-02-15,22.34516781,Energy & Other
+Queenstown,2025-05-15,23.70619705,Energy & Other
+Queenstown,2025-08-15,23.75857822,Energy & Other
+Queenstown,2025-11-15,23.75276206,Energy & Other
+Queenstown,2026-02-15,24.73519288,Energy & Other
+Queenstown,2026-05-15,23.97395036,Energy & Other
+Queenstown,2026-08-15,24.08617448,Energy & Other
+Westport,2019-02-15,20.92158021,Energy & Other
+Westport,2019-05-15,21.06946206,Energy & Other
+Westport,2019-08-15,21.32600315,Energy & Other
+Westport,2019-11-15,21.65525533,Energy & Other
+Westport,2020-02-15,21.98407763,Energy & Other
+Westport,2020-05-15,22.63869944,Energy & Other
+Westport,2020-08-15,22.60049381,Energy & Other
+Westport,2020-11-15,22.54559439,Energy & Other
+Westport,2021-02-15,22.53230802,Energy & Other
+Westport,2021-05-15,23.07824738,Energy & Other
+Westport,2021-08-15,23.29193652,Energy & Other
+Westport,2021-11-15,23.28539399,Energy & Other
+Westport,2022-02-15,23.27146958,Energy & Other
+Westport,2022-05-15,23.781692,Energy & Other
+Westport,2022-08-15,23.98515188,Energy & Other
+Westport,2022-11-15,23.96087611,Energy & Other
+Westport,2023-02-15,23.36522043,Energy & Other
+Westport,2023-05-15,24.4286325,Energy & Other
+Westport,2023-08-15,24.72195691,Energy & Other
+Westport,2023-11-15,24.94867967,Energy & Other
+Westport,2024-02-15,24.88712663,Energy & Other
+Westport,2024-05-15,26.33344835,Energy & Other
+Westport,2024-08-15,27.04853019,Energy & Other
+Westport,2024-11-15,27.61614342,Energy & Other
+Westport,2025-02-15,27.73781349,Energy & Other
+Westport,2025-05-15,27.08554065,Energy & Other
+Westport,2025-08-15,27.13013665,Energy & Other
+Westport,2025-11-15,27.16114782,Energy & Other
+Westport,2026-02-15,27.83396835,Energy & Other
+Westport,2026-05-15,29.03011876,Energy & Other
+Westport,2026-08-15,28.74123217,Energy & Other
+Waipukurau,2019-02-15,16.77753827,Energy & Other
+Waipukurau,2019-05-15,16.91420252,Energy & Other
+Waipukurau,2019-08-15,16.97479165,Energy & Other
+Waipukurau,2019-11-15,17.52173908,Energy & Other
+Waipukurau,2020-02-15,17.59063259,Energy & Other
+Waipukurau,2020-05-15,18.07908794,Energy & Other
+Waipukurau,2020-08-15,18.05148194,Energy & Other
+Waipukurau,2020-11-15,18.04057612,Energy & Other
+Waipukurau,2021-02-15,18.09763771,Energy & Other
+Waipukurau,2021-05-15,19.12573126,Energy & Other
+Waipukurau,2021-08-15,19.25618492,Energy & Other
+Waipukurau,2021-11-15,19.57193491,Energy & Other
+Waipukurau,2022-02-15,20.31770351,Energy & Other
+Waipukurau,2022-05-15,20.8423105,Energy & Other
+Waipukurau,2022-08-15,20.54047321,Energy & Other
+Waipukurau,2022-11-15,20.51554818,Energy & Other
+Waipukurau,2023-02-15,21.00770295,Energy & Other
+Waipukurau,2023-05-15,20.51659038,Energy & Other
+Waipukurau,2023-08-15,20.67669263,Energy & Other
+Waipukurau,2023-11-15,20.7610443,Energy & Other
+Waipukurau,2024-02-15,20.89343023,Energy & Other
+Waipukurau,2024-05-15,21.13226249,Energy & Other
+Waipukurau,2024-08-15,21.56359111,Energy & Other
+Waipukurau,2024-11-15,22.07015931,Energy & Other
+Waipukurau,2025-02-15,22.96307134,Energy & Other
+Waipukurau,2025-05-15,23.63304828,Energy & Other
+Waipukurau,2025-08-15,23.7854959,Energy & Other
+Waipukurau,2025-11-15,23.8764029,Energy & Other
+Waipukurau,2026-02-15,24.89386584,Energy & Other
+Waipukurau,2026-05-15,24.09937982,Energy & Other
+Waipukurau,2026-08-15,24.3712534,Energy & Other
+Pukekohe,2019-02-15,17.34397412,Energy & Other
+Pukekohe,2019-05-15,17.40684666,Energy & Other
+Pukekohe,2019-08-15,17.44879256,Energy & Other
+Pukekohe,2019-11-15,17.89792658,Energy & Other
+Pukekohe,2020-02-15,18.14582481,Energy & Other
+Pukekohe,2020-05-15,18.5987643,Energy & Other
+Pukekohe,2020-08-15,18.60660476,Energy & Other
+Pukekohe,2020-11-15,18.41229144,Energy & Other
+Pukekohe,2021-02-15,18.54000525,Energy & Other
+Pukekohe,2021-05-15,18.21452757,Energy & Other
+Pukekohe,2021-08-15,19.02338815,Energy & Other
+Pukekohe,2021-11-15,19.24793459,Energy & Other
+Pukekohe,2022-02-15,20.04068899,Energy & Other
+Pukekohe,2022-05-15,19.8322691,Energy & Other
+Pukekohe,2022-08-15,19.70792676,Energy & Other
+Pukekohe,2022-11-15,19.77886478,Energy & Other
+Pukekohe,2023-02-15,20.28707462,Energy & Other
+Pukekohe,2023-05-15,19.83159895,Energy & Other
+Pukekohe,2023-08-15,20.13946494,Energy & Other
+Pukekohe,2023-11-15,20.35340473,Energy & Other
+Pukekohe,2024-02-15,20.4682769,Energy & Other
+Pukekohe,2024-05-15,20.35924194,Energy & Other
+Pukekohe,2024-08-15,22.37072515,Energy & Other
+Pukekohe,2024-11-15,22.74776426,Energy & Other
+Pukekohe,2025-02-15,23.45479169,Energy & Other
+Pukekohe,2025-05-15,24.42311573,Energy & Other
+Pukekohe,2025-08-15,24.55780766,Energy & Other
+Pukekohe,2025-11-15,24.62385127,Energy & Other
+Pukekohe,2026-02-15,26.17579478,Energy & Other
+Pukekohe,2026-05-15,25.78457084,Energy & Other
+Pukekohe,2026-08-15,25.93051841,Energy & Other
+Gisborne,2019-02-15,19.00259237,Energy & Other
+Gisborne,2019-05-15,18.95330363,Energy & Other
+Gisborne,2019-08-15,18.7729948,Energy & Other
+Gisborne,2019-11-15,19.44726068,Energy & Other
+Gisborne,2020-02-15,19.69440558,Energy & Other
+Gisborne,2020-05-15,20.56805321,Energy & Other
+Gisborne,2020-08-15,20.56905163,Energy & Other
+Gisborne,2020-11-15,20.5595422,Energy & Other
+Gisborne,2021-02-15,19.39885243,Energy & Other
+Gisborne,2021-05-15,20.72925068,Energy & Other
+Gisborne,2021-08-15,21.1418485,Energy & Other
+Gisborne,2021-11-15,21.65324311,Energy & Other
+Gisborne,2022-02-15,21.91001479,Energy & Other
+Gisborne,2022-05-15,22.25463574,Energy & Other
+Gisborne,2022-08-15,22.64036739,Energy & Other
+Gisborne,2022-11-15,22.82281298,Energy & Other
+Gisborne,2023-02-15,22.84702167,Energy & Other
+Gisborne,2023-05-15,22.61555472,Energy & Other
+Gisborne,2023-08-15,22.57266468,Energy & Other
+Gisborne,2023-11-15,23.04221314,Energy & Other
+Gisborne,2024-02-15,23.03001755,Energy & Other
+Gisborne,2024-05-15,23.3370914,Energy & Other
+Gisborne,2024-08-15,23.6884246,Energy & Other
+Gisborne,2024-11-15,24.4386782,Energy & Other
+Gisborne,2025-02-15,24.7167596,Energy & Other
+Gisborne,2025-05-15,26.1909948,Energy & Other
+Gisborne,2025-08-15,26.46493172,Energy & Other
+Gisborne,2025-11-15,26.44324952,Energy & Other
+Gisborne,2026-02-15,27.18269726,Energy & Other
+Gisborne,2026-05-15,27.35617181,Energy & Other
+Gisborne,2026-08-15,27.47524056,Energy & Other
+Paraparaumu,2019-02-15,16.18835907,Energy & Other
+Paraparaumu,2019-05-15,16.55532737,Energy & Other
+Paraparaumu,2019-08-15,16.77079439,Energy & Other
+Paraparaumu,2019-11-15,17.30197427,Energy & Other
+Paraparaumu,2020-02-15,17.49507654,Energy & Other
+Paraparaumu,2020-05-15,17.76146269,Energy & Other
+Paraparaumu,2020-08-15,17.76813461,Energy & Other
+Paraparaumu,2020-11-15,17.53124144,Energy & Other
+Paraparaumu,2021-02-15,17.82962422,Energy & Other
+Paraparaumu,2021-05-15,17.7048236,Energy & Other
+Paraparaumu,2021-08-15,18.25632371,Energy & Other
+Paraparaumu,2021-11-15,18.64978022,Energy & Other
+Paraparaumu,2022-02-15,19.28281003,Energy & Other
+Paraparaumu,2022-05-15,18.79874333,Energy & Other
+Paraparaumu,2022-08-15,19.10349331,Energy & Other
+Paraparaumu,2022-11-15,19.10358385,Energy & Other
+Paraparaumu,2023-02-15,19.8502133,Energy & Other
+Paraparaumu,2023-05-15,18.73843727,Energy & Other
+Paraparaumu,2023-08-15,18.78294023,Energy & Other
+Paraparaumu,2023-11-15,19.07630291,Energy & Other
+Paraparaumu,2024-02-15,19.28122667,Energy & Other
+Paraparaumu,2024-05-15,19.9082151,Energy & Other
+Paraparaumu,2024-08-15,19.91901224,Energy & Other
+Paraparaumu,2024-11-15,20.72621886,Energy & Other
+Paraparaumu,2025-02-15,21.38026427,Energy & Other
+Paraparaumu,2025-05-15,22.1674285,Energy & Other
+Paraparaumu,2025-08-15,22.63123542,Energy & Other
+Paraparaumu,2025-11-15,22.63295445,Energy & Other
+Paraparaumu,2026-02-15,23.5191364,Energy & Other
+Paraparaumu,2026-05-15,21.71489884,Energy & Other
+Paraparaumu,2026-08-15,21.96436852,Energy & Other
+Ashburton,2019-02-15,19.78314293,Energy & Other
+Ashburton,2019-05-15,19.45477409,Energy & Other
+Ashburton,2019-08-15,19.63659793,Energy & Other
+Ashburton,2019-11-15,19.82094853,Energy & Other
+Ashburton,2020-02-15,19.9627847,Energy & Other
+Ashburton,2020-05-15,20.67542012,Energy & Other
+Ashburton,2020-08-15,20.65569776,Energy & Other
+Ashburton,2020-11-15,20.62328946,Energy & Other
+Ashburton,2021-02-15,20.64374275,Energy & Other
+Ashburton,2021-05-15,21.2329845,Energy & Other
+Ashburton,2021-08-15,21.259118,Energy & Other
+Ashburton,2021-11-15,21.19782261,Energy & Other
+Ashburton,2022-02-15,21.32201739,Energy & Other
+Ashburton,2022-05-15,21.77891389,Energy & Other
+Ashburton,2022-08-15,21.79763564,Energy & Other
+Ashburton,2022-11-15,21.77892062,Energy & Other
+Ashburton,2023-02-15,21.8174417,Energy & Other
+Ashburton,2023-05-15,22.14358908,Energy & Other
+Ashburton,2023-08-15,22.34464896,Energy & Other
+Ashburton,2023-11-15,22.42752195,Energy & Other
+Ashburton,2024-02-15,22.4980643,Energy & Other
+Ashburton,2024-05-15,23.38018347,Energy & Other
+Ashburton,2024-08-15,23.55191374,Energy & Other
+Ashburton,2024-11-15,23.78714874,Energy & Other
+Ashburton,2025-02-15,23.96695845,Energy & Other
+Ashburton,2025-05-15,24.43514261,Energy & Other
+Ashburton,2025-08-15,24.50424964,Energy & Other
+Ashburton,2025-11-15,24.50788407,Energy & Other
+Ashburton,2026-02-15,25.06616351,Energy & Other
+Ashburton,2026-05-15,25.76748007,Energy & Other
+Ashburton,2026-08-15,25.86814457,Energy & Other
+Invercargill,2019-02-15,17.12006563,Energy & Other
+Invercargill,2019-05-15,17.12930062,Energy & Other
+Invercargill,2019-08-15,17.45886671,Energy & Other
+Invercargill,2019-11-15,17.90320787,Energy & Other
+Invercargill,2020-02-15,18.05671746,Energy & Other
+Invercargill,2020-05-15,18.63657778,Energy & Other
+Invercargill,2020-08-15,18.63130133,Energy & Other
+Invercargill,2020-11-15,17.71852305,Energy & Other
+Invercargill,2021-02-15,17.81408499,Energy & Other
+Invercargill,2021-05-15,18.65657803,Energy & Other
+Invercargill,2021-08-15,18.85151119,Energy & Other
+Invercargill,2021-11-15,19.52342955,Energy & Other
+Invercargill,2022-02-15,19.68477157,Energy & Other
+Invercargill,2022-05-15,19.26903407,Energy & Other
+Invercargill,2022-08-15,18.57223391,Energy & Other
+Invercargill,2022-11-15,20.05729637,Energy & Other
+Invercargill,2023-02-15,19.98875566,Energy & Other
+Invercargill,2023-05-15,20.89536482,Energy & Other
+Invercargill,2023-08-15,20.99570068,Energy & Other
+Invercargill,2023-11-15,21.43063052,Energy & Other
+Invercargill,2024-02-15,21.41541082,Energy & Other
+Invercargill,2024-05-15,21.75941266,Energy & Other
+Invercargill,2024-08-15,22.21457516,Energy & Other
+Invercargill,2024-11-15,23.06628435,Energy & Other
+Invercargill,2025-02-15,23.20510373,Energy & Other
+Invercargill,2025-05-15,24.15485233,Energy & Other
+Invercargill,2025-08-15,24.33726149,Energy & Other
+Invercargill,2025-11-15,24.30554252,Energy & Other
+Invercargill,2026-02-15,25.01994205,Energy & Other
+Invercargill,2026-05-15,25.26379962,Energy & Other
+Invercargill,2026-08-15,25.46760039,Energy & Other
+Whakatane,2019-02-15,17.41850765,Energy & Other
+Whakatane,2019-05-15,16.62834244,Energy & Other
+Whakatane,2019-08-15,16.64322843,Energy & Other
+Whakatane,2019-11-15,17.22730348,Energy & Other
+Whakatane,2020-02-15,17.88507613,Energy & Other
+Whakatane,2020-05-15,18.39425241,Energy & Other
+Whakatane,2020-08-15,18.39666033,Energy & Other
+Whakatane,2020-11-15,18.40004249,Energy & Other
+Whakatane,2021-02-15,19.08713854,Energy & Other
+Whakatane,2021-05-15,18.83186117,Energy & Other
+Whakatane,2021-08-15,19.11538631,Energy & Other
+Whakatane,2021-11-15,19.6325981,Energy & Other
+Whakatane,2022-02-15,19.97426499,Energy & Other
+Whakatane,2022-05-15,20.71120106,Energy & Other
+Whakatane,2022-08-15,19.68519948,Energy & Other
+Whakatane,2022-11-15,20.79418577,Energy & Other
+Whakatane,2023-02-15,21.09997336,Energy & Other
+Whakatane,2023-05-15,21.02283649,Energy & Other
+Whakatane,2023-08-15,21.6863391,Energy & Other
+Whakatane,2023-11-15,21.60715638,Energy & Other
+Whakatane,2024-02-15,22.56464947,Energy & Other
+Whakatane,2024-05-15,23.4245055,Energy & Other
+Whakatane,2024-08-15,22.85186902,Energy & Other
+Whakatane,2024-11-15,22.97926313,Energy & Other
+Whakatane,2025-02-15,23.1435174,Energy & Other
+Whakatane,2025-05-15,24.97769004,Energy & Other
+Whakatane,2025-08-15,25.19813542,Energy & Other
+Whakatane,2025-11-15,24.57976332,Energy & Other
+Whakatane,2026-02-15,26.14122797,Energy & Other
+Whakatane,2026-05-15,26.04528932,Energy & Other
+Whakatane,2026-08-15,26.84947624,Energy & Other
+Rangiora,2019-02-15,17.80704065,Energy & Other
+Rangiora,2019-05-15,17.78420561,Energy & Other
+Rangiora,2019-08-15,18.05411969,Energy & Other
+Rangiora,2019-11-15,18.63597679,Energy & Other
+Rangiora,2020-02-15,18.74517356,Energy & Other
+Rangiora,2020-05-15,18.67694933,Energy & Other
+Rangiora,2020-08-15,18.66842286,Energy & Other
+Rangiora,2020-11-15,18.67862976,Energy & Other
+Rangiora,2021-02-15,18.07178584,Energy & Other
+Rangiora,2021-05-15,17.95329833,Energy & Other
+Rangiora,2021-08-15,18.30871776,Energy & Other
+Rangiora,2021-11-15,19.23596042,Energy & Other
+Rangiora,2022-02-15,19.35191486,Energy & Other
+Rangiora,2022-05-15,18.82832032,Energy & Other
+Rangiora,2022-08-15,19.64572152,Energy & Other
+Rangiora,2022-11-15,19.85936903,Energy & Other
+Rangiora,2023-02-15,20.14226267,Energy & Other
+Rangiora,2023-05-15,19.74355008,Energy & Other
+Rangiora,2023-08-15,19.90603454,Energy & Other
+Rangiora,2023-11-15,20.28083922,Energy & Other
+Rangiora,2024-02-15,20.51001464,Energy & Other
+Rangiora,2024-05-15,19.93673805,Energy & Other
+Rangiora,2024-08-15,21.83678955,Energy & Other
+Rangiora,2024-11-15,22.41622214,Energy & Other
+Rangiora,2025-02-15,22.60755327,Energy & Other
+Rangiora,2025-05-15,23.79106694,Energy & Other
+Rangiora,2025-08-15,23.93102202,Energy & Other
+Rangiora,2025-11-15,23.83884503,Energy & Other
+Rangiora,2026-02-15,24.80494472,Energy & Other
+Rangiora,2026-05-15,25.09749724,Energy & Other
+Rangiora,2026-08-15,25.18266062,Energy & Other
+Kaiapoi,2019-02-15,17.81424218,Energy & Other
+Kaiapoi,2019-05-15,17.7646236,Energy & Other
+Kaiapoi,2019-08-15,18.03933835,Energy & Other
+Kaiapoi,2019-11-15,18.65701196,Energy & Other
+Kaiapoi,2020-02-15,18.72908928,Energy & Other
+Kaiapoi,2020-05-15,18.33829409,Energy & Other
+Kaiapoi,2020-08-15,18.32976763,Energy & Other
+Kaiapoi,2020-11-15,18.34045192,Energy & Other
+Kaiapoi,2021-02-15,17.73360083,Energy & Other
+Kaiapoi,2021-05-15,17.41444179,Energy & Other
+Kaiapoi,2021-08-15,17.77483913,Energy & Other
+Kaiapoi,2021-11-15,18.70475261,Energy & Other
+Kaiapoi,2022-02-15,18.80721695,Energy & Other
+Kaiapoi,2022-05-15,18.20316347,Energy & Other
+Kaiapoi,2022-08-15,19.26453749,Energy & Other
+Kaiapoi,2022-11-15,19.478185,Energy & Other
+Kaiapoi,2023-02-15,19.76107863,Energy & Other
+Kaiapoi,2023-05-15,19.36355008,Energy & Other
+Kaiapoi,2023-08-15,19.52603454,Energy & Other
+Kaiapoi,2023-11-15,19.90083922,Energy & Other
+Kaiapoi,2024-02-15,20.13001464,Energy & Other
+Kaiapoi,2024-05-15,19.55673805,Energy & Other
+Kaiapoi,2024-08-15,21.45678955,Energy & Other
+Kaiapoi,2024-11-15,22.03622214,Energy & Other
+Kaiapoi,2025-02-15,22.22755327,Energy & Other
+Kaiapoi,2025-05-15,23.41106694,Energy & Other
+Kaiapoi,2025-08-15,23.55102202,Energy & Other
+Kaiapoi,2025-11-15,23.45884503,Energy & Other
+Kaiapoi,2026-02-15,24.42494472,Energy & Other
+Kaiapoi,2026-05-15,24.71749724,Energy & Other
+Kaiapoi,2026-08-15,24.80266062,Energy & Other
+Blenheim,2019-02-15,20.22861267,Energy & Other
+Blenheim,2019-05-15,20.09913386,Energy & Other
+Blenheim,2019-08-15,20.46666381,Energy & Other
+Blenheim,2019-11-15,20.73884139,Energy & Other
+Blenheim,2020-02-15,20.88407071,Energy & Other
+Blenheim,2020-05-15,21.69896654,Energy & Other
+Blenheim,2020-08-15,21.66729291,Energy & Other
+Blenheim,2020-11-15,21.60741564,Energy & Other
+Blenheim,2021-02-15,21.63427674,Energy & Other
+Blenheim,2021-05-15,22.15454387,Energy & Other
+Blenheim,2021-08-15,22.46301967,Energy & Other
+Blenheim,2021-11-15,22.51323862,Energy & Other
+Blenheim,2022-02-15,22.81142957,Energy & Other
+Blenheim,2022-05-15,22.94803668,Energy & Other
+Blenheim,2022-08-15,22.87835394,Energy & Other
+Blenheim,2022-11-15,22.82608987,Energy & Other
+Blenheim,2023-02-15,22.81329443,Energy & Other
+Blenheim,2023-05-15,22.95514021,Energy & Other
+Blenheim,2023-08-15,23.37241996,Energy & Other
+Blenheim,2023-11-15,23.35128162,Energy & Other
+Blenheim,2024-02-15,23.4121926,Energy & Other
+Blenheim,2024-05-15,24.42753386,Energy & Other
+Blenheim,2024-08-15,24.74571948,Energy & Other
+Blenheim,2024-11-15,25.09432033,Energy & Other
+Blenheim,2025-02-15,25.33083866,Energy & Other
+Blenheim,2025-05-15,26.39636071,Energy & Other
+Blenheim,2025-08-15,26.56767622,Energy & Other
+Blenheim,2025-11-15,26.56648555,Energy & Other
+Blenheim,2026-02-15,27.60852396,Energy & Other
+Blenheim,2026-05-15,27.9677124,Energy & Other
+Blenheim,2026-08-15,28.09209274,Energy & Other
+Nelson,2019-02-15,20.2210848,Energy & Other
+Nelson,2019-05-15,20.15575445,Energy & Other
+Nelson,2019-08-15,20.72544381,Energy & Other
+Nelson,2019-11-15,20.94922731,Energy & Other
+Nelson,2020-02-15,20.92029167,Energy & Other
+Nelson,2020-05-15,21.67103551,Energy & Other
+Nelson,2020-08-15,21.66783363,Energy & Other
+Nelson,2020-11-15,21.59628169,Energy & Other
+Nelson,2021-02-15,21.64893129,Energy & Other
+Nelson,2021-05-15,21.89065429,Energy & Other
+Nelson,2021-08-15,22.30154912,Energy & Other
+Nelson,2021-11-15,22.58033446,Energy & Other
+Nelson,2022-02-15,22.77540257,Energy & Other
+Nelson,2022-05-15,23.35200576,Energy & Other
+Nelson,2022-08-15,23.28526874,Energy & Other
+Nelson,2022-11-15,23.1920798,Energy & Other
+Nelson,2023-02-15,22.70401206,Energy & Other
+Nelson,2023-05-15,23.42253697,Energy & Other
+Nelson,2023-08-15,23.85491155,Energy & Other
+Nelson,2023-11-15,23.91106016,Energy & Other
+Nelson,2024-02-15,23.62114449,Energy & Other
+Nelson,2024-05-15,24.59641456,Energy & Other
+Nelson,2024-08-15,24.68103935,Energy & Other
+Nelson,2024-11-15,25.23187124,Energy & Other
+Nelson,2025-02-15,25.8665076,Energy & Other
+Nelson,2025-05-15,25.64021045,Energy & Other
+Nelson,2025-08-15,25.91681299,Energy & Other
+Nelson,2025-11-15,25.88525951,Energy & Other
+Nelson,2026-02-15,26.59119927,Energy & Other
+Nelson,2026-05-15,27.31863212,Energy & Other
+Nelson,2026-08-15,26.97181906,Energy & Other
+Richmond,2019-02-15,18.71514352,Energy & Other
+Richmond,2019-05-15,18.98408194,Energy & Other
+Richmond,2019-08-15,19.51792046,Energy & Other
+Richmond,2019-11-15,19.98602068,Energy & Other
+Richmond,2020-02-15,20.11914084,Energy & Other
+Richmond,2020-05-15,20.37608782,Energy & Other
+Richmond,2020-08-15,20.39443286,Energy & Other
+Richmond,2020-11-15,20.39307613,Energy & Other
+Richmond,2021-02-15,19.83240179,Energy & Other
+Richmond,2021-05-15,19.65101133,Energy & Other
+Richmond,2021-08-15,21.02551448,Energy & Other
+Richmond,2021-11-15,21.50489991,Energy & Other
+Richmond,2022-02-15,21.81635937,Energy & Other
+Richmond,2022-05-15,21.80346412,Energy & Other
+Richmond,2022-08-15,22.04698146,Energy & Other
+Richmond,2022-11-15,22.08335339,Energy & Other
+Richmond,2023-02-15,22.15851923,Energy & Other
+Richmond,2023-05-15,22.47740865,Energy & Other
+Richmond,2023-08-15,22.79099353,Energy & Other
+Richmond,2023-11-15,22.50965845,Energy & Other
+Richmond,2024-02-15,23.00151912,Energy & Other
+Richmond,2024-05-15,23.61341968,Energy & Other
+Richmond,2024-08-15,23.18898186,Energy & Other
+Richmond,2024-11-15,24.08078685,Energy & Other
+Richmond,2025-02-15,24.41650926,Energy & Other
+Richmond,2025-05-15,25.9533855,Energy & Other
+Richmond,2025-08-15,26.13693159,Energy & Other
+Richmond,2025-11-15,26.14330131,Energy & Other
+Richmond,2026-02-15,26.8031964,Energy & Other
+Richmond,2026-05-15,27.55527091,Energy & Other
+Richmond,2026-08-15,26.89826443,Energy & Other
+Oamaru,2019-02-15,18.03112271,Energy & Other
+Oamaru,2019-05-15,18.03022498,Energy & Other
+Oamaru,2019-08-15,18.47390966,Energy & Other
+Oamaru,2019-11-15,18.7916348,Energy & Other
+Oamaru,2020-02-15,18.84538662,Energy & Other
+Oamaru,2020-05-15,19.00769465,Energy & Other
+Oamaru,2020-08-15,19.00693521,Energy & Other
+Oamaru,2020-11-15,19.0120666,Energy & Other
+Oamaru,2021-02-15,19.06359947,Energy & Other
+Oamaru,2021-05-15,19.44098505,Energy & Other
+Oamaru,2021-08-15,19.89253069,Energy & Other
+Oamaru,2021-11-15,20.02184823,Energy & Other
+Oamaru,2022-02-15,20.16559019,Energy & Other
+Oamaru,2022-05-15,20.39533633,Energy & Other
+Oamaru,2022-08-15,20.4888141,Energy & Other
+Oamaru,2022-11-15,20.62278158,Energy & Other
+Oamaru,2023-02-15,20.82676889,Energy & Other
+Oamaru,2023-05-15,21.23887687,Energy & Other
+Oamaru,2023-08-15,21.61619829,Energy & Other
+Oamaru,2023-11-15,21.77746008,Energy & Other
+Oamaru,2024-02-15,21.89481929,Energy & Other
+Oamaru,2024-05-15,22.34495668,Energy & Other
+Oamaru,2024-08-15,22.72348657,Energy & Other
+Oamaru,2024-11-15,23.00237324,Energy & Other
+Oamaru,2025-02-15,23.14586498,Energy & Other
+Oamaru,2025-05-15,24.20957187,Energy & Other
+Oamaru,2025-08-15,24.31997379,Energy & Other
+Oamaru,2025-11-15,24.26195027,Energy & Other
+Oamaru,2026-02-15,25.08704971,Energy & Other
+Oamaru,2026-05-15,25.48594385,Energy & Other
+Oamaru,2026-08-15,25.55237045,Energy & Other
+Whangarei,2019-02-15,19.03587583,Energy & Other
+Whangarei,2019-05-15,19.04076786,Energy & Other
+Whangarei,2019-08-15,19.10069616,Energy & Other
+Whangarei,2019-11-15,19.68552122,Energy & Other
+Whangarei,2020-02-15,19.86836452,Energy & Other
+Whangarei,2020-05-15,20.54375489,Energy & Other
+Whangarei,2020-08-15,20.52855217,Energy & Other
+Whangarei,2020-11-15,20.51662724,Energy & Other
+Whangarei,2021-02-15,20.58413039,Energy & Other
+Whangarei,2021-05-15,20.55515165,Energy & Other
+Whangarei,2021-08-15,21.05054954,Energy & Other
+Whangarei,2021-11-15,21.23400509,Energy & Other
+Whangarei,2022-02-15,21.85451581,Energy & Other
+Whangarei,2022-05-15,22.16499413,Energy & Other
+Whangarei,2022-08-15,22.01518701,Energy & Other
+Whangarei,2022-11-15,22.00327911,Energy & Other
+Whangarei,2023-02-15,22.52500812,Energy & Other
+Whangarei,2023-05-15,21.41651079,Energy & Other
+Whangarei,2023-08-15,23.05395033,Energy & Other
+Whangarei,2023-11-15,22.86944719,Energy & Other
+Whangarei,2024-02-15,23.13109488,Energy & Other
+Whangarei,2024-05-15,23.3663534,Energy & Other
+Whangarei,2024-08-15,23.67284834,Energy & Other
+Whangarei,2024-11-15,24.07159987,Energy & Other
+Whangarei,2025-02-15,24.22686169,Energy & Other
+Whangarei,2025-05-15,25.60243508,Energy & Other
+Whangarei,2025-08-15,25.65087348,Energy & Other
+Whangarei,2025-11-15,25.64553787,Energy & Other
+Whangarei,2026-02-15,26.5673435,Energy & Other
+Whangarei,2026-05-15,26.44502794,Energy & Other
+Whangarei,2026-08-15,26.60665551,Energy & Other
+Christchurch,2019-02-15,17.46160181,Energy & Other
+Christchurch,2019-05-15,17.73328659,Energy & Other
+Christchurch,2019-08-15,17.72470065,Energy & Other
+Christchurch,2019-11-15,18.15293727,Energy & Other
+Christchurch,2020-02-15,18.29931418,Energy & Other
+Christchurch,2020-05-15,18.99910275,Energy & Other
+Christchurch,2020-08-15,18.84964273,Energy & Other
+Christchurch,2020-11-15,18.8754541,Energy & Other
+Christchurch,2021-02-15,18.68981265,Energy & Other
+Christchurch,2021-05-15,18.69133261,Energy & Other
+Christchurch,2021-08-15,19.1705989,Energy & Other
+Christchurch,2021-11-15,19.54544155,Energy & Other
+Christchurch,2022-02-15,19.92511435,Energy & Other
+Christchurch,2022-05-15,20.32570915,Energy & Other
+Christchurch,2022-08-15,20.34252705,Energy & Other
+Christchurch,2022-11-15,20.32471876,Energy & Other
+Christchurch,2023-02-15,20.46022943,Energy & Other
+Christchurch,2023-05-15,20.00776652,Energy & Other
+Christchurch,2023-08-15,21.01149426,Energy & Other
+Christchurch,2023-11-15,21.3933097,Energy & Other
+Christchurch,2024-02-15,20.58728743,Energy & Other
+Christchurch,2024-05-15,20.67884016,Energy & Other
+Christchurch,2024-08-15,20.99169025,Energy & Other
+Christchurch,2024-11-15,20.55391775,Energy & Other
+Christchurch,2025-02-15,21.34686802,Energy & Other
+Christchurch,2025-05-15,22.46108217,Energy & Other
+Christchurch,2025-08-15,22.44589038,Energy & Other
+Christchurch,2025-11-15,22.29648705,Energy & Other
+Christchurch,2026-02-15,23.39946967,Energy & Other
+Christchurch,2026-05-15,23.91081614,Energy & Other
+Christchurch,2026-08-15,23.99306063,Energy & Other
+Balclutha,2019-02-15,20.42056177,Energy & Other
+Balclutha,2019-05-15,20.63795239,Energy & Other
+Balclutha,2019-08-15,20.68239114,Energy & Other
+Balclutha,2019-11-15,21.14227768,Energy & Other
+Balclutha,2020-02-15,21.24198639,Energy & Other
+Balclutha,2020-05-15,22.3559279,Energy & Other
+Balclutha,2020-08-15,22.32350511,Energy & Other
+Balclutha,2020-11-15,21.8605858,Energy & Other
+Balclutha,2021-02-15,21.88302602,Energy & Other
+Balclutha,2021-05-15,22.80479297,Energy & Other
+Balclutha,2021-08-15,22.93738859,Energy & Other
+Balclutha,2021-11-15,22.95074072,Energy & Other
+Balclutha,2022-02-15,23.12469776,Energy & Other
+Balclutha,2022-05-15,23.3757825,Energy & Other
+Balclutha,2022-08-15,23.45475713,Energy & Other
+Balclutha,2022-11-15,23.14757651,Energy & Other
+Balclutha,2023-02-15,23.09735707,Energy & Other
+Balclutha,2023-05-15,23.49771947,Energy & Other
+Balclutha,2023-08-15,23.76988916,Energy & Other
+Balclutha,2023-11-15,23.95159857,Energy & Other
+Balclutha,2024-02-15,24.05678095,Energy & Other
+Balclutha,2024-05-15,24.68737919,Energy & Other
+Balclutha,2024-08-15,24.75209433,Energy & Other
+Balclutha,2024-11-15,25.425038,Energy & Other
+Balclutha,2025-02-15,25.59318273,Energy & Other
+Balclutha,2025-05-15,26.08359807,Energy & Other
+Balclutha,2025-08-15,26.16422451,Energy & Other
+Balclutha,2025-11-15,26.12832844,Energy & Other
+Balclutha,2026-02-15,27.53308077,Energy & Other
+Balclutha,2026-05-15,26.89682011,Energy & Other
+Balclutha,2026-08-15,25.3694194,Energy & Other
+Hawera,2019-02-15,18.93706172,Energy & Other
+Hawera,2019-05-15,19.56299098,Energy & Other
+Hawera,2019-08-15,19.57394987,Energy & Other
+Hawera,2019-11-15,20.40285368,Energy & Other
+Hawera,2020-02-15,20.65266129,Energy & Other
+Hawera,2020-05-15,21.59920766,Energy & Other
+Hawera,2020-08-15,21.57182362,Energy & Other
+Hawera,2020-11-15,21.53879663,Energy & Other
+Hawera,2021-02-15,21.7391737,Energy & Other
+Hawera,2021-05-15,21.65793254,Energy & Other
+Hawera,2021-08-15,21.76935557,Energy & Other
+Hawera,2021-11-15,22.05273642,Energy & Other
+Hawera,2022-02-15,22.29207089,Energy & Other
+Hawera,2022-05-15,21.85633083,Energy & Other
+Hawera,2022-08-15,22.11358502,Energy & Other
+Hawera,2022-11-15,22.13235666,Energy & Other
+Hawera,2023-02-15,22.83398027,Energy & Other
+Hawera,2023-05-15,22.34918408,Energy & Other
+Hawera,2023-08-15,22.40625495,Energy & Other
+Hawera,2023-11-15,22.5994489,Energy & Other
+Hawera,2024-02-15,23.20041052,Energy & Other
+Hawera,2024-05-15,21.56481566,Energy & Other
+Hawera,2024-08-15,21.57980671,Energy & Other
+Hawera,2024-11-15,21.86970351,Energy & Other
+Hawera,2025-02-15,22.10481325,Energy & Other
+Hawera,2025-05-15,23.61130217,Energy & Other
+Hawera,2025-08-15,23.68899097,Energy & Other
+Hawera,2025-11-15,23.69099348,Energy & Other
+Hawera,2026-02-15,25.25705284,Energy & Other
+Hawera,2026-05-15,23.37994227,Energy & Other
+Hawera,2026-08-15,23.90703268,Energy & Other
+Palmerston North,2019-02-15,17.99580854,Energy & Other
+Palmerston North,2019-05-15,18.66347614,Energy & Other
+Palmerston North,2019-08-15,18.64723271,Energy & Other
+Palmerston North,2019-11-15,19.28963341,Energy & Other
+Palmerston North,2020-02-15,19.49619857,Energy & Other
+Palmerston North,2020-05-15,20.4077397,Energy & Other
+Palmerston North,2020-08-15,20.37822245,Energy & Other
+Palmerston North,2020-11-15,20.09067608,Energy & Other
+Palmerston North,2021-02-15,20.23800493,Energy & Other
+Palmerston North,2021-05-15,20.22283395,Energy & Other
+Palmerston North,2021-08-15,20.46566646,Energy & Other
+Palmerston North,2021-11-15,20.79992457,Energy & Other
+Palmerston North,2022-02-15,21.02705718,Energy & Other
+Palmerston North,2022-05-15,20.70588021,Energy & Other
+Palmerston North,2022-08-15,21.05654932,Energy & Other
+Palmerston North,2022-11-15,21.04917719,Energy & Other
+Palmerston North,2023-02-15,21.62555903,Energy & Other
+Palmerston North,2023-05-15,21.29338422,Energy & Other
+Palmerston North,2023-08-15,21.33982105,Energy & Other
+Palmerston North,2023-11-15,21.62035586,Energy & Other
+Palmerston North,2024-02-15,21.81231416,Energy & Other
+Palmerston North,2024-05-15,20.64947864,Energy & Other
+Palmerston North,2024-08-15,20.7813318,Energy & Other
+Palmerston North,2024-11-15,21.17346899,Energy & Other
+Palmerston North,2025-02-15,21.37016019,Energy & Other
+Palmerston North,2025-05-15,21.6156822,Energy & Other
+Palmerston North,2025-08-15,21.70345531,Energy & Other
+Palmerston North,2025-11-15,21.68826344,Energy & Other
+Palmerston North,2026-02-15,23.05080248,Energy & Other
+Palmerston North,2026-05-15,23.06209617,Energy & Other
+Palmerston North,2026-08-15,23.42105582,Energy & Other
+New Plymouth,2019-02-15,17.86562089,Energy & Other
+New Plymouth,2019-05-15,18.39940424,Energy & Other
+New Plymouth,2019-08-15,18.51794364,Energy & Other
+New Plymouth,2019-11-15,19.13604314,Energy & Other
+New Plymouth,2020-02-15,19.39850864,Energy & Other
+New Plymouth,2020-05-15,20.22788887,Energy & Other
+New Plymouth,2020-08-15,20.20206039,Energy & Other
+New Plymouth,2020-11-15,20.1769475,Energy & Other
+New Plymouth,2021-02-15,20.37588873,Energy & Other
+New Plymouth,2021-05-15,20.38155383,Energy & Other
+New Plymouth,2021-08-15,20.47979763,Energy & Other
+New Plymouth,2021-11-15,20.75459532,Energy & Other
+New Plymouth,2022-02-15,20.88911816,Energy & Other
+New Plymouth,2022-05-15,20.57743934,Energy & Other
+New Plymouth,2022-08-15,20.83066119,Energy & Other
+New Plymouth,2022-11-15,20.84819902,Energy & Other
+New Plymouth,2023-02-15,21.47023462,Energy & Other
+New Plymouth,2023-05-15,21.31289865,Energy & Other
+New Plymouth,2023-08-15,21.57614575,Energy & Other
+New Plymouth,2023-11-15,21.7790176,Energy & Other
+New Plymouth,2024-02-15,22.32898865,Energy & Other
+New Plymouth,2024-05-15,21.12822626,Energy & Other
+New Plymouth,2024-08-15,21.1783464,Energy & Other
+New Plymouth,2024-11-15,21.43949401,Energy & Other
+New Plymouth,2025-02-15,21.61387432,Energy & Other
+New Plymouth,2025-05-15,21.95789519,Energy & Other
+New Plymouth,2025-08-15,22.05148859,Energy & Other
+New Plymouth,2025-11-15,22.03535453,Energy & Other
+New Plymouth,2026-02-15,23.60785292,Energy & Other
+New Plymouth,2026-05-15,23.37257036,Energy & Other
+New Plymouth,2026-08-15,23.80420997,Energy & Other
+Tauranga,2019-02-15,20.99152367,Energy & Other
+Tauranga,2019-05-15,21.04765327,Energy & Other
+Tauranga,2019-08-15,21.02315923,Energy & Other
+Tauranga,2019-11-15,21.77062587,Energy & Other
+Tauranga,2020-02-15,21.82233499,Energy & Other
+Tauranga,2020-05-15,22.80950704,Energy & Other
+Tauranga,2020-08-15,22.77848814,Energy & Other
+Tauranga,2020-11-15,22.72727751,Energy & Other
+Tauranga,2021-02-15,22.68498806,Energy & Other
+Tauranga,2021-05-15,23.48267183,Energy & Other
+Tauranga,2021-08-15,23.55251913,Energy & Other
+Tauranga,2021-11-15,23.58681371,Energy & Other
+Tauranga,2022-02-15,24.36176645,Energy & Other
+Tauranga,2022-05-15,24.06513014,Energy & Other
+Tauranga,2022-08-15,24.2458558,Energy & Other
+Tauranga,2022-11-15,24.2136822,Energy & Other
+Tauranga,2023-02-15,24.44444944,Energy & Other
+Tauranga,2023-05-15,25.2510546,Energy & Other
+Tauranga,2023-08-15,25.77068054,Energy & Other
+Tauranga,2023-11-15,25.78559947,Energy & Other
+Tauranga,2024-02-15,25.73641791,Energy & Other
+Tauranga,2024-05-15,26.90898314,Energy & Other
+Tauranga,2024-08-15,27.19074091,Energy & Other
+Tauranga,2024-11-15,27.19530071,Energy & Other
+Tauranga,2025-02-15,27.40110754,Energy & Other
+Tauranga,2025-05-15,27.67355112,Energy & Other
+Tauranga,2025-08-15,27.94418395,Energy & Other
+Tauranga,2025-11-15,27.78227855,Energy & Other
+Tauranga,2026-02-15,29.73700413,Energy & Other
+Tauranga,2026-05-15,29.45198115,Energy & Other
+Tauranga,2026-08-15,29.43555143,Energy & Other
+Thames,2019-02-15,19.12340025,Energy & Other
+Thames,2019-05-15,19.28034489,Energy & Other
+Thames,2019-08-15,19.25953327,Energy & Other
+Thames,2019-11-15,20.08807497,Energy & Other
+Thames,2020-02-15,20.18501534,Energy & Other
+Thames,2020-05-15,21.27599082,Energy & Other
+Thames,2020-08-15,21.28021093,Energy & Other
+Thames,2020-11-15,21.25831985,Energy & Other
+Thames,2021-02-15,21.32690527,Energy & Other
+Thames,2021-05-15,21.42737259,Energy & Other
+Thames,2021-08-15,21.62583283,Energy & Other
+Thames,2021-11-15,21.66231016,Energy & Other
+Thames,2022-02-15,22.20300413,Energy & Other
+Thames,2022-05-15,22.13417452,Energy & Other
+Thames,2022-08-15,22.29590759,Energy & Other
+Thames,2022-11-15,22.26833756,Energy & Other
+Thames,2023-02-15,23.0236751,Energy & Other
+Thames,2023-05-15,21.93538572,Energy & Other
+Thames,2023-08-15,22.62597132,Energy & Other
+Thames,2023-11-15,22.80158564,Energy & Other
+Thames,2024-02-15,22.64319587,Energy & Other
+Thames,2024-05-15,23.15107578,Energy & Other
+Thames,2024-08-15,23.57412955,Energy & Other
+Thames,2024-11-15,24.06989799,Energy & Other
+Thames,2025-02-15,24.32145717,Energy & Other
+Thames,2025-05-15,24.12453719,Energy & Other
+Thames,2025-08-15,24.21393461,Energy & Other
+Thames,2025-11-15,24.21247014,Energy & Other
+Thames,2026-02-15,25.92405974,Energy & Other
+Thames,2026-05-15,25.57755299,Energy & Other
+Thames,2026-08-15,25.74611009,Energy & Other
+Masterton,2019-02-15,18.90358242,Energy & Other
+Masterton,2019-05-15,19.57296426,Energy & Other
+Masterton,2019-08-15,19.49756109,Energy & Other
+Masterton,2019-11-15,20.2237426,Energy & Other
+Masterton,2020-02-15,20.33132506,Energy & Other
+Masterton,2020-05-15,21.45381598,Energy & Other
+Masterton,2020-08-15,21.4168595,Energy & Other
+Masterton,2020-11-15,21.36120172,Energy & Other
+Masterton,2021-02-15,21.46183971,Energy & Other
+Masterton,2021-05-15,21.17172388,Energy & Other
+Masterton,2021-08-15,21.64964694,Energy & Other
+Masterton,2021-11-15,21.7665981,Energy & Other
+Masterton,2022-02-15,21.82314331,Energy & Other
+Masterton,2022-05-15,21.30991175,Energy & Other
+Masterton,2022-08-15,21.62769682,Energy & Other
+Masterton,2022-11-15,21.62292086,Energy & Other
+Masterton,2023-02-15,22.28849165,Energy & Other
+Masterton,2023-05-15,22.04319076,Energy & Other
+Masterton,2023-08-15,22.38522396,Energy & Other
+Masterton,2023-11-15,22.51365106,Energy & Other
+Masterton,2024-02-15,22.78446576,Energy & Other
+Masterton,2024-05-15,21.27475351,Energy & Other
+Masterton,2024-08-15,21.43604579,Energy & Other
+Masterton,2024-11-15,21.84318583,Energy & Other
+Masterton,2025-02-15,22.08943477,Energy & Other
+Masterton,2025-05-15,23.31385954,Energy & Other
+Masterton,2025-08-15,23.40397066,Energy & Other
+Masterton,2025-11-15,23.41443773,Energy & Other
+Masterton,2026-02-15,24.86923043,Energy & Other
+Masterton,2026-05-15,23.4723891,Energy & Other
+Masterton,2026-08-15,23.76661873,Energy & Other
+Whanganui,2019-02-15,19.18072319,Energy & Other
+Whanganui,2019-05-15,19.65833634,Energy & Other
+Whanganui,2019-08-15,19.67607868,Energy & Other
+Whanganui,2019-11-15,20.26940916,Energy & Other
+Whanganui,2020-02-15,20.39272874,Energy & Other
+Whanganui,2020-05-15,21.31473764,Energy & Other
+Whanganui,2020-08-15,21.29278472,Energy & Other
+Whanganui,2020-11-15,21.27169883,Energy & Other
+Whanganui,2021-02-15,21.33565951,Energy & Other
+Whanganui,2021-05-15,21.4735375,Energy & Other
+Whanganui,2021-08-15,21.65904989,Energy & Other
+Whanganui,2021-11-15,21.67508042,Energy & Other
+Whanganui,2022-02-15,21.96119949,Energy & Other
+Whanganui,2022-05-15,21.55227337,Energy & Other
+Whanganui,2022-08-15,21.82210816,Energy & Other
+Whanganui,2022-11-15,21.81064133,Energy & Other
+Whanganui,2023-02-15,22.41881517,Energy & Other
+Whanganui,2023-05-15,22.05114859,Energy & Other
+Whanganui,2023-08-15,22.53437521,Energy & Other
+Whanganui,2023-11-15,22.76399154,Energy & Other
+Whanganui,2024-02-15,23.07001583,Energy & Other
+Whanganui,2024-05-15,22.00166926,Energy & Other
+Whanganui,2024-08-15,21.95122811,Energy & Other
+Whanganui,2024-11-15,22.21278102,Energy & Other
+Whanganui,2025-02-15,22.40236571,Energy & Other
+Whanganui,2025-05-15,22.52352339,Energy & Other
+Whanganui,2025-08-15,22.65721867,Energy & Other
+Whanganui,2025-11-15,22.61478509,Energy & Other
+Whanganui,2026-02-15,24.2925705,Energy & Other
+Whanganui,2026-05-15,24.16094896,Energy & Other
+Whanganui,2026-08-15,24.38306862,Energy & Other
+Dannevirke,2019-02-15,17.68265562,Energy & Other
+Dannevirke,2019-05-15,17.49399436,Energy & Other
+Dannevirke,2019-08-15,17.59868421,Energy & Other
+Dannevirke,2019-11-15,18.14761733,Energy & Other
+Dannevirke,2020-02-15,18.25996233,Energy & Other
+Dannevirke,2020-05-15,18.73535263,Energy & Other
+Dannevirke,2020-08-15,18.7491437,Energy & Other
+Dannevirke,2020-11-15,18.73697021,Energy & Other
+Dannevirke,2021-02-15,18.82929595,Energy & Other
+Dannevirke,2021-05-15,19.09196343,Energy & Other
+Dannevirke,2021-08-15,19.16347972,Energy & Other
+Dannevirke,2021-11-15,19.46254423,Energy & Other
+Dannevirke,2022-02-15,19.85735894,Energy & Other
+Dannevirke,2022-05-15,19.99010459,Energy & Other
+Dannevirke,2022-08-15,19.84963295,Energy & Other
+Dannevirke,2022-11-15,19.86714258,Energy & Other
+Dannevirke,2023-02-15,20.30986603,Energy & Other
+Dannevirke,2023-05-15,19.76357932,Energy & Other
+Dannevirke,2023-08-15,19.89709081,Energy & Other
+Dannevirke,2023-11-15,20.12867648,Energy & Other
+Dannevirke,2024-02-15,20.46277859,Energy & Other
+Dannevirke,2024-05-15,21.45918085,Energy & Other
+Dannevirke,2024-08-15,21.71728154,Energy & Other
+Dannevirke,2024-11-15,22.19905422,Energy & Other
+Dannevirke,2025-02-15,22.59404449,Energy & Other
+Dannevirke,2025-05-15,23.90661772,Energy & Other
+Dannevirke,2025-08-15,23.98433999,Energy & Other
+Dannevirke,2025-11-15,24.01624785,Energy & Other
+Dannevirke,2026-02-15,24.77480423,Energy & Other
+Dannevirke,2026-05-15,25.61519871,Energy & Other
+Dannevirke,2026-08-15,25.80359288,Energy & Other
+Taumaranui,2019-02-15,18.06434346,Energy & Other
+Taumaranui,2019-05-15,18.1130342,Energy & Other
+Taumaranui,2019-08-15,18.04092044,Energy & Other
+Taumaranui,2019-11-15,18.18169941,Energy & Other
+Taumaranui,2020-02-15,18.94972663,Energy & Other
+Taumaranui,2020-05-15,19.11512874,Energy & Other
+Taumaranui,2020-08-15,19.15551252,Energy & Other
+Taumaranui,2020-11-15,19.08166991,Energy & Other
+Taumaranui,2021-02-15,19.09720748,Energy & Other
+Taumaranui,2021-05-15,19.92080614,Energy & Other
+Taumaranui,2021-08-15,19.90842937,Energy & Other
+Taumaranui,2021-11-15,20.16724529,Energy & Other
+Taumaranui,2022-02-15,20.41104391,Energy & Other
+Taumaranui,2022-05-15,19.83365363,Energy & Other
+Taumaranui,2022-08-15,19.88576623,Energy & Other
+Taumaranui,2022-11-15,20.13494988,Energy & Other
+Taumaranui,2023-02-15,20.34553705,Energy & Other
+Taumaranui,2023-05-15,21.71083998,Energy & Other
+Taumaranui,2023-08-15,21.87484121,Energy & Other
+Taumaranui,2023-11-15,21.90940352,Energy & Other
+Taumaranui,2024-02-15,22.05173815,Energy & Other
+Taumaranui,2024-05-15,22.3861303,Energy & Other
+Taumaranui,2024-08-15,22.65941932,Energy & Other
+Taumaranui,2024-11-15,22.94528214,Energy & Other
+Taumaranui,2025-02-15,23.29874169,Energy & Other
+Taumaranui,2025-05-15,23.90826823,Energy & Other
+Taumaranui,2025-08-15,23.99207547,Energy & Other
+Taumaranui,2025-11-15,23.93911794,Energy & Other
+Taumaranui,2026-02-15,25.99998524,Energy & Other
+Taumaranui,2026-05-15,25.20297187,Energy & Other
+Taumaranui,2026-08-15,25.25716056,Energy & Other
+Otorohanga,2019-02-15,18.06434346,Energy & Other
+Otorohanga,2019-05-15,18.1130342,Energy & Other
+Otorohanga,2019-08-15,18.04092044,Energy & Other
+Otorohanga,2019-11-15,18.18169941,Energy & Other
+Otorohanga,2020-02-15,18.94972663,Energy & Other
+Otorohanga,2020-05-15,19.11512874,Energy & Other
+Otorohanga,2020-08-15,19.15551252,Energy & Other
+Otorohanga,2020-11-15,19.08166991,Energy & Other
+Otorohanga,2021-02-15,19.09720748,Energy & Other
+Otorohanga,2021-05-15,19.92080614,Energy & Other
+Otorohanga,2021-08-15,19.90842937,Energy & Other
+Otorohanga,2021-11-15,20.16724529,Energy & Other
+Otorohanga,2022-02-15,20.41104391,Energy & Other
+Otorohanga,2022-05-15,19.83365363,Energy & Other
+Otorohanga,2022-08-15,19.88576623,Energy & Other
+Otorohanga,2022-11-15,20.13494988,Energy & Other
+Otorohanga,2023-02-15,20.34553705,Energy & Other
+Otorohanga,2023-05-15,21.71083998,Energy & Other
+Otorohanga,2023-08-15,21.87484121,Energy & Other
+Otorohanga,2023-11-15,21.90940352,Energy & Other
+Otorohanga,2024-02-15,22.05173815,Energy & Other
+Otorohanga,2024-05-15,22.3861303,Energy & Other
+Otorohanga,2024-08-15,22.65941932,Energy & Other
+Otorohanga,2024-11-15,22.94528214,Energy & Other
+Otorohanga,2025-02-15,23.29874169,Energy & Other
+Otorohanga,2025-05-15,23.90826823,Energy & Other
+Otorohanga,2025-08-15,23.99207547,Energy & Other
+Otorohanga,2025-11-15,23.93911794,Energy & Other
+Otorohanga,2026-02-15,25.99998524,Energy & Other
+Otorohanga,2026-05-15,25.20297187,Energy & Other
+Otorohanga,2026-08-15,25.25716056,Energy & Other
+Winton,2019-02-15,18.62439126,Energy & Other
+Winton,2019-05-15,18.48843026,Energy & Other
+Winton,2019-08-15,18.71027595,Energy & Other
+Winton,2019-11-15,19.19551209,Energy & Other
+Winton,2020-02-15,19.25211794,Energy & Other
+Winton,2020-05-15,19.46086153,Energy & Other
+Winton,2020-08-15,19.4503911,Energy & Other
+Winton,2020-11-15,18.58672665,Energy & Other
+Winton,2021-02-15,18.63369346,Energy & Other
+Winton,2021-05-15,18.56824897,Energy & Other
+Winton,2021-08-15,19.0624184,Energy & Other
+Winton,2021-11-15,19.87177695,Energy & Other
+Winton,2022-02-15,19.97301797,Energy & Other
+Winton,2022-05-15,19.36265292,Energy & Other
+Winton,2022-08-15,18.68333873,Energy & Other
+Winton,2022-11-15,20.19170622,Energy & Other
+Winton,2023-02-15,20.12755104,Energy & Other
+Winton,2023-05-15,20.69282663,Energy & Other
+Winton,2023-08-15,20.78946792,Energy & Other
+Winton,2023-11-15,21.24693478,Energy & Other
+Winton,2024-02-15,21.20787905,Energy & Other
+Winton,2024-05-15,21.30126141,Energy & Other
+Winton,2024-08-15,21.75582028,Energy & Other
+Winton,2024-11-15,22.70979371,Energy & Other
+Winton,2025-02-15,22.89599009,Energy & Other
+Winton,2025-05-15,24.28301316,Energy & Other
+Winton,2025-08-15,24.31558906,Energy & Other
+Winton,2025-11-15,24.30661942,Energy & Other
+Winton,2026-02-15,24.9717671,Energy & Other
+Winton,2026-05-15,24.74403993,Energy & Other
+Winton,2026-08-15,24.93701046,Energy & Other
+Kerikeri,2019-02-15,18.78532334,Energy & Other
+Kerikeri,2019-05-15,18.01449813,Energy & Other
+Kerikeri,2019-08-15,17.33662343,Energy & Other
+Kerikeri,2019-11-15,18.18131216,Energy & Other
+Kerikeri,2020-02-15,18.23032335,Energy & Other
+Kerikeri,2020-05-15,20.07163039,Energy & Other
+Kerikeri,2020-08-15,20.07894917,Energy & Other
+Kerikeri,2020-11-15,20.04571217,Energy & Other
+Kerikeri,2021-02-15,20.01860601,Energy & Other
+Kerikeri,2021-05-15,20.1279021,Energy & Other
+Kerikeri,2021-08-15,21.2896105,Energy & Other
+Kerikeri,2021-11-15,21.2848126,Energy & Other
+Kerikeri,2022-02-15,22.27087833,Energy & Other
+Kerikeri,2022-05-15,24.97846568,Energy & Other
+Kerikeri,2022-08-15,25.02689745,Energy & Other
+Kerikeri,2022-11-15,24.64921664,Energy & Other
+Kerikeri,2023-02-15,24.94457468,Energy & Other
+Kerikeri,2023-05-15,24.08962495,Energy & Other
+Kerikeri,2023-08-15,25.12388827,Energy & Other
+Kerikeri,2023-11-15,25.55383822,Energy & Other
+Kerikeri,2024-02-15,25.72808849,Energy & Other
+Kerikeri,2024-05-15,26.15807231,Energy & Other
+Kerikeri,2024-08-15,24.80646394,Energy & Other
+Kerikeri,2024-11-15,25.90324112,Energy & Other
+Kerikeri,2025-02-15,25.98864738,Energy & Other
+Kerikeri,2025-05-15,26.36796129,Energy & Other
+Kerikeri,2025-08-15,26.47658285,Energy & Other
+Kerikeri,2025-11-15,26.45793424,Energy & Other
+Kerikeri,2026-02-15,27.49527901,Energy & Other
+Kerikeri,2026-05-15,27.29553486,Energy & Other
+Kerikeri,2026-08-15,27.35461693,Energy & Other
+Napier,2019-02-15,16.46265216,Energy & Other
+Napier,2019-05-15,17.43945955,Energy & Other
+Napier,2019-08-15,17.45413505,Energy & Other
+Napier,2019-11-15,18.00281648,Energy & Other
+Napier,2020-02-15,18.13673526,Energy & Other
+Napier,2020-05-15,19.70909274,Energy & Other
+Napier,2020-08-15,19.72429236,Energy & Other
+Napier,2020-11-15,19.0047919,Energy & Other
+Napier,2021-02-15,19.08933554,Energy & Other
+Napier,2021-05-15,19.11434746,Energy & Other
+Napier,2021-08-15,19.35033404,Energy & Other
+Napier,2021-11-15,19.95105232,Energy & Other
+Napier,2022-02-15,20.87318765,Energy & Other
+Napier,2022-05-15,21.23758176,Energy & Other
+Napier,2022-08-15,21.07525268,Energy & Other
+Napier,2022-11-15,21.07122838,Energy & Other
+Napier,2023-02-15,21.10288203,Energy & Other
+Napier,2023-05-15,20.77013306,Energy & Other
+Napier,2023-08-15,21.46781571,Energy & Other
+Napier,2023-11-15,21.57679558,Energy & Other
+Napier,2024-02-15,21.61354237,Energy & Other
+Napier,2024-05-15,22.36974358,Energy & Other
+Napier,2024-08-15,21.75507583,Energy & Other
+Napier,2024-11-15,22.53270627,Energy & Other
+Napier,2025-02-15,23.61954539,Energy & Other
+Napier,2025-05-15,23.75197859,Energy & Other
+Napier,2025-08-15,24.44867507,Energy & Other
+Napier,2025-11-15,24.64372786,Energy & Other
+Napier,2026-02-15,25.2642504,Energy & Other
+Napier,2026-05-15,24.45848213,Energy & Other
+Napier,2026-08-15,24.66033402,Energy & Other
+Rotorua,2019-02-15,18.8420998,Energy & Other
+Rotorua,2019-05-15,19.36745599,Energy & Other
+Rotorua,2019-08-15,19.37253373,Energy & Other
+Rotorua,2019-11-15,19.78839789,Energy & Other
+Rotorua,2020-02-15,20.06120558,Energy & Other
+Rotorua,2020-05-15,21.24890219,Energy & Other
+Rotorua,2020-08-15,21.20503006,Energy & Other
+Rotorua,2020-11-15,21.15088976,Energy & Other
+Rotorua,2021-02-15,21.31210323,Energy & Other
+Rotorua,2021-05-15,21.64885087,Energy & Other
+Rotorua,2021-08-15,21.82381874,Energy & Other
+Rotorua,2021-11-15,21.87991471,Energy & Other
+Rotorua,2022-02-15,22.65316912,Energy & Other
+Rotorua,2022-05-15,23.09682457,Energy & Other
+Rotorua,2022-08-15,22.85885344,Energy & Other
+Rotorua,2022-11-15,22.83028088,Energy & Other
+Rotorua,2023-02-15,22.83396117,Energy & Other
+Rotorua,2023-05-15,22.99914279,Energy & Other
+Rotorua,2023-08-15,23.92101178,Energy & Other
+Rotorua,2023-11-15,23.65960002,Energy & Other
+Rotorua,2024-02-15,24.03317683,Energy & Other
+Rotorua,2024-05-15,25.24039241,Energy & Other
+Rotorua,2024-08-15,24.83897501,Energy & Other
+Rotorua,2024-11-15,25.11404415,Energy & Other
+Rotorua,2025-02-15,25.46586501,Energy & Other
+Rotorua,2025-05-15,26.11709364,Energy & Other
+Rotorua,2025-08-15,26.62918643,Energy & Other
+Rotorua,2025-11-15,26.66656235,Energy & Other
+Rotorua,2026-02-15,27.55684086,Energy & Other
+Rotorua,2026-05-15,27.43217738,Energy & Other
+Rotorua,2026-08-15,27.60653795,Energy & Other
+Taupo,2019-02-15,18.73329123,Energy & Other
+Taupo,2019-05-15,19.18496799,Energy & Other
+Taupo,2019-08-15,19.27259453,Energy & Other
+Taupo,2019-11-15,19.76011852,Energy & Other
+Taupo,2020-02-15,19.97484,Energy & Other
+Taupo,2020-05-15,21.26301404,Energy & Other
+Taupo,2020-08-15,21.2435029,Energy & Other
+Taupo,2020-11-15,21.22426945,Energy & Other
+Taupo,2021-02-15,21.37114398,Energy & Other
+Taupo,2021-05-15,21.87158109,Energy & Other
+Taupo,2021-08-15,22.10865186,Energy & Other
+Taupo,2021-11-15,22.00323895,Energy & Other
+Taupo,2022-02-15,22.92024719,Energy & Other
+Taupo,2022-05-15,23.2165614,Energy & Other
+Taupo,2022-08-15,23.32822719,Energy & Other
+Taupo,2022-11-15,23.09517829,Energy & Other
+Taupo,2023-02-15,23.20581676,Energy & Other
+Taupo,2023-05-15,23.06390619,Energy & Other
+Taupo,2023-08-15,24.17251935,Energy & Other
+Taupo,2023-11-15,24.14459634,Energy & Other
+Taupo,2024-02-15,24.52345928,Energy & Other
+Taupo,2024-05-15,25.56052041,Energy & Other
+Taupo,2024-08-15,24.9752444,Energy & Other
+Taupo,2024-11-15,25.55401324,Energy & Other
+Taupo,2025-02-15,25.81426957,Energy & Other
+Taupo,2025-05-15,26.38099658,Energy & Other
+Taupo,2025-08-15,26.7644177,Energy & Other
+Taupo,2025-11-15,26.81921422,Energy & Other
+Taupo,2026-02-15,27.81304745,Energy & Other
+Taupo,2026-05-15,27.41001331,Energy & Other
+Taupo,2026-08-15,26.83237234,Energy & Other
+Auckland North Shore,2019-02-15,17.18804649,Energy & Other
+Auckland North Shore,2019-05-15,17.4365656,Energy & Other
+Auckland North Shore,2019-08-15,17.50526986,Energy & Other
+Auckland North Shore,2019-11-15,18.10341987,Energy & Other
+Auckland North Shore,2020-02-15,18.1973855,Energy & Other
+Auckland North Shore,2020-05-15,19.10364646,Energy & Other
+Auckland North Shore,2020-08-15,19.07710212,Energy & Other
+Auckland North Shore,2020-11-15,19.07563001,Energy & Other
+Auckland North Shore,2021-02-15,18.96211201,Energy & Other
+Auckland North Shore,2021-05-15,18.8471422,Energy & Other
+Auckland North Shore,2021-08-15,19.21043635,Energy & Other
+Auckland North Shore,2021-11-15,19.4667393,Energy & Other
+Auckland North Shore,2022-02-15,20.00706017,Energy & Other
+Auckland North Shore,2022-05-15,20.24587739,Energy & Other
+Auckland North Shore,2022-08-15,20.37753042,Energy & Other
+Auckland North Shore,2022-11-15,20.38538171,Energy & Other
+Auckland North Shore,2023-02-15,20.82875377,Energy & Other
+Auckland North Shore,2023-05-15,20.68223795,Energy & Other
+Auckland North Shore,2023-08-15,21.07105024,Energy & Other
+Auckland North Shore,2023-11-15,21.43585992,Energy & Other
+Auckland North Shore,2024-02-15,20.97505894,Energy & Other
+Auckland North Shore,2024-05-15,21.35787984,Energy & Other
+Auckland North Shore,2024-08-15,21.51061958,Energy & Other
+Auckland North Shore,2024-11-15,22.02821062,Energy & Other
+Auckland North Shore,2025-02-15,22.28558256,Energy & Other
+Auckland North Shore,2025-05-15,24.0934269,Energy & Other
+Auckland North Shore,2025-08-15,24.21093067,Energy & Other
+Auckland North Shore,2025-11-15,24.06926721,Energy & Other
+Auckland North Shore,2026-02-15,25.37301399,Energy & Other
+Auckland North Shore,2026-05-15,25.11028128,Energy & Other
+Auckland North Shore,2026-08-15,25.23924016,Energy & Other
+Auckland Central,2019-02-15,16.70460375,Energy & Other
+Auckland Central,2019-05-15,16.93035399,Energy & Other
+Auckland Central,2019-08-15,17.01139981,Energy & Other
+Auckland Central,2019-11-15,17.37479192,Energy & Other
+Auckland Central,2020-02-15,17.46766812,Energy & Other
+Auckland Central,2020-05-15,18.36737279,Energy & Other
+Auckland Central,2020-08-15,18.33849662,Energy & Other
+Auckland Central,2020-11-15,18.31747104,Energy & Other
+Auckland Central,2021-02-15,18.18090757,Energy & Other
+Auckland Central,2021-05-15,18.19623379,Energy & Other
+Auckland Central,2021-08-15,18.5709986,Energy & Other
+Auckland Central,2021-11-15,18.88664463,Energy & Other
+Auckland Central,2022-02-15,19.49603159,Energy & Other
+Auckland Central,2022-05-15,19.83967692,Energy & Other
+Auckland Central,2022-08-15,20.12851281,Energy & Other
+Auckland Central,2022-11-15,20.11197834,Energy & Other
+Auckland Central,2023-02-15,20.42724039,Energy & Other
+Auckland Central,2023-05-15,20.39383782,Energy & Other
+Auckland Central,2023-08-15,20.91401469,Energy & Other
+Auckland Central,2023-11-15,21.2976714,Energy & Other
+Auckland Central,2024-02-15,20.88305159,Energy & Other
+Auckland Central,2024-05-15,21.42930276,Energy & Other
+Auckland Central,2024-08-15,21.51909824,Energy & Other
+Auckland Central,2024-11-15,22.02868586,Energy & Other
+Auckland Central,2025-02-15,22.24909855,Energy & Other
+Auckland Central,2025-05-15,23.92285487,Energy & Other
+Auckland Central,2025-08-15,24.00688802,Energy & Other
+Auckland Central,2025-11-15,23.8453789,Energy & Other
+Auckland Central,2026-02-15,25.42086684,Energy & Other
+Auckland Central,2026-05-15,25.0281309,Energy & Other
+Auckland Central,2026-08-15,25.15616616,Energy & Other
+Cambridge,2019-02-15,19.15141017,Energy & Other
+Cambridge,2019-05-15,19.41366967,Energy & Other
+Cambridge,2019-08-15,19.39614749,Energy & Other
+Cambridge,2019-11-15,19.78990666,Energy & Other
+Cambridge,2020-02-15,19.89718747,Energy & Other
+Cambridge,2020-05-15,20.57501747,Energy & Other
+Cambridge,2020-08-15,20.55905792,Energy & Other
+Cambridge,2020-11-15,20.51727627,Energy & Other
+Cambridge,2021-02-15,20.5713435,Energy & Other
+Cambridge,2021-05-15,20.92443774,Energy & Other
+Cambridge,2021-08-15,21.09373444,Energy & Other
+Cambridge,2021-11-15,21.25004644,Energy & Other
+Cambridge,2022-02-15,21.69120241,Energy & Other
+Cambridge,2022-05-15,21.38066872,Energy & Other
+Cambridge,2022-08-15,21.27395338,Energy & Other
+Cambridge,2022-11-15,21.46720081,Energy & Other
+Cambridge,2023-02-15,21.79398095,Energy & Other
+Cambridge,2023-05-15,21.44017067,Energy & Other
+Cambridge,2023-08-15,21.8484539,Energy & Other
+Cambridge,2023-11-15,21.80348313,Energy & Other
+Cambridge,2024-02-15,22.2224901,Energy & Other
+Cambridge,2024-05-15,22.32709398,Energy & Other
+Cambridge,2024-08-15,23.11753054,Energy & Other
+Cambridge,2024-11-15,23.3931518,Energy & Other
+Cambridge,2025-02-15,23.85741082,Energy & Other
+Cambridge,2025-05-15,24.50312052,Energy & Other
+Cambridge,2025-08-15,24.93308674,Energy & Other
+Cambridge,2025-11-15,24.77646992,Energy & Other
+Cambridge,2026-02-15,26.4251215,Energy & Other
+Cambridge,2026-05-15,27.02456431,Energy & Other
+Cambridge,2026-08-15,27.15770887,Energy & Other
+Hamilton,2019-02-15,17.5209368,Energy & Other
+Hamilton,2019-05-15,18.61005024,Energy & Other
+Hamilton,2019-08-15,18.4831031,Energy & Other
+Hamilton,2019-11-15,19.13818647,Energy & Other
+Hamilton,2020-02-15,19.25117735,Energy & Other
+Hamilton,2020-05-15,20.1664257,Energy & Other
+Hamilton,2020-08-15,20.04073749,Energy & Other
+Hamilton,2020-11-15,19.8560834,Energy & Other
+Hamilton,2021-02-15,19.99944658,Energy & Other
+Hamilton,2021-05-15,20.00227725,Energy & Other
+Hamilton,2021-08-15,20.20092199,Energy & Other
+Hamilton,2021-11-15,20.45162662,Energy & Other
+Hamilton,2022-02-15,20.90983052,Energy & Other
+Hamilton,2022-05-15,21.23385816,Energy & Other
+Hamilton,2022-08-15,21.33799865,Energy & Other
+Hamilton,2022-11-15,21.15298926,Energy & Other
+Hamilton,2023-02-15,21.71612675,Energy & Other
+Hamilton,2023-05-15,21.31967759,Energy & Other
+Hamilton,2023-08-15,21.46230756,Energy & Other
+Hamilton,2023-11-15,21.62224464,Energy & Other
+Hamilton,2024-02-15,21.6449696,Energy & Other
+Hamilton,2024-05-15,21.77629714,Energy & Other
+Hamilton,2024-08-15,21.78108436,Energy & Other
+Hamilton,2024-11-15,22.10549502,Energy & Other
+Hamilton,2025-02-15,22.327999,Energy & Other
+Hamilton,2025-05-15,23.79584171,Energy & Other
+Hamilton,2025-08-15,23.88877766,Energy & Other
+Hamilton,2025-11-15,23.89248747,Energy & Other
+Hamilton,2026-02-15,25.58613553,Energy & Other
+Hamilton,2026-05-15,24.74356382,Energy & Other
+Hamilton,2026-08-15,24.76886927,Energy & Other
+Wellington City,2019-02-15,17.16304073,Energy & Other
+Wellington City,2019-05-15,17.3449772,Energy & Other
+Wellington City,2019-08-15,17.38795159,Energy & Other
+Wellington City,2019-11-15,18.137763,Energy & Other
+Wellington City,2020-02-15,18.32478293,Energy & Other
+Wellington City,2020-05-15,19.247879,Energy & Other
+Wellington City,2020-08-15,19.04699976,Energy & Other
+Wellington City,2020-11-15,19.04894658,Energy & Other
+Wellington City,2021-02-15,19.23968527,Energy & Other
+Wellington City,2021-05-15,18.77857178,Energy & Other
+Wellington City,2021-08-15,18.82533039,Energy & Other
+Wellington City,2021-11-15,19.1685227,Energy & Other
+Wellington City,2022-02-15,19.54030937,Energy & Other
+Wellington City,2022-05-15,20.43719055,Energy & Other
+Wellington City,2022-08-15,20.49028783,Energy & Other
+Wellington City,2022-11-15,20.48426209,Energy & Other
+Wellington City,2023-02-15,20.95368198,Energy & Other
+Wellington City,2023-05-15,21.0288468,Energy & Other
+Wellington City,2023-08-15,21.39997292,Energy & Other
+Wellington City,2023-11-15,21.61262043,Energy & Other
+Wellington City,2024-02-15,21.28997227,Energy & Other
+Wellington City,2024-05-15,21.4772439,Energy & Other
+Wellington City,2024-08-15,21.8425588,Energy & Other
+Wellington City,2024-11-15,22.24968447,Energy & Other
+Wellington City,2025-02-15,22.35729442,Energy & Other
+Wellington City,2025-05-15,23.46115844,Energy & Other
+Wellington City,2025-08-15,23.5185611,Energy & Other
+Wellington City,2025-11-15,23.33877724,Energy & Other
+Wellington City,2026-02-15,24.81160485,Energy & Other
+Wellington City,2026-05-15,24.73060868,Energy & Other
+Wellington City,2026-08-15,24.91758906,Energy & Other
+Greymouth,2019-02-15,21.85316187,Energy & Other
+Greymouth,2019-05-15,22.05278146,Energy & Other
+Greymouth,2019-08-15,22.11063337,Energy & Other
+Greymouth,2019-11-15,22.36818037,Energy & Other
+Greymouth,2020-02-15,22.42501738,Energy & Other
+Greymouth,2020-05-15,23.23099475,Energy & Other
+Greymouth,2020-08-15,23.16740577,Energy & Other
+Greymouth,2020-11-15,23.12720353,Energy & Other
+Greymouth,2021-02-15,23.10457735,Energy & Other
+Greymouth,2021-05-15,23.68012871,Energy & Other
+Greymouth,2021-08-15,23.74665092,Energy & Other
+Greymouth,2021-11-15,23.89996794,Energy & Other
+Greymouth,2022-02-15,24.04685105,Energy & Other
+Greymouth,2022-05-15,24.03065894,Energy & Other
+Greymouth,2022-08-15,24.30871636,Energy & Other
+Greymouth,2022-11-15,24.29308889,Energy & Other
+Greymouth,2023-02-15,24.24026185,Energy & Other
+Greymouth,2023-05-15,24.65493808,Energy & Other
+Greymouth,2023-08-15,24.88525377,Energy & Other
+Greymouth,2023-11-15,25.12512464,Energy & Other
+Greymouth,2024-02-15,25.20944072,Energy & Other
+Greymouth,2024-05-15,25.16551485,Energy & Other
+Greymouth,2024-08-15,26.57034177,Energy & Other
+Greymouth,2024-11-15,27.31417367,Energy & Other
+Greymouth,2025-02-15,27.60348151,Energy & Other
+Greymouth,2025-05-15,27.38042573,Energy & Other
+Greymouth,2025-08-15,27.43669909,Energy & Other
+Greymouth,2025-11-15,27.44198614,Energy & Other
+Greymouth,2026-02-15,28.6764441,Energy & Other
+Greymouth,2026-05-15,28.35756892,Energy & Other
+Greymouth,2026-08-15,28.59298363,Energy & Other
