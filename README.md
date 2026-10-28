@@ -237,8 +237,8 @@ NZ_Electricity_Project/
 ├── Clean/      QSDEP_Clean.xlsx (Power Query, Q5 model), qsdep_long.csv, cpi.csv
 ├── SQL/        nz_electricity.db and query files 00–04
 ├── Power BI/   NZ_Electricity_Dashboard.pbix, PDF export, screenshots
-└── Docs/       Business questions, cleaning log
-```
+
+
 
 ---
 
@@ -250,7 +250,3 @@ NZ_Electricity_Project/
 - Stats NZ – [Infoshare: CPI All Groups for New Zealand](https://infoshare.stats.govt.nz)
 - 1News – [Power prices up for some pre-Christmas, despite wholesale prices falling (19 Oct 2026)](https://www.1news.co.nz/2026/10/19/power-prices-up-for-some-pre-christmas-despite-wholesale-prices-falling/)
 
----
-
-**Author:** Susmita Kumari Giri, Master of Digital Business (AI and Business Analytics), University of Waikato
-[GitHub](https://github.com/Sush1713) · LinkedIn: *add your profile link*
