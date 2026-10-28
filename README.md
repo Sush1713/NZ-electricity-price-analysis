@@ -227,7 +227,7 @@ The Power BI report has two pages:
 
 ![Towns page](Power%20BI/towns.png)
 
----
+  ---
 
 ## 11. Repository structure
 
@@ -236,10 +236,8 @@ NZ_Electricity_Project/
 ├── Raw/        Original MBIE and Stats NZ files (unchanged)
 ├── Clean/      QSDEP_Clean.xlsx (Power Query, Q5 model), qsdep_long.csv, cpi.csv
 ├── SQL/        nz_electricity.db and query files 00–04
-├── Power BI/   NZ_Electricity_Dashboard.pbix, PDF export, screenshots
-
-
-
+└── Power BI/   NZ_Electricity_Dashboard.pbix, PDF export, screenshots
+```
 ---
 
 ## 12. Sources
